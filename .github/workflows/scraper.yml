@@ -45,6 +45,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
+          git pull origin main --rebase
           git add amazon_now_prices.json
           git commit -m "Update price database" || exit 0
           git push
