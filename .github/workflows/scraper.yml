@@ -6,6 +6,8 @@ on:
       - main
   schedule:
     - cron: '*/15 * * * *'
+  repository_dispatch:
+    types: [trigger-scraper]
   workflow_dispatch:
 
 jobs:
