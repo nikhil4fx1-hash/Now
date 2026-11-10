@@ -74,13 +74,11 @@ async def scan_amazon_now():
                     new_price = float((await price_element.inner_text()).replace('₹', '').replace(',', ''))
                     link = "https://www.amazon.in" + await link_element.get_attribute('href')
 
-                    # പഴയ വിലയുമായി താരതമ്യം ചെയ്ത് കുറവാണെങ്കിൽ മാത്രം അലേർട്ട് നൽകുന്നു
                     if asin in price_database:
                         old_price = price_database[asin]['price']
                         if new_price < old_price:
                             send_telegram_alert(title, new_price, old_price, link)
                     
-                    # പുതിയ വില ഡാറ്റാബേസിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുന്നു
                     updated_database[asin] = {"title": title, "price": new_price, "link": link}
             except Exception:
                 continue
