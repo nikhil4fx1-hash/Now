@@ -21,25 +21,15 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-def send_telegram_alert(title, new_price, old_price, link, alert_type="drop"):
-    if alert_type == "drop":
-        drop_amount = old_price - new_price
-        message = (
-            f"📉 *NOW PRICE DROP ALERT* 📉\n\n"
-            f"📦 {title}\n"
-            f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
-            f"❌ Old Price: ~~₹{old_price}~~\n\n"
-            f"🔗 🛒 [Grab it Fast!]({link})"
-        )
-    elif alert_type == "loot":
-        discount = round(((old_price - new_price) / old_price) * 100)
-        message = (
-            f"🚨 *NEW NOW LOOT DEAL* 🚨\n\n"
-            f"📦 {title}\n"
-            f"💰 Deal Price: *₹{new_price}* (~~₹{old_price}~~)\n"
-            f"🔥 Discount: {discount}%\n\n"
-            f"🔗 🛒 [Buy Now]({link})"
-        )
+def send_telegram_alert(title, new_price, old_price, link):
+    drop_amount = round(old_price - new_price, 2)
+    message = (
+        f"📉 *PRICE DROP ALERT* 📉\n\n"
+        f"📦 {title}\n"
+        f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
+        f"❌ Old Price: ~~₹{old_price}~~\n\n"
+        f"🔗 🛒 [Grab it Fast!]({link})"
+    )
     
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
@@ -77,24 +67,20 @@ async def scan_amazon_now():
 
                 title_element = await product.query_selector('h2 a span')
                 price_element = await product.query_selector('.a-price .a-offscreen')
-                mrp_element = await product.query_selector('.a-text-price .a-offscreen')
                 link_element = await product.query_selector('h2 a')
 
                 if title_element and price_element and link_element:
                     title = await title_element.inner_text()
                     new_price = float((await price_element.inner_text()).replace('₹', '').replace(',', ''))
-                    mrp = float((await mrp_element.inner_text()).replace('₹', '').replace(',', '')) if mrp_element else new_price
                     link = "https://www.amazon.in" + await link_element.get_attribute('href')
 
+                    # പഴയ വിലയുമായി താരതമ്യം ചെയ്ത് കുറവാണെങ്കിൽ മാത്രം അലേർട്ട് നൽകുന്നു
                     if asin in price_database:
                         old_price = price_database[asin]['price']
                         if new_price < old_price:
-                            send_telegram_alert(title, new_price, old_price, link, alert_type="drop")
+                            send_telegram_alert(title, new_price, old_price, link)
                     
-                    elif asin not in price_database:
-                        if mrp > 0 and ((mrp - new_price) / mrp) * 100 >= 60:
-                            send_telegram_alert(title, new_price, mrp, link, alert_type="loot")
-
+                    # പുതിയ വില ഡാറ്റാബേസിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുന്നു
                     updated_database[asin] = {"title": title, "price": new_price, "link": link}
             except Exception:
                 continue
