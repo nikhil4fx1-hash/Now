@@ -1,0 +1,48 @@
+name: Amazon Now Tracker
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # ഓരോ 15 മിനിറ്റിലും റൺ ചെയ്യാൻ
+  workflow_dispatch: # മാനുവൽ ആയി റൺ ചെയ്യാൻ
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Create Cookies JSON
+        run: |
+          cat << 'EOF' > cookies.json
+          ${{ secrets.AMAZON_COOKIES }}
+          EOF
+
+      - name: Run Scraper
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          AMAZON_URL: ${{ secrets.AMAZON_URL }}
+        run: python bot.py
+
+      - name: Commit and Push Updated Prices
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          git add amazon_now_prices.json
+          # വിലയിൽ മാറ്റമുണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുക (എറർ ഒഴിവാക്കാൻ || exit 0 നൽകിയിരിക്കുന്നു)
+          git commit -m "Update price database" || exit 0
+          git push
