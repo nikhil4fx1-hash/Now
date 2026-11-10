@@ -1,9 +1,12 @@
 name: Amazon Now Tracker
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '*/15 * * * *' # ഓരോ 15 മിനിറ്റിലും റൺ ചെയ്യാൻ
-  workflow_dispatch: # മാനുവൽ ആയി റൺ ചെയ്യാൻ
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape-and-update:
@@ -43,6 +46,5 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           git add amazon_now_prices.json
-          # വിലയിൽ മാറ്റമുണ്ടെങ്കിൽ മാത്രം പുഷ് ചെയ്യുക (എറർ ഒഴിവാക്കാൻ || exit 0 നൽകിയിരിക്കുന്നു)
           git commit -m "Update price database" || exit 0
           git push
