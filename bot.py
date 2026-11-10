@@ -7,7 +7,6 @@ from playwright.async_api import async_playwright
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
 TELEGRAM_CHANNEL_ID = os.environ.get('CHANNEL_ID')
 
-# താങ്കൾ നൽകിയ എല്ലാ കാറ്റഗറി ലിങ്കുകളും
 AMAZON_NOW_URLS = [
     "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb",
     "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb",
@@ -40,6 +39,7 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
+# പ്രൈസ് ഡ്രോപ്പ് അയക്കാനുള്ള ഫംഗ്ഷൻ
 def send_telegram_alert(title, new_price, old_price, link):
     drop_amount = round(old_price - new_price, 2)
     message = (
@@ -56,6 +56,16 @@ def send_telegram_alert(title, new_price, old_price, link):
         "text": message,
         "parse_mode": "Markdown",
         "disable_web_page_preview": False
+    }
+    requests.post(url, json=payload)
+
+# സ്കാൻ കഴിഞ്ഞു എന്ന് അറിയിക്കാനുള്ള പുതിയ ഫംഗ്ഷൻ
+def send_status_message(text):
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL_ID,
+        "text": text,
+        "parse_mode": "Markdown"
     }
     requests.post(url, json=payload)
 
@@ -76,10 +86,8 @@ async def scan_amazon_now():
 
         page = await context.new_page()
 
-        # ഓരോ ലിങ്കും എടുത്ത് സ്കാൻ ചെയ്യുന്നു
         for url in AMAZON_NOW_URLS:
             try:
-                # ലോഗിൽ കാണാൻ വേണ്ടി കാറ്റഗറിയുടെ പേര് പ്രിന്റ് ചെയ്യുന്നു
                 category_name = url.split('title=')[1].split('&')[0] if 'title=' in url else 'Category'
                 print(f"Scanning category: {category_name}")
                 
@@ -109,7 +117,6 @@ async def scan_amazon_now():
                     except Exception:
                         continue
                 
-                # ആമസോൺ ബ്ലോക്ക് ചെയ്യാതിരിക്കാൻ അടുത്ത പേജിലേക്ക് പോകുന്നതിന് മുൻപ് ഒരു 3 സെക്കന്റ് കാത്തിരിക്കുന്നു
                 await asyncio.sleep(3) 
 
             except Exception as e:
@@ -120,6 +127,9 @@ async def scan_amazon_now():
     
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
+    
+    # സ്കാൻ കഴിഞ്ഞ ശേഷം ടെലിഗ്രാമിലേക്ക് മെസ്സേജ് അയക്കുന്നു
+    send_status_message("✅ *Amazon Now Tracker*\nAll categories scanned successfully.")
     print("All categories scanned and database updated successfully.")
 
 if __name__ == "__main__":
