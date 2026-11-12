@@ -1,7 +1,9 @@
+
 import asyncio
 import os
 import requests
 from playwright.async_api import async_playwright
+from playwright_stealth import stealth_async
 
 BLINKIT_URL = "https://blinkit.com/dc/?collection_uuid=OTg3NjU0MzIxMjM0NTMzNzE%3D&is_plp=true"
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -22,57 +24,41 @@ def send_photo_to_telegram(photo_path, caption):
             print(f"Failed to send screenshot: {response.text}")
 
 async def test_blinkit():
-    print("Starting Blinkit Test...")
+    print("Starting Stealth Blinkit Test...")
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        # ലൊക്കേഷൻ ഇന്ത്യയിലാണെന്ന് കാണിക്കാൻ മുംബൈയിലെ കോർഡിനേറ്റ്സ് കൊടുക്കുന്നു
+        # ബോട്ട് ആണെന്ന് മനസ്സിലാകാതിരിക്കാൻ പ്രത്യേക ആർഗ്യുമെന്റ്സ് നൽകുന്നു
+        browser = await p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-web-security"
+            ]
+        )
         context = await browser.new_context(
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             geolocation={"longitude": 72.8777, "latitude": 19.0760}, 
-            permissions=["geolocation"]
+            permissions=["geolocation"],
+            viewport={'width': 1920, 'height': 1080}
         )
         page = await context.new_page()
         
+        # Stealth മോഡ് ആക്റ്റീവ് ആക്കുന്നു
+        await stealth_async(page)
+        
         try:
             print(f"Loading URL: {BLINKIT_URL}")
-            await page.goto(BLINKIT_URL, wait_until="domcontentloaded", timeout=40000)
+            await page.goto(BLINKIT_URL, wait_until="domcontentloaded", timeout=45000)
             
-            # പേജ് പൂർണ്ണമായി ലോഡ് ആകാൻ 8 സെക്കൻഡ് കാത്തിരിക്കുന്നു
-            await asyncio.sleep(8)
+            await asyncio.sleep(10)
             
             title = await page.title()
             print(f"\n✅ Page Title: {title}")
             
-            # സ്ക്രീൻഷോട്ട് എടുക്കുന്നു
             screenshot_path = "blinkit_debug.png"
             await page.screenshot(path=screenshot_path, full_page=True)
             print("✅ Screenshot saved.")
             
-            # സ്ക്രീൻഷോട്ട് ടെലിഗ്രാമിലേക്ക് അയക്കുന്നു
-            send_photo_to_telegram(screenshot_path, "Blinkit Debug Screenshot")
-            
-            # പേജിൽ എവിടെയെങ്കിലും വില (₹) കാണിക്കുന്നുണ്ടോ എന്ന് സെർച്ച് ചെയ്യുന്നു
-            js_script = """
-            () => {
-                let items = [];
-                let elements = document.querySelectorAll('div, a');
-                elements.forEach(el => {
-                    if(el.innerText && el.innerText.includes('₹') && el.innerText.length < 150) {
-                        items.push(el.innerText.replace(/\\n/g, ' | '));
-                    }
-                });
-                return [...new Set(items)].slice(0, 15);
-            }
-            """
-            extracted_data = await page.evaluate(js_script)
-            
-            print("\n--- Extracted Data (₹) ---")
-            if extracted_data:
-                for item in extracted_data:
-                    print(item)
-            else:
-                print("No products or prices found. Probably asking for location!")
-            print("--------------------------\n")
+            send_photo_to_telegram(screenshot_path, "Blinkit Stealth Debug Screenshot")
             
         except Exception as e:
             print(f"❌ Error occurred: {e}")
