@@ -41,6 +41,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           AMAZON_URL: ${{ secrets.AMAZON_URL }}
+          AFFILIATE_TAG: ${{ secrets.AFFILIATE_TAG }}
         run: python bot.py
 
       - name: Commit and Push Updated Prices
