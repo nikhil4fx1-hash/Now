@@ -2,6 +2,7 @@ import asyncio
 import json
 import os
 import requests
+import html
 from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -40,23 +41,48 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-def send_telegram_alert(title, new_price, old_price, link):
-    drop_amount = round(old_price - new_price, 2)
-    message = (
-        f"📉 *PRICE DROP ALERT* 📉\n\n"
-        f"📦 {title}\n"
-        f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
-        f"❌ Old Price: ~~₹{old_price}~~\n\n"
-        f"🔗 🛒 [Grab it Fast!]({link})"
-    )
+def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is_mega_deal=False):
+    # HTML എറർ ഒഴിവാക്കാൻ ടൈറ്റിൽ എൻകോഡ് ചെയ്യുന്നു
+    safe_title = html.escape(title)
     
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": message,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": False
-    }
+    # സുരക്ഷിതമായ HTML ഫോർമാറ്റിലേക്ക് മെസ്സേജ് മാറ്റിയിരിക്കുന്നു
+    if is_mega_deal:
+        discount_pct = round(((mrp - new_price) / mrp) * 100)
+        message = (
+            f"🔥 <b>MEGA DISCOUNT (50%+ OFF)</b> 🔥\n\n"
+            f"📦 {safe_title}\n"
+            f"💰 Deal Price: <b>₹{new_price}</b>\n"
+            f"❌ MRP: <s>₹{mrp}</s>\n"
+            f"🏷️ Discount: <b>{discount_pct}% OFF</b>\n\n"
+            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
+        )
+    else:
+        drop_amount = round(old_price - new_price, 2)
+        message = (
+            f"📉 <b>PRICE DROP ALERT</b> 📉\n\n"
+            f"📦 {safe_title}\n"
+            f"💰 New Price: <b>₹{new_price}</b> (Dropped by ₹{drop_amount})\n"
+            f"❌ Old Price: <s>₹{old_price}</s>\n\n"
+            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
+        )
+    
+    if img_url and img_url.startswith('http'):
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "photo": img_url,
+            "caption": message,
+            "parse_mode": "HTML"
+        }
+    else:
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "text": message,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False
+        }
+    
     requests.post(url, json=payload)
 
 async def scan_amazon_now():
@@ -120,9 +146,11 @@ async def scan_amazon_now():
 
                         let lines = text.split('\\n').map(l => l.trim()).filter(l => l.length > 0);
                         
-                        let priceMatch = text.match(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/);
-                        if(!priceMatch) return;
-                        let price = parseFloat(priceMatch[1].replace(/,/g, ''));
+                        let allPrices = [...text.matchAll(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/g)].map(m => parseFloat(m[1].replace(/,/g, '')));
+                        if(allPrices.length === 0) return;
+                        
+                        let price = allPrices[0];
+                        let mrp = allPrices.length > 1 ? Math.max(...allPrices) : price;
                         
                         let title = "";
                         let titleIndex = -1;
@@ -146,14 +174,39 @@ async def scan_amazon_now():
                                 }
                             }
                             
+                            // ഇമേജ് കണ്ടെത്താനുള്ള പുതിയ കോഡ് (മുകളിലെ കണ്ടെയ്നറുകളിൽ കൂടി തിരയുന്നു)
+                            let imgNode = null;
+                            let searchNode = card;
+                            for(let i=0; i<4; i++) {
+                                if(!searchNode) break;
+                                let imgs = searchNode.querySelectorAll('img');
+                                if(imgs.length > 0) {
+                                    let validImgs = Array.from(imgs).filter(img => !img.src.includes('stars') && !img.src.includes('sponsor') && img.src.startsWith('http'));
+                                    if(validImgs.length > 0) {
+                                        imgNode = validImgs[0];
+                                        break;
+                                    }
+                                }
+                                searchNode = searchNode.parentElement;
+                            }
+                            let imgUrl = imgNode ? imgNode.src : "";
+                            
+                            let linkEl = card.querySelector('a');
+                            let link = "";
+                            if (linkEl && linkEl.href && !linkEl.href.includes('javascript') && !linkEl.href.endsWith('/')) {
+                                link = linkEl.href;
+                            } else {
+                                link = "https://www.amazon.in/s?k=" + encodeURIComponent(title);
+                            }
+                            
                             let uid = title.toLowerCase().replace(/[^a-z0-9]/g, '');
                             if(uid.length > 5) {
-                                let linkEl = card.querySelector('a');
-                                let link = linkEl ? linkEl.href : window.location.href;
                                 results[uid] = {
                                     title: title,
                                     price: price,
-                                    link: link
+                                    mrp: mrp,
+                                    link: link,
+                                    img: imgUrl
                                 };
                             }
                         }
@@ -163,35 +216,52 @@ async def scan_amazon_now():
                 """
                 extracted_products = await page.evaluate(js_script)
                 
-                if len(extracted_products) == 0:
-                    try:
-                        page_title = await page.title()
-                        error_log.append(f"⚠️ 0 items ({page_title[:15]}...)")
-                    except:
-                        pass
-                    continue
-
                 for uid, data in extracted_products.items():
                     title = data['title']
                     new_price = data['price']
+                    mrp = data['mrp']
                     link = data['link']
+                    img_url = data['img']
 
                     if AMAZON_AFFILIATE_TAG:
                         separator = "&" if "?" in link else "?"
                         link = f"{link}{separator}tag={AMAZON_AFFILIATE_TAG}"
 
+                    discount_pct = round(((mrp - new_price) / mrp) * 100) if mrp > new_price else 0
+                    mega_alert_sent = False
+
                     if uid in price_database:
                         old_price = price_database[uid]['price']
+                        mega_alert_sent = price_database[uid].get('mega_alert_sent', False)
+                        
                         if new_price < old_price:
-                            send_telegram_alert(title, new_price, old_price, link)
+                            if discount_pct >= 50:
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
+                                mega_alert_sent = True
+                            else:
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url)
+                                mega_alert_sent = False
+                        elif new_price == old_price:
+                            if discount_pct >= 50 and not mega_alert_sent:
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
+                                mega_alert_sent = True
+                    else:
+                        if discount_pct >= 50:
+                            send_telegram_alert(title, new_price, mrp, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
+                            mega_alert_sent = True
                     
-                    updated_database[uid] = {"title": title, "price": new_price, "link": link}
+                    updated_database[uid] = {
+                        "title": title, 
+                        "price": new_price, 
+                        "link": link,
+                        "mega_alert_sent": mega_alert_sent
+                    }
                     total_items_scanned += 1
                 
                 await asyncio.sleep(2) 
 
             except Exception as e:
-                error_log.append(f"❌ Error loading {category_name}: {str(e)[:40]}")
+                error_log.append(f"Error loading {category_name}: {str(e)[:40]}")
                 continue
 
         await browser.close()
@@ -199,7 +269,6 @@ async def scan_amazon_now():
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
     
-    # ലോഗിൽ കാണാൻ വേണ്ടി മാത്രം പ്രിന്റ് ചെയ്യുന്നു
     print(f"Scan complete. Total items scanned: {total_items_scanned}")
     if error_log:
         print("Errors encountered:", error_log)
