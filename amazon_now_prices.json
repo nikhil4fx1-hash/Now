@@ -156,7 +156,7 @@
     },
     "cocacolazerosugarsoftdrinkcan300ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
-        "price": 40,
+        "price": 39,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
     },
     "ritebitemaxproteinperiperichips32g": {
@@ -1426,7 +1426,7 @@
     },
     "thewholetruthrawwheyproteinconcentrate1kg": {
         "title": "The Whole Truth Raw Whey Protein Concentrate (1 kg)",
-        "price": 3599,
+        "price": 4499,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
     },
     "grovivagoldmilkproteinpowder400g": {
@@ -1717,7 +1717,7 @@
     "fortunechakkifreshatta1kg": {
         "title": "Fortune Chakki Fresh Atta (1 kg)",
         "price": 48,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
     },
     "fortunechakkifreshatta10kg": {
         "title": "Fortune Chakki Fresh Atta (10 kg)",
@@ -2388,5 +2388,10 @@
         "title": "Nescafe Classic Instant Coffee Powder Jar (24 g)",
         "price": 124,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+    },
+    "freshbhindiladyfingerdeal200g": {
+        "title": "Fresh Bhindi (Lady finger) - Deal (200 g)",
+        "price": 8,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
     }
 }
