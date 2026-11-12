@@ -6,6 +6,7 @@ from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
 TELEGRAM_CHANNEL_ID = os.environ.get('CHANNEL_ID')
+AMAZON_AFFILIATE_TAG = os.environ.get('AFFILIATE_TAG', '') # അഫിലിയേറ്റ് ടാഗ് എടുക്കുന്നു
 
 AMAZON_NOW_URLS = [
     "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb",
@@ -97,11 +98,9 @@ async def scan_amazon_now():
                     error_log.append(f"🤖 Captcha blocked: {category_name}")
                     continue
                 
-                # കൂടുതൽ പ്രൊഡക്റ്റുകൾ ലോഡ് ചെയ്യാൻ വേണ്ടി പേജ് അല്പം താഴേക്ക് സ്ക്രോൾ ചെയ്യുന്നു
                 await page.evaluate("window.scrollBy(0, 1000);")
                 await asyncio.sleep(2)
 
-                # ആമസോൺ ഘടന മാറ്റിയാലും ടെക്സ്റ്റിൽ നിന്നും വിലയും പേരും എടുക്കാനുള്ള Smart JS Parser
                 js_script = """
                 () => {
                     let results = {};
@@ -149,7 +148,6 @@ async def scan_amazon_now():
                         }
                         
                         if (title) {
-                            // പ്രൊഡക്റ്റിന്റെ ഭാരം കൂടി പേരിനൊപ്പം ചേർക്കുന്നു (ഉദാഹരണത്തിന്: 500 g, 1 L)
                             if(titleIndex !== -1 && titleIndex + 1 < lines.length) {
                                 let nextLine = lines[titleIndex + 1];
                                 if(nextLine.length > 1 && nextLine.length < 15 && !nextLine.includes('₹') && !nextLine.includes('%')) {
@@ -186,6 +184,11 @@ async def scan_amazon_now():
                     title = data['title']
                     new_price = data['price']
                     link = data['link']
+
+                    # അഫിലിയേറ്റ് ടാഗ് ആഡ് ചെയ്യുന്ന കോഡ്
+                    if AMAZON_AFFILIATE_TAG:
+                        separator = "&" if "?" in link else "?"
+                        link = f"{link}{separator}tag={AMAZON_AFFILIATE_TAG}"
 
                     if uid in price_database:
                         old_price = price_database[uid]['price']
