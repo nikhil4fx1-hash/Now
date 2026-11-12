@@ -531,7 +531,7 @@
     },
     "tidedoublepowerdetergentpowder10kg": {
         "title": "Tide Double Power+ Detergent Powder (10 kg)",
-        "price": 896,
+        "price": 903,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     },
     "mrwhiteultimatewhitenessdetergentpowder10kg": {
@@ -801,7 +801,7 @@
     },
     "motherdairylowfatdahipouch1kg": {
         "title": "Mother Dairy Low Fat Dahi Pouch (1 kg)",
-        "price": 73,
+        "price": 66,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     },
     "akshayakalpaartisanalorganicsetcurdtub1kg": {
@@ -2343,5 +2343,15 @@
         "title": "Colgate Visible White Purple Toothpaste (120 g)",
         "price": 162,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrownpumpkin1pc": {
+        "title": "Fresh Naturally Grown Pumpkin (1 Pc)",
+        "price": 59,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "naikbabyoctopus500g": {
+        "title": "Naik Baby Octopus (500 g)",
+        "price": 360,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     }
 }
