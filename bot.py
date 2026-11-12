@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
 TELEGRAM_CHANNEL_ID = os.environ.get('CHANNEL_ID')
-AMAZON_AFFILIATE_TAG = os.environ.get('AFFILIATE_TAG', '') # അഫിലിയേറ്റ് ടാഗ് എടുക്കുന്നു
+AMAZON_AFFILIATE_TAG = os.environ.get('AFFILIATE_TAG', '')
 
 AMAZON_NOW_URLS = [
     "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb",
@@ -56,15 +56,6 @@ def send_telegram_alert(title, new_price, old_price, link):
         "text": message,
         "parse_mode": "Markdown",
         "disable_web_page_preview": False
-    }
-    requests.post(url, json=payload)
-
-def send_status_message(text):
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": text,
-        "parse_mode": "Markdown"
     }
     requests.post(url, json=payload)
 
@@ -185,7 +176,6 @@ async def scan_amazon_now():
                     new_price = data['price']
                     link = data['link']
 
-                    # അഫിലിയേറ്റ് ടാഗ് ആഡ് ചെയ്യുന്ന കോഡ്
                     if AMAZON_AFFILIATE_TAG:
                         separator = "&" if "?" in link else "?"
                         link = f"{link}{separator}tag={AMAZON_AFFILIATE_TAG}"
@@ -209,17 +199,10 @@ async def scan_amazon_now():
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
     
-    if total_items_scanned > 0:
-        status_msg = f"✅ *Amazon Now Scan Complete*\n📦 Scanned: `{total_items_scanned}` products successfully."
-    else:
-        status_msg = f"❌ *Amazon Now Scan FAILED*\n📦 Scanned: `{total_items_scanned}` products."
-        
+    # ലോഗിൽ കാണാൻ വേണ്ടി മാത്രം പ്രിന്റ് ചെയ്യുന്നു
+    print(f"Scan complete. Total items scanned: {total_items_scanned}")
     if error_log:
-        status_msg += "\n\n*⚠️ Warning/Errors:*\n"
-        for err in set(error_log):
-            status_msg += f"- {err}\n"
-            
-    send_status_message(status_msg)
+        print("Errors encountered:", error_log)
 
 if __name__ == "__main__":
     asyncio.run(scan_amazon_now())
