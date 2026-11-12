@@ -820,19 +820,19 @@
     },
     "amulpasteurizedhomogenisedcowmilk500ml": {
         "title": "Amul Pasteurized Homogenised Cow Milk (500 ml)",
-        "price": 32,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Amul%20Pasteurized%20Homogenised%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "motherdairytonedmilk1l": {
         "title": "Mother Dairy Toned Milk (1 L)",
-        "price": 62,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Toned%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "amula2gircowmilkbottle1l": {
         "title": "Amul A2 Gir Cow Milk Bottle (1 L)",
-        "price": 85,
+        "price": 83,
         "link": "https://www.amazon.in/s?k=Amul%20A2%20Gir%20Cow%20Milk%20Bottle%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3202,6 +3202,18 @@
         "title": "Trikaya Microgreen Mix (50 g)",
         "price": 60,
         "link": "https://www.amazon.in/s?k=Trikaya%20Microgreen%20Mix%20(50%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "fantaorangeflavoredsoftdrink1l": {
+        "title": "Fanta Orange Flavored Soft Drink (1 L)",
+        "price": 50,
+        "link": "https://www.amazon.in/s?k=Fanta%20Orange%20Flavored%20Soft%20Drink%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshkinnaurapple": {
+        "title": "Fresh Kinnaur Apple",
+        "price": 98,
+        "link": "https://www.amazon.in/s?k=Fresh%20Kinnaur%20Apple&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
