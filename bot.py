@@ -73,7 +73,7 @@ async def scan_amazon_now():
     cookies = load_json(COOKIES_FILE, [])
     
     total_items_scanned = 0
-    error_log = [] # എററുകൾ സേവ് ചെയ്യാനുള്ള ലിസ്റ്റ്
+    error_log = []
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -93,16 +93,26 @@ async def scan_amazon_now():
                 
                 await page.goto(url, wait_until="networkidle")
                 
-                # 1. Captcha ചെക്ക് ചെയ്യുന്നു
                 if await page.query_selector('form[action="/errors/validateCaptcha"]'):
                     error_log.append(f"🤖 Captcha blocked: {category_name}")
                     continue
 
                 products = await page.query_selector_all('div[data-asin]')
                 
-                # 2. പ്രൊഡക്റ്റുകൾ ലഭിച്ചില്ലെങ്കിൽ (കുക്കീസ് അല്ലെങ്കിൽ HTML പ്രശ്നം)
                 if len(products) == 0:
-                    error_log.append(f"⚠️ 0 items found in: {category_name} (Check Cookies/Location)")
+                    try:
+                        page_title = await page.title()
+                        print(f"\n--- DEBUG INFO FOR {category_name} ---")
+                        print(f"Page Title: {page_title}")
+                        
+                        page_text = await page.inner_text('body')
+                        print(f"Page Content Snippet: {page_text[:200]}...") 
+                        print("--------------------------------------\n")
+                        
+                        error_log.append(f"⚠️ 0 items ({page_title[:15]}...)")
+                    except Exception as e:
+                        print(f"Failed to get debug info: {e}")
+                        error_log.append(f"⚠️ 0 items (Error loading page title)")
                     continue
 
                 for product in products:
@@ -141,16 +151,14 @@ async def scan_amazon_now():
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
     
-    # ഫൈനൽ ടെലിഗ്രാം മെസ്സേജ് തയ്യാറാക്കുന്നു
     if total_items_scanned > 0:
         status_msg = f"✅ *Amazon Now Scan Complete*\n📦 Scanned: `{total_items_scanned}` products."
     else:
         status_msg = f"❌ *Amazon Now Scan FAILED*\n📦 Scanned: `{total_items_scanned}` products."
         
-    # എററുകൾ വല്ലതും ഉണ്ടെങ്കിൽ അതും മെസ്സേജിന്റെ കൂടെ ചേർക്കുന്നു
     if error_log:
         status_msg += "\n\n*⚠️ Warning/Errors:*\n"
-        for err in set(error_log): # ഒരേ എറർ ആവർത്തിക്കാതിരിക്കാൻ set ഉപയോഗിക്കുന്നു
+        for err in set(error_log):
             status_msg += f"- {err}\n"
             
     send_status_message(status_msg)
