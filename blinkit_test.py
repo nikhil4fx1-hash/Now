@@ -1,9 +1,7 @@
-
 import asyncio
 import os
 import requests
 from playwright.async_api import async_playwright
-from playwright_stealth import stealth_async
 
 BLINKIT_URL = "https://blinkit.com/dc/?collection_uuid=OTg3NjU0MzIxMjM0NTMzNzE%3D&is_plp=true"
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -24,9 +22,8 @@ def send_photo_to_telegram(photo_path, caption):
             print(f"Failed to send screenshot: {response.text}")
 
 async def test_blinkit():
-    print("Starting Stealth Blinkit Test...")
+    print("Starting Manual Stealth Blinkit Test...")
     async with async_playwright() as p:
-        # ബോട്ട് ആണെന്ന് മനസ്സിലാകാതിരിക്കാൻ പ്രത്യേക ആർഗ്യുമെന്റ്സ് നൽകുന്നു
         browser = await p.chromium.launch(
             headless=True,
             args=[
@@ -40,10 +37,16 @@ async def test_blinkit():
             permissions=["geolocation"],
             viewport={'width': 1920, 'height': 1080}
         )
-        page = await context.new_page()
         
-        # Stealth മോഡ് ആക്റ്റീവ് ആക്കുന്നു
-        await stealth_async(page)
+        # മാന്വൽ ആയി Cloudflare-നെ കബളിപ്പിക്കാനുള്ള കോഡ്
+        await context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            window.navigator.chrome = { runtime: {} };
+            Object.defineProperty(navigator, 'plugins', { get: () => [1, 2, 3] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['en-US', 'en', 'ml'] });
+        """)
+        
+        page = await context.new_page()
         
         try:
             print(f"Loading URL: {BLINKIT_URL}")
