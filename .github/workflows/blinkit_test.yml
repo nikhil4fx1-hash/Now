@@ -1,7 +1,7 @@
 name: Blinkit Test Run
 
 on:
-  workflow_dispatch: # ഇത് നൽകിയാൽ നമുക്ക് മാന്വൽ ആയി പരീക്ഷിക്കാം
+  workflow_dispatch: 
 
 jobs:
   test-blinkit:
@@ -18,10 +18,13 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install playwright
+          pip install playwright requests
           playwright install chromium
 
       - name: Run Blinkit Test Script
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: python blinkit_test.py
 
       - name: Upload Screenshot
