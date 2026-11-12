@@ -1,8 +1,9 @@
+
 import asyncio
 import json
 import os
 import requests
-import urllib.parse
+import html
 from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -41,43 +42,45 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-# ഇമേജ് ഉൾപ്പെടെ മെസ്സേജ് അയക്കാനുള്ള പുതിയ ഫംഗ്ഷൻ
 def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is_mega_deal=False):
+    # HTML എറർ ഒഴിവാക്കാൻ ടൈറ്റിൽ എൻകോഡ് ചെയ്യുന്നു
+    safe_title = html.escape(title)
+    
+    # സുരക്ഷിതമായ HTML ഫോർമാറ്റിലേക്ക് മെസ്സേജ് മാറ്റിയിരിക്കുന്നു
     if is_mega_deal:
         discount_pct = round(((mrp - new_price) / mrp) * 100)
         message = (
-            f"🔥 *MEGA DISCOUNT (50%+ OFF)* 🔥\n\n"
-            f"📦 {title}\n"
-            f"💰 Deal Price: *₹{new_price}*\n"
-            f"❌ MRP: ~~₹{mrp}~~\n"
-            f"🏷️ Discount: *{discount_pct}% OFF*\n\n"
-            f"🔗 🛒 [Grab it Fast!]({link})"
+            f"🔥 <b>MEGA DISCOUNT (50%+ OFF)</b> 🔥\n\n"
+            f"📦 {safe_title}\n"
+            f"💰 Deal Price: <b>₹{new_price}</b>\n"
+            f"❌ MRP: <s>₹{mrp}</s>\n"
+            f"🏷️ Discount: <b>{discount_pct}% OFF</b>\n\n"
+            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
         )
     else:
         drop_amount = round(old_price - new_price, 2)
         message = (
-            f"📉 *PRICE DROP ALERT* 📉\n\n"
-            f"📦 {title}\n"
-            f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
-            f"❌ Old Price: ~~₹{old_price}~~\n\n"
-            f"🔗 🛒 [Grab it Fast!]({link})"
+            f"📉 <b>PRICE DROP ALERT</b> 📉\n\n"
+            f"📦 {safe_title}\n"
+            f"💰 New Price: <b>₹{new_price}</b> (Dropped by ₹{drop_amount})\n"
+            f"❌ Old Price: <s>₹{old_price}</s>\n\n"
+            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
         )
     
-    # ഇമേജ് ഉണ്ടെങ്കിൽ Photo ആയിട്ട് മെസ്സേജ് അയക്കുന്നു
     if img_url and img_url.startswith('http'):
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
         payload = {
             "chat_id": TELEGRAM_CHANNEL_ID,
             "photo": img_url,
             "caption": message,
-            "parse_mode": "Markdown"
+            "parse_mode": "HTML"
         }
     else:
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
         payload = {
             "chat_id": TELEGRAM_CHANNEL_ID,
             "text": message,
-            "parse_mode": "Markdown",
+            "parse_mode": "HTML",
             "disable_web_page_preview": False
         }
     
@@ -116,7 +119,6 @@ async def scan_amazon_now():
                 await page.evaluate("window.scrollBy(0, 1000);")
                 await asyncio.sleep(2)
 
-                # ഇമേജും സ്മാർട്ട് ലിങ്കും എടുക്കാൻ അപ്ഡേറ്റ് ചെയ്ത JS
                 js_script = """
                 () => {
                     let results = {};
@@ -173,17 +175,28 @@ async def scan_amazon_now():
                                 }
                             }
                             
-                            // ഇമേജ് URL എടുക്കുന്നു
-                            let imgEl = card.querySelector('img');
-                            let imgUrl = imgEl ? imgEl.src : "";
+                            // ഇമേജ് കണ്ടെത്താനുള്ള പുതിയ കോഡ് (മുകളിലെ കണ്ടെയ്നറുകളിൽ കൂടി തിരയുന്നു)
+                            let imgNode = null;
+                            let searchNode = card;
+                            for(let i=0; i<4; i++) {
+                                if(!searchNode) break;
+                                let imgs = searchNode.querySelectorAll('img');
+                                if(imgs.length > 0) {
+                                    let validImgs = Array.from(imgs).filter(img => !img.src.includes('stars') && !img.src.includes('sponsor') && img.src.startsWith('http'));
+                                    if(validImgs.length > 0) {
+                                        imgNode = validImgs[0];
+                                        break;
+                                    }
+                                }
+                                searchNode = searchNode.parentElement;
+                            }
+                            let imgUrl = imgNode ? imgNode.src : "";
                             
-                            // സ്മാർട്ട് ലിങ്ക് സിസ്റ്റം
                             let linkEl = card.querySelector('a');
                             let link = "";
                             if (linkEl && linkEl.href && !linkEl.href.includes('javascript') && !linkEl.href.endsWith('/')) {
                                 link = linkEl.href;
                             } else {
-                                // ഡയറക്റ്റ് ലിങ്ക് ഇല്ലെങ്കിൽ ആമസോൺ സെർച്ച് ലിങ്ക് ഉണ്ടാക്കുന്നു
                                 link = "https://www.amazon.in/s?k=" + encodeURIComponent(title);
                             }
                             
