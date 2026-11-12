@@ -39,7 +39,6 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-# പ്രൈസ് ഡ്രോപ്പ് അയക്കാനുള്ള ഫംഗ്ഷൻ
 def send_telegram_alert(title, new_price, old_price, link):
     drop_amount = round(old_price - new_price, 2)
     message = (
@@ -59,7 +58,6 @@ def send_telegram_alert(title, new_price, old_price, link):
     }
     requests.post(url, json=payload)
 
-# സ്കാൻ കഴിഞ്ഞു എന്ന് അറിയിക്കാനുള്ള പുതിയ ഫംഗ്ഷൻ
 def send_status_message(text):
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
@@ -73,6 +71,9 @@ async def scan_amazon_now():
     price_database = load_json(DATA_FILE, {})
     updated_database = {}
     cookies = load_json(COOKIES_FILE, [])
+    
+    total_items_scanned = 0
+    error_log = [] # എററുകൾ സേവ് ചെയ്യാനുള്ള ലിസ്റ്റ്
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -89,23 +90,34 @@ async def scan_amazon_now():
         for url in AMAZON_NOW_URLS:
             try:
                 category_name = url.split('title=')[1].split('&')[0] if 'title=' in url else 'Category'
-                print(f"Scanning category: {category_name}")
                 
                 await page.goto(url, wait_until="networkidle")
+                
+                # 1. Captcha ചെക്ക് ചെയ്യുന്നു
+                if await page.query_selector('form[action="/errors/validateCaptcha"]'):
+                    error_log.append(f"🤖 Captcha blocked: {category_name}")
+                    continue
+
                 products = await page.query_selector_all('div[data-asin]')
+                
+                # 2. പ്രൊഡക്റ്റുകൾ ലഭിച്ചില്ലെങ്കിൽ (കുക്കീസ് അല്ലെങ്കിൽ HTML പ്രശ്നം)
+                if len(products) == 0:
+                    error_log.append(f"⚠️ 0 items found in: {category_name} (Check Cookies/Location)")
+                    continue
 
                 for product in products:
                     try:
                         asin = await product.get_attribute('data-asin')
                         if not asin: continue
 
-                        title_element = await product.query_selector('h2 a span')
+                        title_element = await product.query_selector('h2 a span') or await product.query_selector('span.a-text-normal')
                         price_element = await product.query_selector('.a-price .a-offscreen')
-                        link_element = await product.query_selector('h2 a')
+                        link_element = await product.query_selector('h2 a') or await product.query_selector('a.a-link-normal')
 
                         if title_element and price_element and link_element:
                             title = await title_element.inner_text()
-                            new_price = float((await price_element.inner_text()).replace('₹', '').replace(',', ''))
+                            raw_price = await price_element.inner_text()
+                            new_price = float(raw_price.replace('₹', '').replace(',', '').strip())
                             link = "https://www.amazon.in" + await link_element.get_attribute('href')
 
                             if asin in price_database:
@@ -114,13 +126,14 @@ async def scan_amazon_now():
                                     send_telegram_alert(title, new_price, old_price, link)
                             
                             updated_database[asin] = {"title": title, "price": new_price, "link": link}
+                            total_items_scanned += 1
                     except Exception:
                         continue
                 
                 await asyncio.sleep(3) 
 
             except Exception as e:
-                print(f"Error scanning {url}: {e}")
+                error_log.append(f"❌ Error loading {category_name}: {str(e)[:40]}")
                 continue
 
         await browser.close()
@@ -128,9 +141,19 @@ async def scan_amazon_now():
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
     
-    # സ്കാൻ കഴിഞ്ഞ ശേഷം ടെലിഗ്രാമിലേക്ക് മെസ്സേജ് അയക്കുന്നു
-    send_status_message("✅ *Amazon Now Tracker*\nAll categories scanned successfully.")
-    print("All categories scanned and database updated successfully.")
+    # ഫൈനൽ ടെലിഗ്രാം മെസ്സേജ് തയ്യാറാക്കുന്നു
+    if total_items_scanned > 0:
+        status_msg = f"✅ *Amazon Now Scan Complete*\n📦 Scanned: `{total_items_scanned}` products."
+    else:
+        status_msg = f"❌ *Amazon Now Scan FAILED*\n📦 Scanned: `{total_items_scanned}` products."
+        
+    # എററുകൾ വല്ലതും ഉണ്ടെങ്കിൽ അതും മെസ്സേജിന്റെ കൂടെ ചേർക്കുന്നു
+    if error_log:
+        status_msg += "\n\n*⚠️ Warning/Errors:*\n"
+        for err in set(error_log): # ഒരേ എറർ ആവർത്തിക്കാതിരിക്കാൻ set ഉപയോഗിക്കുന്നു
+            status_msg += f"- {err}\n"
+            
+    send_status_message(status_msg)
 
 if __name__ == "__main__":
     asyncio.run(scan_amazon_now())
