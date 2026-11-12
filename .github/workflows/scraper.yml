@@ -51,6 +51,6 @@ jobs:
           git add amazon_now_prices.json
           # ആദ്യം മാറ്റങ്ങൾ സേവ് ചെയ്യുന്നു (മാറ്റങ്ങൾ ഇല്ലെങ്കിൽ എറർ വരാതിരിക്കാൻ || true നൽകിയിരിക്കുന്നു)
           git commit -m "Update price database" || true
-          # അതിനുശേഷം മാത്രം pull ചെയ്ത് push ചെയ്യുന്നു
-          git pull origin main --rebase
+          # Merge കോൺഫ്ലിക്റ്റ് ഒഴിവാക്കാൻ -X theirs ഉപയോഗിച്ച് pull ചെയ്യുന്നു
+          git pull origin main --rebase -X theirs
           git push
