@@ -1253,7 +1253,7 @@
     },
     "freshootycarrot250g": {
         "title": "Fresh Ooty Carrot (250 g)",
-        "price": 10,
+        "price": 22,
         "link": "https://www.amazon.in/s?k=Fresh%20Ooty%20Carrot%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1902,7 +1902,7 @@
     },
     "nescafeclassicinstantcoffeepowdersachets": {
         "title": "Nescafe Classic Instant Coffee Powder Sachets",
-        "price": 135,
+        "price": 134,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2936,7 +2936,8 @@
     "organicindiasimplychamomiletea": {
         "title": "Organic India Simply Chamomile Tea",
         "price": 248,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Organic%20India%20Simply%20Chamomile%20Tea&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "morefor": {
         "title": "more for",
@@ -3066,6 +3067,18 @@
         "title": "Elicious Chicken Breast Boneless (450 g)",
         "price": 238,
         "link": "https://www.amazon.in/s?k=Elicious%20Chicken%20Breast%20Boneless%20(450%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dermatouchbyebyepigmentationfacewash30g": {
+        "title": "Dermatouch Bye Bye Pigmentation Face Wash (30 g)",
+        "price": 137,
+        "link": "https://www.amazon.in/s?k=Dermatouch%20Bye%20Bye%20Pigmentation%20Face%20Wash%20(30%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshpremiumcherry100g": {
+        "title": "Fresh Premium Cherry (100 g)",
+        "price": 319,
+        "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Cherry%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
