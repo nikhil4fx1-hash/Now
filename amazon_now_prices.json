@@ -206,7 +206,7 @@
     },
     "chhedasgoldenpotatochips170g": {
         "title": "Chheda's - Golden Potato Chips (170 g)",
-        "price": 63,
+        "price": 60,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     },
     "craxperiperiragichips80g": {
@@ -396,7 +396,7 @@
     },
     "happiplanetnontoxickitchencleaner500ml": {
         "title": "Happi Planet Non-Toxic Kitchen Cleaner (500 ml)",
-        "price": 133,
+        "price": 150,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     },
     "herbalstrategikitchencleanerliquid500ml": {
@@ -1541,7 +1541,7 @@
     },
     "brookebondredlabelinstantmasalachaipremix": {
         "title": "Brooke Bond Red Label Instant Masala Chai Premix",
-        "price": 99,
+        "price": 98,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     },
     "waghbakripremiumspicedtea500g": {
@@ -2333,5 +2333,15 @@
         "title": "Durex Extra Time Condoms for Men",
         "price": 651,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "countrydelightpasteurisedbuffalomilk450ml": {
+        "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
+        "price": 58,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatevisiblewhitepurpletoothpaste120g": {
+        "title": "Colgate Visible White Purple Toothpaste (120 g)",
+        "price": 162,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
     }
 }
