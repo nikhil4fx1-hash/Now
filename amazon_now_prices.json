@@ -1259,7 +1259,7 @@
     },
     "freshvarikatribrinjal250g": {
         "title": "Fresh Varikatri Brinjal (250 g)",
-        "price": 10,
+        "price": 13,
         "link": "https://www.amazon.in/s?k=Fresh%20Varikatri%20Brinjal%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1784,7 +1784,8 @@
     "beastlifeperformanceproteinpowder1kg": {
         "title": "Beastlife Performance Protein Powder (1 kg)",
         "price": 2399,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Beastlife%20Performance%20Protein%20Powder%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "chaayosmasaladesichai250g": {
         "title": "Chaayos Masala Desi Chai (250 g)",
@@ -2049,7 +2050,7 @@
     },
     "fortunechakkifreshatta10kg": {
         "title": "Fortune Chakki Fresh Atta (10 kg)",
-        "price": 444,
+        "price": 447,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2811,7 +2812,8 @@
     "luxessenceofhimalayasilluminatingbodywash400ml": {
         "title": "Lux Essence of Himalayas Illuminating Bodywash (400 ml)",
         "price": 199,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Lux%20Essence%20of%20Himalayas%20Illuminating%20Bodywash%20(400%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "freshbabyspinach100g": {
         "title": "Fresh Baby Spinach (100 g)",
@@ -2915,7 +2917,7 @@
     },
     "sensodynefreshgeltoothpaste": {
         "title": "Sensodyne Fresh Gel Toothpaste",
-        "price": 341,
+        "price": 345,
         "link": "https://www.amazon.in/s?k=Sensodyne%20Fresh%20Gel%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2962,7 +2964,7 @@
     },
     "freshcucumber500g": {
         "title": "Fresh Cucumber (500 g)",
-        "price": 18,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Fresh%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3007,5 +3009,11 @@
         "price": 379,
         "link": "https://www.amazon.in/s?k=Solimo%20Plastic%20Storage%20Jar%20Set%20With%20Spoon&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "freshbeetroot250g": {
+        "title": "Fresh Beetroot (250 g)",
+        "price": 11,
+        "link": "https://www.amazon.in/s?k=Fresh%20Beetroot%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
