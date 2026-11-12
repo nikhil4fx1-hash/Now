@@ -96,51 +96,106 @@ async def scan_amazon_now():
                 if await page.query_selector('form[action="/errors/validateCaptcha"]'):
                     error_log.append(f"🤖 Captcha blocked: {category_name}")
                     continue
-
-                products = await page.query_selector_all('div[data-asin]')
                 
-                if len(products) == 0:
+                # കൂടുതൽ പ്രൊഡക്റ്റുകൾ ലോഡ് ചെയ്യാൻ വേണ്ടി പേജ് അല്പം താഴേക്ക് സ്ക്രോൾ ചെയ്യുന്നു
+                await page.evaluate("window.scrollBy(0, 1000);")
+                await asyncio.sleep(2)
+
+                # ആമസോൺ ഘടന മാറ്റിയാലും ടെക്സ്റ്റിൽ നിന്നും വിലയും പേരും എടുക്കാനുള്ള Smart JS Parser
+                js_script = """
+                () => {
+                    let results = {};
+                    let elements = Array.from(document.querySelectorAll('span, div, p'))
+                        .filter(el => el.children.length === 0 && el.innerText && el.innerText.includes('₹'));
+                    
+                    let processedCards = new Set();
+
+                    elements.forEach(el => {
+                        let card = el;
+                        let attempts = 0;
+                        while(card.parentElement && attempts < 10) {
+                            let parent = card.parentElement;
+                            if(parent.querySelectorAll('img').length > 1 || parent.innerText.length > 350) {
+                                break; 
+                            }
+                            card = parent;
+                            attempts++;
+                        }
+
+                        if(processedCards.has(card)) return;
+                        processedCards.add(card);
+
+                        let text = card.innerText;
+                        if(!text || text.length > 350) return;
+
+                        let lines = text.split('\\n').map(l => l.trim()).filter(l => l.length > 0);
+                        
+                        let priceMatch = text.match(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/);
+                        if(!priceMatch) return;
+                        let price = parseFloat(priceMatch[1].replace(/,/g, ''));
+                        
+                        let title = "";
+                        let titleIndex = -1;
+                        for(let i=0; i<lines.length; i++) {
+                            let lower = lines[i].toLowerCase();
+                            if(lower.includes('★') || lower.includes('mins') || lines[i].match(/^[0-9.]+$/) || lower.includes('%') || lower.includes('₹') || lower === 'add' || lower === 'sponsored' || lower.includes('shop by') || lower.includes('delivery')) {
+                                continue;
+                            }
+                            if(lines[i].length > 7) {
+                                title = lines[i];
+                                titleIndex = i;
+                                break;
+                            }
+                        }
+                        
+                        if (title) {
+                            // പ്രൊഡക്റ്റിന്റെ ഭാരം കൂടി പേരിനൊപ്പം ചേർക്കുന്നു (ഉദാഹരണത്തിന്: 500 g, 1 L)
+                            if(titleIndex !== -1 && titleIndex + 1 < lines.length) {
+                                let nextLine = lines[titleIndex + 1];
+                                if(nextLine.length > 1 && nextLine.length < 15 && !nextLine.includes('₹') && !nextLine.includes('%')) {
+                                    title = title + " (" + nextLine + ")";
+                                }
+                            }
+                            
+                            let uid = title.toLowerCase().replace(/[^a-z0-9]/g, '');
+                            if(uid.length > 5) {
+                                let linkEl = card.querySelector('a');
+                                let link = linkEl ? linkEl.href : window.location.href;
+                                results[uid] = {
+                                    title: title,
+                                    price: price,
+                                    link: link
+                                };
+                            }
+                        }
+                    });
+                    return results;
+                }
+                """
+                extracted_products = await page.evaluate(js_script)
+                
+                if len(extracted_products) == 0:
                     try:
                         page_title = await page.title()
-                        print(f"\n--- DEBUG INFO FOR {category_name} ---")
-                        print(f"Page Title: {page_title}")
-                        
-                        page_text = await page.inner_text('body')
-                        print(f"Page Content Snippet: {page_text[:200]}...") 
-                        print("--------------------------------------\n")
-                        
                         error_log.append(f"⚠️ 0 items ({page_title[:15]}...)")
-                    except Exception as e:
-                        print(f"Failed to get debug info: {e}")
-                        error_log.append(f"⚠️ 0 items (Error loading page title)")
+                    except:
+                        pass
                     continue
 
-                for product in products:
-                    try:
-                        asin = await product.get_attribute('data-asin')
-                        if not asin: continue
+                for uid, data in extracted_products.items():
+                    title = data['title']
+                    new_price = data['price']
+                    link = data['link']
 
-                        title_element = await product.query_selector('h2 a span') or await product.query_selector('span.a-text-normal')
-                        price_element = await product.query_selector('.a-price .a-offscreen')
-                        link_element = await product.query_selector('h2 a') or await product.query_selector('a.a-link-normal')
-
-                        if title_element and price_element and link_element:
-                            title = await title_element.inner_text()
-                            raw_price = await price_element.inner_text()
-                            new_price = float(raw_price.replace('₹', '').replace(',', '').strip())
-                            link = "https://www.amazon.in" + await link_element.get_attribute('href')
-
-                            if asin in price_database:
-                                old_price = price_database[asin]['price']
-                                if new_price < old_price:
-                                    send_telegram_alert(title, new_price, old_price, link)
-                            
-                            updated_database[asin] = {"title": title, "price": new_price, "link": link}
-                            total_items_scanned += 1
-                    except Exception:
-                        continue
+                    if uid in price_database:
+                        old_price = price_database[uid]['price']
+                        if new_price < old_price:
+                            send_telegram_alert(title, new_price, old_price, link)
+                    
+                    updated_database[uid] = {"title": title, "price": new_price, "link": link}
+                    total_items_scanned += 1
                 
-                await asyncio.sleep(3) 
+                await asyncio.sleep(2) 
 
             except Exception as e:
                 error_log.append(f"❌ Error loading {category_name}: {str(e)[:40]}")
@@ -152,7 +207,7 @@ async def scan_amazon_now():
     save_json(DATA_FILE, price_database)
     
     if total_items_scanned > 0:
-        status_msg = f"✅ *Amazon Now Scan Complete*\n📦 Scanned: `{total_items_scanned}` products."
+        status_msg = f"✅ *Amazon Now Scan Complete*\n📦 Scanned: `{total_items_scanned}` products successfully."
     else:
         status_msg = f"❌ *Amazon Now Scan FAILED*\n📦 Scanned: `{total_items_scanned}` products."
         
