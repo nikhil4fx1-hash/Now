@@ -18,7 +18,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install playwright requests playwright-stealth
+          pip install playwright requests
           playwright install chromium
 
       - name: Run Blinkit Test Script
