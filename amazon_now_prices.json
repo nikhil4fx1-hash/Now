@@ -1462,7 +1462,8 @@
     "trikayaradishmicrogreens50g": {
         "title": "Trikaya Radish Microgreens (50 g)",
         "price": 60,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Trikaya%20Radish%20Microgreens%20(50%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "nutrifreshbutterheadlettuceapprox100g": {
         "title": "Nutrifresh Butter Head Lettuce (Approx. 100 g)",
@@ -1853,7 +1854,7 @@
     },
     "waghbakripremiumleaftea500g": {
         "title": "Wagh Bakri Premium Leaf Tea (500 g)",
-        "price": 270,
+        "price": 276,
         "link": "https://www.amazon.in/s?k=Wagh%20Bakri%20Premium%20Leaf%20Tea%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2988,5 +2989,23 @@
         "price": 379,
         "link": "https://www.amazon.in/s?k=Continental%20Xtra%20Instant%20South%20Blend%20Coffee%20Powder%20Jar%20(200%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "mamaearthteatreefacewash250ml": {
+        "title": "Mamaearth Tea Tree Face Wash (250 ml)",
+        "price": 400,
+        "link": "https://www.amazon.in/s?k=Mamaearth%20Tea%20Tree%20Face%20Wash%20(250%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshleeks100g": {
+        "title": "Fresh Leeks (100 g)",
+        "price": 9,
+        "link": "https://www.amazon.in/s?k=Fresh%20Leeks%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": true
+    },
+    "solimoplasticstoragejarsetwithspoon": {
+        "title": "Solimo Plastic Storage Jar Set With Spoon",
+        "price": 379,
+        "link": "https://www.amazon.in/s?k=Solimo%20Plastic%20Storage%20Jar%20Set%20With%20Spoon&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
