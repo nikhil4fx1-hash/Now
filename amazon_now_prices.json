@@ -802,7 +802,7 @@
     },
     "amula2buffalomilkpouch500ml": {
         "title": "Amul A2 Buffalo Milk Pouch (500 ml)",
-        "price": 35,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Amul%20A2%20Buffalo%20Milk%20Pouch%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -839,7 +839,8 @@
     "akshayakalpaorganicamruthapasteurizedcowmilk500ml": {
         "title": "Akshayakalpa Organic Amrutha Pasteurized Cow Milk (500 ml)",
         "price": 50,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Amrutha%20Pasteurized%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "amulgoldpasteurizedfullcreammilkymilk500ml": {
         "title": "Amul Gold Pasteurized Full Cream Milky Milk (500 ml)",
@@ -1647,7 +1648,7 @@
     },
     "gillettefusion5powershavingrazor": {
         "title": "Gillette Fusion 5 Power Shaving Razor",
-        "price": 411,
+        "price": 483,
         "link": "https://www.amazon.in/s?k=Gillette%20Fusion%205%20Power%20Shaving%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2500,7 +2501,7 @@
     },
     "borosiltransparentchaitimeglasscupset": {
         "title": "Borosil Transparent Chai Time Glass Cup Set",
-        "price": 529,
+        "price": 568,
         "link": "https://www.amazon.in/s?k=Borosil%20Transparent%20Chai%20Time%20Glass%20Cup%20Set&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3117,6 +3118,12 @@
         "title": "Milton Insulated Coffee Mug - Black (300 ml)",
         "price": 652,
         "link": "https://www.amazon.in/s?k=Milton%20Insulated%20Coffee%20Mug%20-%20Black%20(300%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "meatzzachickenbreaststrips500g": {
+        "title": "Meatzza Chicken Breast Strips (500 g)",
+        "price": 361,
+        "link": "https://www.amazon.in/s?k=Meatzza%20Chicken%20Breast%20Strips%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
