@@ -1037,7 +1037,7 @@
     },
     "freshkiranwatermelonlarge": {
         "title": "Fresh Kiran Watermelon - Large",
-        "price": 87,
+        "price": 125,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1204,7 +1204,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 150,
+        "price": 227,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1346,7 +1346,8 @@
     "freshbittergourd250g": {
         "title": "Fresh Bitter Gourd (250 g)",
         "price": 15,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "freshiceberglettuce": {
         "title": "Fresh Iceberg Lettuce",
@@ -2771,7 +2772,8 @@
     "durexextratimecondomsformen": {
         "title": "Durex Extra Time Condoms for Men",
         "price": 651,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
@@ -2955,5 +2957,17 @@
         "price": 18,
         "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "appyfizzappledrink1l": {
+        "title": "Appy Fizz Apple Drink (1 L)",
+        "price": 45,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pepsodent2in1toothpaste150g": {
+        "title": "Pepsodent 2 in 1 Toothpaste (150 g)",
+        "price": 93,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
