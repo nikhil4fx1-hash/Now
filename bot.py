@@ -2,6 +2,7 @@ import asyncio
 import json
 import os
 import requests
+import urllib.parse
 from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -40,8 +41,8 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-# സാധാരണ പ്രൈസ് ഡ്രോപ്പുകൾക്കും 50% മെഗാ ഡീലുകൾക്കുമുള്ള അലേർട്ട് ഫംഗ്ഷൻ
-def send_telegram_alert(title, new_price, old_price, link, mrp=0, is_mega_deal=False):
+# ഇമേജ് ഉൾപ്പെടെ മെസ്സേജ് അയക്കാനുള്ള പുതിയ ഫംഗ്ഷൻ
+def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is_mega_deal=False):
     if is_mega_deal:
         discount_pct = round(((mrp - new_price) / mrp) * 100)
         message = (
@@ -62,13 +63,24 @@ def send_telegram_alert(title, new_price, old_price, link, mrp=0, is_mega_deal=F
             f"🔗 🛒 [Grab it Fast!]({link})"
         )
     
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHANNEL_ID,
-        "text": message,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": False
-    }
+    # ഇമേജ് ഉണ്ടെങ്കിൽ Photo ആയിട്ട് മെസ്സേജ് അയക്കുന്നു
+    if img_url and img_url.startswith('http'):
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "photo": img_url,
+            "caption": message,
+            "parse_mode": "Markdown"
+        }
+    else:
+        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        payload = {
+            "chat_id": TELEGRAM_CHANNEL_ID,
+            "text": message,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": False
+        }
+    
     requests.post(url, json=payload)
 
 async def scan_amazon_now():
@@ -104,7 +116,7 @@ async def scan_amazon_now():
                 await page.evaluate("window.scrollBy(0, 1000);")
                 await asyncio.sleep(2)
 
-                # പുതിയ Smart JS Parser: MRP കൂടി എടുക്കാൻ പാകത്തിൽ അപ്ഡേറ്റ് ചെയ്തത്
+                # ഇമേജും സ്മാർട്ട് ലിങ്കും എടുക്കാൻ അപ്ഡേറ്റ് ചെയ്ത JS
                 js_script = """
                 () => {
                     let results = {};
@@ -133,12 +145,10 @@ async def scan_amazon_now():
 
                         let lines = text.split('\\n').map(l => l.trim()).filter(l => l.length > 0);
                         
-                        // പേജിൽ കാണിക്കുന്ന എല്ലാ വിലകളും (MRP ഉൾപ്പെടെ) എടുക്കുന്നു
                         let allPrices = [...text.matchAll(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/g)].map(m => parseFloat(m[1].replace(/,/g, '')));
                         if(allPrices.length === 0) return;
                         
                         let price = allPrices[0];
-                        // ഒന്നിലധികം വിലയുണ്ടെങ്കിൽ അതിൽ ഏറ്റവും വലിയ വില MRP ആയി കണക്കാക്കുന്നു
                         let mrp = allPrices.length > 1 ? Math.max(...allPrices) : price;
                         
                         let title = "";
@@ -163,15 +173,28 @@ async def scan_amazon_now():
                                 }
                             }
                             
+                            // ഇമേജ് URL എടുക്കുന്നു
+                            let imgEl = card.querySelector('img');
+                            let imgUrl = imgEl ? imgEl.src : "";
+                            
+                            // സ്മാർട്ട് ലിങ്ക് സിസ്റ്റം
+                            let linkEl = card.querySelector('a');
+                            let link = "";
+                            if (linkEl && linkEl.href && !linkEl.href.includes('javascript') && !linkEl.href.endsWith('/')) {
+                                link = linkEl.href;
+                            } else {
+                                // ഡയറക്റ്റ് ലിങ്ക് ഇല്ലെങ്കിൽ ആമസോൺ സെർച്ച് ലിങ്ക് ഉണ്ടാക്കുന്നു
+                                link = "https://www.amazon.in/s?k=" + encodeURIComponent(title);
+                            }
+                            
                             let uid = title.toLowerCase().replace(/[^a-z0-9]/g, '');
                             if(uid.length > 5) {
-                                let linkEl = card.querySelector('a');
-                                let link = linkEl ? linkEl.href : window.location.href;
                                 results[uid] = {
                                     title: title,
                                     price: price,
                                     mrp: mrp,
-                                    link: link
+                                    link: link,
+                                    img: imgUrl
                                 };
                             }
                         }
@@ -186,40 +209,35 @@ async def scan_amazon_now():
                     new_price = data['price']
                     mrp = data['mrp']
                     link = data['link']
+                    img_url = data['img']
 
                     if AMAZON_AFFILIATE_TAG:
                         separator = "&" if "?" in link else "?"
                         link = f"{link}{separator}tag={AMAZON_AFFILIATE_TAG}"
 
-                    # ഡിസ്കൗണ്ട് ശതമാനം കണ്ടുപിടിക്കുന്നു
                     discount_pct = round(((mrp - new_price) / mrp) * 100) if mrp > new_price else 0
                     mega_alert_sent = False
 
                     if uid in price_database:
                         old_price = price_database[uid]['price']
-                        # ഈ പ്രൊഡക്റ്റിന് മുൻപ് 50% അലേർട്ട് നൽകിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കുന്നു
                         mega_alert_sent = price_database[uid].get('mega_alert_sent', False)
                         
                         if new_price < old_price:
-                            # വില കുറഞ്ഞാൽ...
                             if discount_pct >= 50:
-                                send_telegram_alert(title, new_price, old_price, link, mrp=mrp, is_mega_deal=True)
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
                                 mega_alert_sent = True
                             else:
-                                send_telegram_alert(title, new_price, old_price, link)
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url)
                                 mega_alert_sent = False
                         elif new_price == old_price:
-                            # വിലയിൽ മാറ്റമില്ല, എന്നാൽ ഡാറ്റാബേസിൽ ആദ്യമായിട്ടാണ് ഈ 50% ഡീൽ വരുന്നതെങ്കിൽ...
                             if discount_pct >= 50 and not mega_alert_sent:
-                                send_telegram_alert(title, new_price, old_price, link, mrp=mrp, is_mega_deal=True)
+                                send_telegram_alert(title, new_price, old_price, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
                                 mega_alert_sent = True
                     else:
-                        # ആദ്യമായി പുതിയൊരു പ്രൊഡക്റ്റ് കണ്ടെത്തുമ്പോൾ...
                         if discount_pct >= 50:
-                            send_telegram_alert(title, new_price, mrp, link, mrp=mrp, is_mega_deal=True)
+                            send_telegram_alert(title, new_price, mrp, link, img_url=img_url, mrp=mrp, is_mega_deal=True)
                             mega_alert_sent = True
                     
-                    # ഡാറ്റാബേസിൽ പുതിയ വിവരങ്ങൾ സേവ് ചെയ്യുന്നു
                     updated_database[uid] = {
                         "title": title, 
                         "price": new_price, 
