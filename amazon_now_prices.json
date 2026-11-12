@@ -1,1 +1,2337 @@
-{}
+{
+    "monsterultraenergydrinkcan350ml": {
+        "title": "Monster Ultra Energy Drink Can (350 ml)",
+        "price": 125,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cocacoladietcokecan330ml": {
+        "title": "Coca-Cola Diet Coke Can (330 ml)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "coolbergcranberrybeer330ml": {
+        "title": "Coolberg Cranberry Beer (330 ml)",
+        "price": 100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "redbullenergydrinkcan250ml": {
+        "title": "Red Bull Energy Drink Can (250 ml)",
+        "price": 125,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "limcalimenlemonisoftdrink1l": {
+        "title": "Limca Lime 'n' Lemoni Soft Drink (1 L)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "appyfizzappledrinkpetbottle160ml": {
+        "title": "Appy Fizz Apple Drink Pet Bottle (160 ml)",
+        "price": 10,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pepsisoftdrink400ml": {
+        "title": "Pepsi Soft Drink (400 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pepsizerosugarsoftdrink400ml": {
+        "title": "Pepsi Zero Sugar Soft Drink (400 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "coolbergpeachnonalcoholicbeer330ml": {
+        "title": "Coolberg Peach Non-Alcoholic Beer (330 ml)",
+        "price": 100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cocacolaoriginaltastesoftdrink750ml": {
+        "title": "Coca-Cola Original Taste Soft Drink (750 ml)",
+        "price": 38,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "7upzerosugarsoftdrink400ml": {
+        "title": "7Up Zero Sugar Soft Drink (400 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "coolbergstrawberrybeer330ml": {
+        "title": "Coolberg Strawberry Beer (330 ml)",
+        "price": 100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "spritesoftdrink225l": {
+        "title": "Sprite Soft Drink (2.25 L)",
+        "price": 87,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "limcalimenlemonisoftdrink750ml": {
+        "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
+        "price": 38,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thumsupsoftdrink750ml": {
+        "title": "Thums Up Soft Drink (750 ml)",
+        "price": 38,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "stingenergydrinkpetbottlecombo": {
+        "title": "Sting Energy Drink Pet Bottle Combo",
+        "price": 160,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "spritezerosugarsoftdrinkcan300ml": {
+        "title": "Sprite Zero Sugar Soft Drink Can (300 ml)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thumsupsoftdrink125l": {
+        "title": "Thums Up Soft Drink (1.25 L)",
+        "price": 62,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "coolbergmaltnonalcoholicbeer330ml": {
+        "title": "Coolberg Malt Non-Alcoholic Beer (330 ml)",
+        "price": 100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "kinleyclubsoda750ml": {
+        "title": "Kinley Club Soda (750 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "minutemaidpulpyorangejuice250ml": {
+        "title": "Minute Maid Pulpy Orange Juice (250 ml)",
+        "price": 25,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "maazaoriginalmangodrink250ml": {
+        "title": "Maaza Original Mango Drink (250 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thumsupsoftdrink": {
+        "title": "Thums Up Soft Drink",
+        "price": 156,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thumsupxforcesoftdrinkcan300ml": {
+        "title": "Thums Up Xforce Soft Drink Can (300 ml)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "minutemaidpulpyorangedrink1l": {
+        "title": "Minute Maid Pulpy Orange Drink (1 L)",
+        "price": 80,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "schweppesgingeraleflavoureddrink300ml": {
+        "title": "Schweppes Ginger Ale Flavoured Drink (300 ml)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "schweppespeachzerosparklingwater600ml": {
+        "title": "Schweppes Peach Zero Sparkling Water (600 ml)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cocacolaoriginaltastesoftdrinkcan300ml": {
+        "title": "Coca-Cola Original Taste Soft Drink Can (300 ml)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "schweppesindiantonicwater300ml": {
+        "title": "Schweppes Indian Tonic Water (300 ml)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cocacolaoriginaltastesoftdrink225l": {
+        "title": "Coca-Cola Original Taste Soft Drink (2.25 L)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "schweppeszerosugartonicwatercan300ml": {
+        "title": "Schweppes Zero Sugar Tonic Water Can (300 ml)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cocacolazerosugarsoftdrinkcan300ml": {
+        "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ritebitemaxproteinperiperichips32g": {
+        "title": "RiteBite Max Protein Peri Peri Chips (32 g)",
+        "price": 19,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "flavoursofcalicutvacuumfriedripejackfruitchips50g": {
+        "title": "Flavours of Calicut Vacuum Fried Ripe Jackfruit Chips (50 g)",
+        "price": 114,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tooyummclassicsaltedbananachips60g": {
+        "title": "Too Yumm! Classic Salted Banana Chips (60 g)",
+        "price": 46,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pringlessourcreamonionpotatocrisps40g": {
+        "title": "Pringles Sour Cream & Onion Potato Crisps (40 g)",
+        "price": 51,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ritebitemaxproteincreamonionchips32g": {
+        "title": "RiteBite Max Protein Cream & Onion Chips (32 g)",
+        "price": 19.4,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thebakersdozenmultigrain10gproteinchips45g": {
+        "title": "The Baker's Dozen Multigrain 10g Protein Chips (45 g)",
+        "price": 27,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "superyoumultigrainproteinchips40g": {
+        "title": "Superyou Multigrain Protein Chips (40 g)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ritebitemaxproteincheesejalapenochips32g": {
+        "title": "RiteBite Max Protein Cheese & Jalapeno Chips (32 g)",
+        "price": 19.4,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pringlesoriginalpotatocrisps40g": {
+        "title": "Pringles Original Potato Crisps (40 g)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "chhedasgoldenpotatochips170g": {
+        "title": "Chheda's - Golden Potato Chips (170 g)",
+        "price": 63,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "craxperiperiragichips80g": {
+        "title": "Crax Peri Peri Ragi Chips (80 g)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pringlesdesimasalatadkapotatocrisps40g": {
+        "title": "Pringles Desi Masala Tadka Potato Crisps (40 g)",
+        "price": 51,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pringlespizzaflavourpotatocrisps102g": {
+        "title": "Pringles Pizza Flavour Potato Crisps (102 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ritebitemaxproteinspanishtomatochips32g": {
+        "title": "RiteBite Max Protein Spanish Tomato Chips (32 g)",
+        "price": 19.4,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "troovymasalapunchragichips70g": {
+        "title": "Troovy Masala Punch Ragi Chips (70 g)",
+        "price": 48,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "beyondsnacknendrankeralabananachips75g": {
+        "title": "Beyond Snack Nendran Kerala Banana Chips (75 g)",
+        "price": 64,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "layscreamonionchips50g": {
+        "title": "Lay's Cream & Onion Chips (50 g)",
+        "price": 21,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "layswestindieshotnsweetchillichips48g": {
+        "title": "Lay's West Indies' Hot 'n' Sweet Chilli Chips (48 g)",
+        "price": 21,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=215540425031&title=Snacks+%26+Treats&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fiamagelbarmegacelebrationpack8x125g": {
+        "title": "Fiama Gel Bar Mega Celebration Pack (8 x 125 g)",
+        "price": 460,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cetaphilcleansingmoisturizingsyndetbar100g": {
+        "title": "Cetaphil Cleansing Moisturizing Syndet Bar (100 g)",
+        "price": 187,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cetaphilcleansingmoisturizingsyndetbar": {
+        "title": "Cetaphil Cleansing Moisturizing Syndet Bar",
+        "price": 667,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "doveglowrechargebodywash300ml": {
+        "title": "Dove Glow Recharge Body Wash (300 ml)",
+        "price": 316,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mcaffeinetripleactiondeobodywash250ml": {
+        "title": "mcaffeine Triple Action Deo Body Wash (250 ml)",
+        "price": 424,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "chemistatplaydailyexfoliatingbodywash236ml": {
+        "title": "Chemist At Play Daily ExfoliAting Body Wash (236 ml)",
+        "price": 367,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mcaffeineguavatinidetanbodywash300ml": {
+        "title": "mcaffeine Guava Tini De-Tan Body Wash (300 ml)",
+        "price": 381,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pearspuregentleoriginalbodywash750ml": {
+        "title": "Pears Pure & Gentle Original Body Wash (750 ml)",
+        "price": 321,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "doveexfoliatingbodywash300ml": {
+        "title": "Dove Exfoliating Bodywash (300 ml)",
+        "price": 204,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pearspuregentlebathingbar5x125g": {
+        "title": "Pears Pure & Gentle Bathing Bar (5 x 125 g)",
+        "price": 229,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "dovecreambeautybathingbar100g120g": {
+        "title": "Dove Cream Beauty Bathing Bar (100 g/120 g)",
+        "price": 62,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "doverestoringbodywash825ml": {
+        "title": "Dove Restoring Bodywash (825 ml)",
+        "price": 488.95,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cintholrefreshingdeosoap": {
+        "title": "Cinthol Refreshing Deo Soap",
+        "price": 166,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "doveserumbathingbar3x125g": {
+        "title": "Dove Serum Bathing Bar (3 x 125 g)",
+        "price": 220,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mamaearthubtanmoisturizinglotionsoap": {
+        "title": "Mamaearth Ubtan Moisturizing Lotion Soap",
+        "price": 298,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "simplerefreshingfacialwash100ml": {
+        "title": "Simple Refreshing Facial Wash (100 ml)",
+        "price": 224,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mamaearthricefacewash100ml": {
+        "title": "Mamaearth Rice Face Wash (100 ml)",
+        "price": 256,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "muuchstacoceanfacewash": {
+        "title": "Muuchstac Ocean Face Wash",
+        "price": 290,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "dermatouchbrightevenskintonefacewash70g": {
+        "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
+        "price": 141,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "biodermapigmentbiofoamingcream200ml": {
+        "title": "Bioderma Pigmentbio Foaming Cream (200 ml)",
+        "price": 1079,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thedermacosalicinamidefacewash80ml": {
+        "title": "The Derma Co Sali-Cinamide Face Wash (80 ml)",
+        "price": 211,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mamaearthubtanfacewash100ml": {
+        "title": "Mamaearth Ubtan Face Wash (100 ml)",
+        "price": 239,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mamaearthvitamincfacewash100ml": {
+        "title": "Mamaearth Vitamin C Face Wash (100 ml)",
+        "price": 239,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cetaphiloilyskincleanser59ml": {
+        "title": "Cetaphil Oily Skin Cleanser (59 ml)",
+        "price": 249,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cetaphilgentleskincleanser118ml": {
+        "title": "Cetaphil Gentle Skin Cleanser (118 ml)",
+        "price": 367,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pilgrimfoamingfacewash120ml": {
+        "title": "Pilgrim Foaming Face Wash (120 ml)",
+        "price": 276,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pilgrimkoreanricewaterhydraglowgelfacewash100ml": {
+        "title": "Pilgrim Korean Rice Water Hydra Glow Gel Face Wash (100 ml)",
+        "price": 208,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "dermatouchbyebyepigmentationfacewash70g": {
+        "title": "Dermatouch Bye Bye Pigmentation Face Wash (70 g)",
+        "price": 149,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "dotkeyhydratinggentlefacewash100ml": {
+        "title": "Dot & Key Hydrating Gentle Face Wash (100 ml)",
+        "price": 214,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992653031&title=Bath+%26+Body&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "happiplanetnontoxickitchencleaner500ml": {
+        "title": "Happi Planet Non-Toxic Kitchen Cleaner (500 ml)",
+        "price": 133,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "herbalstrategikitchencleanerliquid500ml": {
+        "title": "Herbal Strategi Kitchen Cleaner Liquid (500 ml)",
+        "price": 167,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "koparomagicfoamcleanerspray460ml": {
+        "title": "Koparo Magic Foam Cleaner Spray (460 ml)",
+        "price": 219,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mrmusclelemonkitchencleanercombo": {
+        "title": "Mr Muscle Lemon Kitchen Cleaner Combo",
+        "price": 299,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cifperfectfinishovengrillcleanerspray435ml": {
+        "title": "Cif Perfect Finish Oven & Grill Cleaner Spray (435 ml)",
+        "price": 279,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mrmusclekitchencleaner425ml": {
+        "title": "Mr. Muscle Kitchen Cleaner (425 ml)",
+        "price": 145,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "lizoldisinfectantkitchencleaner450ml": {
+        "title": "Lizol Disinfectant Kitchen Cleaner (450 ml)",
+        "price": 169,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cifpowershinekitchencleanerspray700ml": {
+        "title": "Cif Power & Shine Kitchen Cleaner Spray (700 ml)",
+        "price": 299,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "klenzmochimneykitchencleaner400ml": {
+        "title": "Klenzmo Chimney & Kitchen Cleaner (400 ml)",
+        "price": 335,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "koparokitchendegreasercleaner": {
+        "title": "Koparo Kitchen Degreaser & Cleaner",
+        "price": 335,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cleevokitchencleanerspray2l": {
+        "title": "Cleevo Kitchen Cleaner Spray (2 L)",
+        "price": 261,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nimeasynaturaldisinfectantpowercleanerspray450ml": {
+        "title": "Nimeasy Natural Disinfectant & Power Cleaner Spray (450 ml)",
+        "price": 192,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thegoodrinsekitchencleanernaturaldegreaser500ml": {
+        "title": "The Good Rinse Kitchen Cleaner - Natural Degreaser (500 ml)",
+        "price": 124,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952388031&title=Cleaners&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "surfexceleasywashdetergentpowder7kg": {
+        "title": "Surf Excel Easy Wash Detergent Powder (7 kg)",
+        "price": 778,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "surfexcelmaticliquiddetergentfrontload5l": {
+        "title": "Surf Excel Matic Liquid Detergent Front Load (5 L)",
+        "price": 825,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "morelightextrapowerliquiddetergentrefillpack5l": {
+        "title": "More Light Extra Power Liquid Detergent Refill Pack (5 L)",
+        "price": 399,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejfabliquiddetergentrefillpouch800g": {
+        "title": "Godrej Fab Liquid Detergent Refill Pouch (800 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "surfexcelmaticliquiddetergenttopload5kg": {
+        "title": "Surf Excel Matic Liquid Detergent Top Load (5 kg)",
+        "price": 654,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "arielmaticliquiddetergentfrontload6l": {
+        "title": "Ariel Matic Liquid Detergent Front Load (6 L)",
+        "price": 785,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "becopowerupnaturallaundryliquid5l": {
+        "title": "Beco Power Up Natural Laundry Liquid (5 L)",
+        "price": 448,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "rinmatictoploadliquiddetergent4l": {
+        "title": "Rin Matic Top Load Liquid Detergent (4 L)",
+        "price": 415,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "arielpowergelliquiddetergenttopload6kg": {
+        "title": "Ariel Power Gel Liquid Detergent Top Load (6 kg)",
+        "price": 782,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejgenteelmaticliquiddetergentrefill4kg": {
+        "title": "Godrej Genteel Matic Liquid Detergent Refill (4 kg)",
+        "price": 535,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ifbessentialsfluffmaticliquiddetergentrefillpack2l": {
+        "title": "IFB Essentials Fluff Matic Liquid Detergent Refill Pack (2 L)",
+        "price": 563,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "arielpowergelliquiddetergenttoploadsemiauto4kg": {
+        "title": "Ariel Power Gel Liquid Detergent Top Load & Semi Auto (4 kg)",
+        "price": 558,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "reviveliquidstiffener400g": {
+        "title": "Revive Liquid Stiffener (400 g)",
+        "price": 163,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "safewashpremiumliquiddetergentrefill": {
+        "title": "Safewash Premium Liquid Detergent Refill",
+        "price": 280,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tidedoublepowerdetergentpowder10kg": {
+        "title": "Tide Double Power+ Detergent Powder (10 kg)",
+        "price": 896,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mrwhiteultimatewhitenessdetergentpowder10kg": {
+        "title": "Mr. White Ultimate Whiteness Detergent Powder (10 kg)",
+        "price": 730,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "prestoactivewashdetergentpowder8kg": {
+        "title": "Presto! Active Wash Detergent Powder (8 kg)",
+        "price": 425,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tidenaturalsdetergentpowder3kg": {
+        "title": "Tide Naturals Detergent Powder (3 kg)",
+        "price": 257,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "morelightextrapowerdetergentpowder4kg": {
+        "title": "More Light Extra Power Detergent Powder (4 kg)",
+        "price": 270,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ghadidetergentpowder5kg": {
+        "title": "Ghadi Detergent Powder (5 kg)",
+        "price": 353,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortroyalefabricconditioner2l": {
+        "title": "Comfort Royale Fabric Conditioner (2 L)",
+        "price": 366,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "softouchafterwashfabricconditioner2l": {
+        "title": "Softouch After Wash Fabric Conditioner (2 L)",
+        "price": 348,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortmorningfreshfabricconditioner430ml": {
+        "title": "Comfort Morning Fresh Fabric Conditioner (430 ml)",
+        "price": 89,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortmorningfreshfabricconditioner2l": {
+        "title": "Comfort Morning Fresh Fabric Conditioner (2 L)",
+        "price": 409,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "softouchafterwashfabricconditioner": {
+        "title": "Softouch After Wash Fabric Conditioner",
+        "price": 199,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ujalacrispshinefabricenhancer1kg": {
+        "title": "Ujala Crisp & Shine Fabric Enhancer (1 kg)",
+        "price": 276,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortlilyfreshfabricconditionerrefillpack2l": {
+        "title": "Comfort Lily Fresh Fabric Conditioner Refill Pack (2 L)",
+        "price": 401,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ujalayoungfreshfabricconditioner2l": {
+        "title": "Ujala Young & Fresh Fabric Conditioner (2 L)",
+        "price": 340,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortperfumedeluxeelixirfabricconditioner18l": {
+        "title": "Comfort Perfume Deluxe Elixir Fabric Conditioner (1.8 L)",
+        "price": 425,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "softouchfabricconditioner2000ml": {
+        "title": "Softouch Fabric Conditioner (2000 ml)",
+        "price": 348,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortperfumedeluxemystiqueliquidfabricsoftener18l": {
+        "title": "Comfort Perfume Deluxe Mystique Liquid Fabric Softener (1.8 L)",
+        "price": 425,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortlilyfreshfabricconditioner220ml": {
+        "title": "Comfort Lily Fresh Fabric Conditioner (220 ml)",
+        "price": 65,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortperfumedeluxfabricconditioner2l": {
+        "title": "Comfort Perfume Delux Fabric Conditioner (2 L)",
+        "price": 402,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "koparocleanfabricconditioner850ml": {
+        "title": "Koparo Clean Fabric Conditioner (850 ml)",
+        "price": 179,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortantibacterialfabricconditioner860ml": {
+        "title": "Comfort Anti-Bacterial Fabric Conditioner (860 ml)",
+        "price": 245,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "comfortperfumedeluxepassionliquidfabricsoftener18l": {
+        "title": "Comfort Perfume Deluxe Passion Liquid Fabric Softener (1.8 L)",
+        "price": 405,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204952381031&title=Dishwash+%26+Detergents&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gokulpasteurisedfullcreammilk1l": {
+        "title": "Gokul Pasteurised Full Cream Milk (1 L)",
+        "price": 78,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gokulsaatvikpasteurisedcowmilk1l": {
+        "title": "Gokul Saatvik Pasteurised Cow Milk (1 L)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gokulpasteurisedfullcreammilk500ml": {
+        "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gokulsaatvikpasteurisedcowmilk500ml": {
+        "title": "Gokul Saatvik Pasteurised Cow Milk (500 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairycowmilk500ml": {
+        "title": "Mother Dairy Cow Milk (500 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairycowmilk1l": {
+        "title": "Mother Dairy Cow Milk (1 L)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amula2buffalomilkpouch500ml": {
+        "title": "Amul A2 Buffalo Milk Pouch (500 ml)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulgoldpasteurizedfullcreammilkymilk1l": {
+        "title": "Amul Gold Pasteurized Full Cream Milky Milk (1 L)",
+        "price": 72,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amultaazapasteurizedtonedmilkymilk1l": {
+        "title": "Amul Taaza Pasteurized Toned Milky Milk (1 L)",
+        "price": 59,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulpasteurizedhomogenisedcowmilk500ml": {
+        "title": "Amul Pasteurized Homogenised Cow Milk (500 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairytonedmilk1l": {
+        "title": "Mother Dairy Toned Milk (1 L)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amula2gircowmilkbottle1l": {
+        "title": "Amul A2 Gir Cow Milk Bottle (1 L)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "akshayakalpaorganicamruthapasteurizedcowmilk500ml": {
+        "title": "Akshayakalpa Organic Amrutha Pasteurized Cow Milk (500 ml)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulgoldpasteurizedfullcreammilkymilk500ml": {
+        "title": "Amul Gold Pasteurized Full Cream Milky Milk (500 ml)",
+        "price": 36,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairytonedmilk500ml": {
+        "title": "Mother Dairy Toned Milk (500 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amultaazapasteurisedtonedmilkymilk500ml": {
+        "title": "Amul Taaza Pasteurised Toned Milky Milk (500 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sidsfarma2buffalomilk500ml": {
+        "title": "Sid's Farm A2 Buffalo Milk (500 ml)",
+        "price": 66,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sidsfarmtonedmilk500ml": {
+        "title": "Sid's Farm Toned Milk (500 ml)",
+        "price": 38,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amullactosefreemilk250ml": {
+        "title": "Amul Lactose Free Milk (250 ml)",
+        "price": 26,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "akshayakalpaorganicpasteurizedcowmilk500ml": {
+        "title": "Akshayakalpa Organic Pasteurized Cow Milk (500 ml)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "heritagetotalcurdpouch500g": {
+        "title": "Heritage Total Curd Pouch (500 g)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulcurdpouch700g": {
+        "title": "Amul Curd Pouch (700 g)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulmastidahipouch1kg": {
+        "title": "Amul Masti Dahi Pouch (1 kg)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairyclassicdahipouch1kg": {
+        "title": "Mother Dairy Classic Dahi Pouch (1 kg)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulmastidahicup200g": {
+        "title": "Amul Masti Dahi - Cup (200 g)",
+        "price": 25,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairyclassicdahicup80g": {
+        "title": "Mother Dairy Classic Dahi - Cup (80 g)",
+        "price": 10,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulmastidahitub1kg": {
+        "title": "Amul Masti Dahi - Tub (1 kg)",
+        "price": 109,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairyclassicdahipouch380g": {
+        "title": "Mother Dairy Classic Dahi Pouch (380 g)",
+        "price": 35,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gokuldahipouch500g": {
+        "title": "Gokul Dahi Pouch (500 g)",
+        "price": 47,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sidsfarmcurdpouch450g": {
+        "title": "Sid's Farm Curd Pouch (450 g)",
+        "price": 55,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "heritagetotalcurdpouch1kg": {
+        "title": "Heritage Total Curd Pouch (1 kg)",
+        "price": 82,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amulmastidahicup400g": {
+        "title": "Amul Masti Dahi - Cup (400 g)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "motherdairylowfatdahipouch1kg": {
+        "title": "Mother Dairy Low Fat Dahi Pouch (1 kg)",
+        "price": 73,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "akshayakalpaartisanalorganicsetcurdtub1kg": {
+        "title": "Akshayakalpa Artisanal Organic Set Curd - Tub (1 kg)",
+        "price": 170,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "epigamianaturalgreekyogurt": {
+        "title": "Epigamia Natural Greek Yogurt",
+        "price": 207,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "epigamiastrawberryeverydayyogurt75g": {
+        "title": "Epigamia Strawberry Everyday Yogurt (75 g)",
+        "price": 22,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "countrydelightgharjaisadahicup400g": {
+        "title": "Country Delight Ghar Jaisa Dahi Cup (400 g)",
+        "price": 57,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "epigamiablueberrygreekyogurt85g": {
+        "title": "Epigamia Blueberry Greek Yogurt (85 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "milkymistfarmfreshcurdtub1kg": {
+        "title": "Milky Mist Farm Fresh Curd - Tub (1 kg)",
+        "price": 125,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "epigamiamangoeverydayyogurt75g": {
+        "title": "Epigamia Mango Everyday Yogurt (75 g)",
+        "price": 19,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshrobustabanana500g": {
+        "title": "Fresh Robusta Banana (500 g)",
+        "price": 24,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrownlemon100g": {
+        "title": "Fresh Naturally Grown Lemon (100 g)",
+        "price": 32,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpapayamedium1pc700g": {
+        "title": "Fresh Papaya Medium (1 Pc, 700 g)",
+        "price": 91,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshkashmirapple2pcs": {
+        "title": "Fresh Kashmir Apple (2 Pcs)",
+        "price": 71,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpomegranateanarregular2pcs": {
+        "title": "Fresh Pomegranate (Anar) - Regular (2 Pcs)",
+        "price": 121,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshbabyrobustbanana1kg": {
+        "title": "Fresh Baby Robust Banana (1 kg)",
+        "price": 41,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshkiranwatermelonlarge": {
+        "title": "Fresh Kiran Watermelon - Large",
+        "price": 125,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshyelakkibanana500g": {
+        "title": "Fresh Yelakki Banana (500 g)",
+        "price": 63,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnagpurbabyorange1kg": {
+        "title": "Fresh Nagpur Baby Orange (1 kg)",
+        "price": 66,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshsmallpapaya500g": {
+        "title": "Fresh Small Papaya (500 g)",
+        "price": 76,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpremiumguava": {
+        "title": "Fresh Premium Guava",
+        "price": 44,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshsweetlimemosambiregular500g": {
+        "title": "Fresh Sweet Lime (Mosambi) - Regular (500 g)",
+        "price": 32,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshorganicwatermelonkiran": {
+        "title": "Fresh Organic Water Melon Kiran",
+        "price": 121,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshorganiclemon100g": {
+        "title": "Fresh Organic Lemon (100 g)",
+        "price": 33,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshshimlaapple": {
+        "title": "Fresh Shimla Apple",
+        "price": 92,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshsmallpomegranate1kg": {
+        "title": "Fresh Small Pomegranate (1 kg)",
+        "price": 259,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshappleroyalgalaregular": {
+        "title": "Fresh Apple Royal Gala - Regular",
+        "price": 107,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshqueenapple": {
+        "title": "Fresh Queen Apple",
+        "price": 130,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnagpurorange1kg": {
+        "title": "Fresh Nagpur Orange (1 kg)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshroyalgalaappleregular": {
+        "title": "Fresh Royal Gala Apple - Regular",
+        "price": 176,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpremiumhassavocadolarge": {
+        "title": "Fresh Premium Hass Avocado (Large)",
+        "price": 109,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshavocadomediumregular": {
+        "title": "Fresh Avocado (Medium) - Regular",
+        "price": 87,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshblueberrypremium125g": {
+        "title": "Fresh Blueberry - Premium (125 g)",
+        "price": 259,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshamarphalpersimmon500g": {
+        "title": "Fresh Amarphal (Persimmon) (500 g)",
+        "price": 179,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshfig": {
+        "title": "Fresh Fig",
+        "price": 58,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshdragonfruitredfleshindian1pc": {
+        "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
+        "price": 61,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpremiumdragonfruitwhite": {
+        "title": "Fresh Premium Dragon Fruit White",
+        "price": 78,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "superplumkinnaurapplepesticidetested4pcs": {
+        "title": "Superplum Kinnaur Apple Pesticide Tested (4Pcs)",
+        "price": 176,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshkiwigreen3pcs": {
+        "title": "Fresh Kiwi - Green (3 Pcs)",
+        "price": 90,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshdragonfruitwhiteflesh": {
+        "title": "Fresh Dragon Fruit White Flesh",
+        "price": 74,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgoldzesprikiwi3pcs": {
+        "title": "Fresh Gold Zespri Kiwi (3 Pcs)",
+        "price": 229,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshlongan100g": {
+        "title": "Fresh Longan (100 g)",
+        "price": 46,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshreddeliciousappleregular": {
+        "title": "Fresh Red Delicious Apple - Regular",
+        "price": 185,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshcapegooseberry100g": {
+        "title": "Fresh Cape Gooseberry (100 g)",
+        "price": 53,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgreenpearregular": {
+        "title": "Fresh Green Pear - Regular",
+        "price": 227,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpremiumseedlessgrapes250g": {
+        "title": "Fresh Premium Seedless Grapes (250 g)",
+        "price": 142,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshraspberry125g": {
+        "title": "Fresh Raspberry (125 g)",
+        "price": 299,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshbabykiwi": {
+        "title": "Fresh Baby Kiwi",
+        "price": 159,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpremiumroyalgalaapple": {
+        "title": "Fresh Premium Royal Gala Apple",
+        "price": 128,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=220619214031&title=Fruits&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshbeetrootdeal200250g": {
+        "title": "Fresh Beet Root - Deal (200-250 g)",
+        "price": 6,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshdrumstickmoringa250g": {
+        "title": "Fresh Drumstick (Moringa) (250 g)",
+        "price": 35,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgreenpeas250g": {
+        "title": "Fresh Green Peas (250 g)",
+        "price": 67,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshootycarrot250g": {
+        "title": "Fresh Ooty Carrot (250 g)",
+        "price": 10,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshvarikatribrinjal250g": {
+        "title": "Fresh Varikatri Brinjal (250 g)",
+        "price": 13,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgreencapsicum250g": {
+        "title": "Fresh Green Capsicum (250 g)",
+        "price": 16,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshmushroom180200g": {
+        "title": "Fresh Mushroom (180-200 g)",
+        "price": 56,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshsmallcauliflower": {
+        "title": "Fresh Small Cauliflower",
+        "price": 21,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrowncauliflower": {
+        "title": "Fresh Naturally Grown Cauliflower",
+        "price": 18,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrownfrenchbeans500g": {
+        "title": "Fresh Naturally Grown French Beans (500 g)",
+        "price": 48,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrowndrumstick250g": {
+        "title": "Fresh Naturally Grown Drumstick (250 g)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshredyellowcapsicummix2pcs": {
+        "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
+        "price": 49,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrownbeetroot250g": {
+        "title": "Fresh Naturally Grown Beetroot (250 g)",
+        "price": 18,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshbhindiladyfinger250g": {
+        "title": "Fresh Bhindi (Lady Finger) (250 g)",
+        "price": 15,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshsweetcorn1pc": {
+        "title": "Fresh Sweet Corn (1 Pc)",
+        "price": 22,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshwhitecucumber500g": {
+        "title": "Fresh White Cucumber (500 g)",
+        "price": 31,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshorganicdrumstick250g": {
+        "title": "Fresh Organic Drumstick (250 g)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnagpurbrinjal250g": {
+        "title": "Fresh Nagpur Brinjal (250 g)",
+        "price": 14,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshwhiteradish500g": {
+        "title": "Fresh White Radish (500 g)",
+        "price": 34,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshbittergourd250g": {
+        "title": "Fresh Bitter Gourd (250 g)",
+        "price": 15,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshiceberglettuce": {
+        "title": "Fresh Iceberg Lettuce",
+        "price": 46,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgreenlettuce250g": {
+        "title": "Fresh Green Lettuce (250 g)",
+        "price": 42,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshmethifenugreekleaveswithoutrootscleaned250g": {
+        "title": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned) (250 g)",
+        "price": 40,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrowncabbage1pc": {
+        "title": "Fresh Naturally Grown Cabbage (1 Pc)",
+        "price": 12,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshdrumstickmoringaleaves100g": {
+        "title": "Fresh Drumstick (Moringa) Leaves (100 g)",
+        "price": 26,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayawheatgrass50g": {
+        "title": "Trikaya Wheatgrass (50 g)",
+        "price": 39,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshgreenamaranthus250g": {
+        "title": "Fresh Green Amaranthus (250 g)",
+        "price": 21,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nutrifreshmixlettuceapprox100g": {
+        "title": "Nutrifresh Mix Lettuce (Approx. 100 g)",
+        "price": 48,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayaamericankalecurledleaves250g": {
+        "title": "Trikaya American Kale - Curled Leaves (250 g)",
+        "price": 67,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshredamaranthus250g": {
+        "title": "Fresh Red Amaranthus (250 g)",
+        "price": 15,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshcolocasialeafarvipatta10pcs": {
+        "title": "Fresh Colocasia Leaf (Arvi Patta) (10 Pcs)",
+        "price": 25,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshpokchoy250g": {
+        "title": "Fresh Pok Choy (250 g)",
+        "price": 31,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayasunflowermicrogreens50g": {
+        "title": "Trikaya Sunflower Microgreens (50 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshnaturallygrowncolocasialeafarvipatta10pcs": {
+        "title": "Fresh Naturally Grown Colocasia Leaf (Arvi Patta) (10 Pcs)",
+        "price": 20,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshromainelettuce1pc": {
+        "title": "Fresh Romaine Lettuce (1 Pc)",
+        "price": 19,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshorganiccolocasialeafarvipatta10pcs": {
+        "title": "Fresh Organic Colocasia Leaf (Arvi Patta) (10 Pcs)",
+        "price": 22,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayapeasshootmicrogreens50g": {
+        "title": "Trikaya Peas Shoot Microgreens (50 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayababyspinach100g": {
+        "title": "Trikaya Baby Spinach (100 g)",
+        "price": 45,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "trikayaradishmicrogreens50g": {
+        "title": "Trikaya Radish Microgreens (50 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nutrifreshbutterheadlettuceapprox100g": {
+        "title": "Nutrifresh Butter Head Lettuce (Approx. 100 g)",
+        "price": 57,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "rangnapurealumbar100g": {
+        "title": "Rangna Pure Alum Bar (100 g)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteguardshavingrazorwithcatridges1set": {
+        "title": "Gillette Guard Shaving Razor With Catridges (1 Set)",
+        "price": 166,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanyshavingalumbar100g": {
+        "title": "Bombay Shaving Company Shaving Alum Bar (100 g)",
+        "price": 98,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteregularshavingfoam50g": {
+        "title": "Gillette Regular Shaving Foam (50 g)",
+        "price": 95,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanyflexistudrazor": {
+        "title": "Bombay Shaving Company Flexi Stud Razor",
+        "price": 199,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "mannlichintimatehairremovalcreamformen100ml": {
+        "title": "Mannlich Intimate Hair Removal Cream For Men (100 ml)",
+        "price": 279,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettemach3shavingcatridges": {
+        "title": "Gillette Mach3 Shaving Catridges",
+        "price": 900,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "urbangabruhairremovalcreamspray200ml": {
+        "title": "urbangabru Hair Removal Cream Spray (200 ml)",
+        "price": 549,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanysensismart3razor": {
+        "title": "Bombay Shaving Company Sensi Smart 3 Razor",
+        "price": 199,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteseriesshavinggel60g": {
+        "title": "Gillette Series Shaving Gel (60 g)",
+        "price": 93,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanysensismart3cartridge": {
+        "title": "Bombay Shaving Company Sensi Smart 3 Cartridge",
+        "price": 225,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteshavebrush1pc": {
+        "title": "Gillette Shave Brush (1 Pc)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettesensitiveshavingfoam418g": {
+        "title": "Gillette Sensitive Shaving Foam (418 g)",
+        "price": 270,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettefusion5shavingrazor": {
+        "title": "Gillette Fusion 5 Shaving Razor",
+        "price": 360,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanyintimatehairremovalcream": {
+        "title": "Bombay Shaving Company Intimate Hair Removal Cream",
+        "price": 269,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "dettolcitruspinelathershavingcream78g": {
+        "title": "Dettol Citrus Pine Lather Shaving Cream (78 g)",
+        "price": 79,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanyhairremovalspray200ml": {
+        "title": "Bombay Shaving Company Hair Removal Spray (200 ml)",
+        "price": 449,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteregularshavingfoam418g": {
+        "title": "Gillette Regular Shaving Foam (418 g)",
+        "price": 261,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettevectorshavingblades6pcs": {
+        "title": "Gillette Vector Shaving Blades (6 Pcs)",
+        "price": 267,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gilletteguard3in1shavingrazor": {
+        "title": "Gillette Guard 3 in1 Shaving Razor",
+        "price": 198,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "beardoprecisionshapingbeardstylingtool": {
+        "title": "Beardo Precision Shaping Beard Styling Tool",
+        "price": 233,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettemach3shavingrazor": {
+        "title": "Gillette Mach 3 Shaving Razor",
+        "price": 363,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "letsshavepro2disposablerazor": {
+        "title": "Letsshave Pro 2+ Disposable Razor",
+        "price": 95,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettemach33bladedrazor1unit": {
+        "title": "Gillette Mach3 3-Bladed Razor (1 Unit)",
+        "price": 234,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanyclassicsafetymetalrazor1unit": {
+        "title": "Bombay Shaving Company Classic Safety Metal Razor (1 Unit)",
+        "price": 629,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanysensismart3razorcharcoalshavingfoamcombo": {
+        "title": "Bombay Shaving Company Sensi Smart 3 Razor & Charcoal Shaving Foam Combo",
+        "price": 100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettevectorplusshavingrazorbladescartridges": {
+        "title": "Gillette Vector Plus Shaving Razor Blades/Cartridges",
+        "price": 188,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bombayshavingcompanybeardstylingpen": {
+        "title": "Bombay Shaving Company Beard Styling Pen",
+        "price": 249,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "letsshavepro6portablerazor1unit": {
+        "title": "Letsshave Pro 6 Portable Razor (1 Unit)",
+        "price": 105,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettefusion5powershavingrazor": {
+        "title": "Gillette Fusion 5 Power Shaving Razor",
+        "price": 411,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "letsshaveproshavingstyler": {
+        "title": "Letsshave Pro Shaving Styler",
+        "price": 199,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettevectorshavingrazor1unit": {
+        "title": "Gillette Vector + Shaving Razor (1 Unit)",
+        "price": 105,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettemensmach3turborazor": {
+        "title": "Gillette Men's Mach 3 Turbo Razor",
+        "price": 352,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gillettelabsshavingrazorstandcombo": {
+        "title": "Gillette Labs Shaving Razor & Stand Combo",
+        "price": 1180,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "muscleblazeyeastproteinisolate1kg": {
+        "title": "Muscle Blaze Yeast Protein Isolate (1 kg)",
+        "price": 1999,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "optimumnutritiongoldstandardwheyproteinpowder907g": {
+        "title": "Optimum Nutrition Gold Standard Whey Protein Powder (907 g)",
+        "price": 4606,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "superyouprofermentedyeastprotein1kg": {
+        "title": "Superyou Pro Fermented Yeast Protein (1 kg)",
+        "price": 2305,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nakproimpactwheyprotein1kg": {
+        "title": "Nakpro Impact Whey Protein (1 kg)",
+        "price": 1599,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thewholetruthrawwheyproteinconcentrate1kg": {
+        "title": "The Whole Truth Raw Whey Protein Concentrate (1 kg)",
+        "price": 3599,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "grovivagoldmilkproteinpowder400g": {
+        "title": "Groviva Gold Milk Protein Powder (400 g)",
+        "price": 710,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nutrabaypureisolatepeaprotein1kg": {
+        "title": "Nutrabay Pure Isolate Pea Protein (1 kg)",
+        "price": 899,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "thewholetruthwheyproteinisolateconcentrate1kg": {
+        "title": "The Whole Truth Whey Protein Isolate + Concentrate (1 kg)",
+        "price": 4769,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "truebasicscleanyeastproteinpowder1kg": {
+        "title": "Truebasics Clean Yeast Protein Powder (1 kg)",
+        "price": 2099,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cosmixnononsenseplantproteinsupplement1kg": {
+        "title": "Cosmix No-Nonsense Plant Protein Supplement (1 kg)",
+        "price": 2090,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "muscleblazebiozymeperformancewheyprotein1kg": {
+        "title": "MuscleBlaze Biozyme Performance Whey Protein (1 kg)",
+        "price": 4199,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "horlicksproteinpowder": {
+        "title": "Horlicks Protein Powder",
+        "price": 2100,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "truebasicscleanplantprotein1kg": {
+        "title": "Truebasics Clean Plant Protein (1 kg)",
+        "price": 2099,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ayuvyaigainletsgainayurvedicweightsupplementcombo": {
+        "title": "Ayuvya i-Gain+ & Lets Gain Ayurvedic Weight Supplement Combo",
+        "price": 1399,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cosmixnononsenseplantproteinsupplementcombo": {
+        "title": "Cosmix No-Nonsense Plant Protein Supplement Combo",
+        "price": 599,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gncproperformanceweightgainer3kg": {
+        "title": "GNC Pro Performance Weight Gainer (3 Kg)",
+        "price": 1999,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "yogabarprocleanplantproteinpowder500g": {
+        "title": "Yoga Bar Pro Clean Plant Protein Powder (500 g)",
+        "price": 399,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "optimumnutritiongoldstandardwheyprotein": {
+        "title": "Optimum Nutrition Gold Standard Whey Protein",
+        "price": 999,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "beastlifeperformanceproteinpowder1kg": {
+        "title": "Beastlife Performance Protein Powder (1 kg)",
+        "price": 2399,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015896031&title=Nutrition+%26+Protein&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "chaayosmasaladesichai250g": {
+        "title": "Chaayos Masala Desi Chai (250 g)",
+        "price": 147,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateaagnielaichichai250g": {
+        "title": "Tata Tea Agni Elaichi Chai (250 g)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sammvaadpremiumchai250g": {
+        "title": "Sammvaad Premium Chai (250 g)",
+        "price": 169,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateapremiumblacktea15kg": {
+        "title": "Tata Tea Premium (Black tea) (1.5 kg)",
+        "price": 547,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateagoldassamtea1kg": {
+        "title": "Tata Tea Gold - Assam Tea (1 kg)",
+        "price": 437,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateagoldallin1instantpremix": {
+        "title": "Tata Tea Gold All-in-1 Instant Premix",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateagoldallin1instantmasalateapremix140g": {
+        "title": "Tata Tea Gold All-In-1 Instant Masala Tea Premix (140 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "waghbakripremiumleaftea250g": {
+        "title": "Wagh Bakri Premium Leaf Tea (250 g)",
+        "price": 150,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "brookebondredlabelinstantmasalachaipremix": {
+        "title": "Brooke Bond Red Label Instant Masala Chai Premix",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "waghbakripremiumspicedtea500g": {
+        "title": "Wagh Bakri Premium Spiced Tea (500 g)",
+        "price": 294,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "chaayosadrakelaichidesichai250g": {
+        "title": "Chaayos Adrak Elaichi Desi Chai (250 g)",
+        "price": 155,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "waghbakripremiumleaftea500g": {
+        "title": "Wagh Bakri Premium Leaf Tea (500 g)",
+        "price": 276,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateaagnielaichichai1kg": {
+        "title": "Tata Tea Agni Elaichi Chai (1 kg)",
+        "price": 306,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "brookebondredlabelinstantgingerchaipremix": {
+        "title": "Brooke Bond Red Label Instant Ginger Chai Premix",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "societyassamleaftea250g": {
+        "title": "Society Assam Leaf Tea (250 g)",
+        "price": 145,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateaagni1kg": {
+        "title": "Tata Tea Agni (1 kg)",
+        "price": 240,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "chaayoscardamominstantteapremix": {
+        "title": "Chaayos Cardamom Instant Tea Premix",
+        "price": 143,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatateagoldassamtea100g": {
+        "title": "Tata Tea Gold - Assam Tea (100 g)",
+        "price": 50,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bevzillaclassicinstantcoffeesachets": {
+        "title": "Bevzilla Classic Instant Coffee Sachets",
+        "price": 96,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nescafeclassicinstantcoffeepowdersachets": {
+        "title": "Nescafe Classic Instant Coffee Powder Sachets",
+        "price": 135,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "davidofffinearomainstantcoffee100g": {
+        "title": "Davidoff Fine Aroma Instant Coffee (100 g)",
+        "price": 879,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "continentalxtrainstantsouthblendcoffeepowder50g": {
+        "title": "Continental Xtra Instant South Blend Coffee Powder (50 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sleepyowldarkroastcoffee15g": {
+        "title": "Sleepy Owl Dark Roast Coffee (15 g)",
+        "price": 169,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "brugoldeditionrichflavourfreezedriedcoffee": {
+        "title": "Bru Gold Edition Rich Flavour Freeze Dried Coffee",
+        "price": 93,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nescafeblackroastinstantcoffee90g": {
+        "title": "Nescafe Black Roast Instant Coffee (90 g)",
+        "price": 445,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "coffeedayarabicaroastedgroundcoffee200g": {
+        "title": "Coffee Day Arabica Roasted Ground Coffee (200 g)",
+        "price": 282,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "lavazzagustocremacoffeebeans500g": {
+        "title": "Lavazza Gusto Crema Coffee Beans (500 g)",
+        "price": 710,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nescafeclassicinstantcoffeepowderjar180g": {
+        "title": "Nescafe Classic Instant Coffee Powder Jar (180 g)",
+        "price": 725,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatacoffeequickfiltercoorgkaapi200ml": {
+        "title": "Tata Coffee Quick Filter Coorg Kaapi (200 ml)",
+        "price": 167,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bruinstantcoffee50g": {
+        "title": "Bru Instant Coffee (50 g)",
+        "price": 116,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bevzillaassortedcoffeekit1unit": {
+        "title": "Bevzilla Assorted Coffee Kit (1 Unit)",
+        "price": 243,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sleepyowlintensejavaxpressocoffee100g": {
+        "title": "Sleepy Owl Intense Java Xpresso Coffee (100 g)",
+        "price": 319,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "bruinstantcoffee200g": {
+        "title": "Bru Instant Coffee (200 g)",
+        "price": 373,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sleepyowlhazelnutinstantcoffeesachets": {
+        "title": "Sleepy Owl Hazelnut Instant Coffee Sachets",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "continentalsuperstrongcoffeejar50g": {
+        "title": "Continental Super Strong Coffee Jar (50 g)",
+        "price": 86,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "levistastronginstantcoffee50g": {
+        "title": "Levista Strong Instant Coffee (50 g)",
+        "price": 79,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sleepyowlfrenchvanillainstantcoffeesachets": {
+        "title": "Sleepy Owl French Vanilla Instant Coffee Sachets",
+        "price": 96,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadhighproteinatta1kg": {
+        "title": "Aashirvaad High Protein Atta (1 Kg)",
+        "price": 71,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadsuperiormpatta10kg": {
+        "title": "Aashirvaad Superior MP Atta (10 kg)",
+        "price": 624,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadchakkikhapliatta1kg": {
+        "title": "Aashirvaad Chakki Khapli Atta (1 kg)",
+        "price": 173,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fortunechakkifreshatta2kg": {
+        "title": "Fortune Chakki Fresh Atta (2 kg)",
+        "price": 115,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadhighproteinatta5kg": {
+        "title": "Aashirvaad High Protein Atta (5 Kg)",
+        "price": 401,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "vedakaragiflour1kg": {
+        "title": "Vedaka Ragi Flour (1 kg)",
+        "price": 79,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fortunechakkifreshatta1kg": {
+        "title": "Fortune Chakki Fresh Atta (1 kg)",
+        "price": 48,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fortunechakkifreshatta10kg": {
+        "title": "Fortune Chakki Fresh Atta (10 kg)",
+        "price": 444,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "weikfieldcornstarchcornflour500g": {
+        "title": "Weikfield Corn Starch (Cornflour) (500 g)",
+        "price": 79,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "pillsburychakkifreshatta5kg": {
+        "title": "Pillsbury Chakki Fresh Atta (5 kg)",
+        "price": 205,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tatasampanneasycookbajraatta500g": {
+        "title": "Tata Sampann, Easy Cook Bajra Atta (500 g)",
+        "price": 75,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "vedakariceflour500g": {
+        "title": "Vedaka Rice Flour (500 g)",
+        "price": 29,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "weikfieldcornstarchcornflour100g": {
+        "title": "Weikfield Corn Starch (Cornflour) (100 g)",
+        "price": 29,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "organictattvabuckwheatkuttuflour250g": {
+        "title": "Organic Tattva Buckwheat (Kuttu) Flour (250 g)",
+        "price": 85,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadattawithmultigrains5kg": {
+        "title": "Aashirvaad Atta With Multigrains (5 kg)",
+        "price": 329,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aashirvaadchakkipremiumblendmplokwanatta1kg": {
+        "title": "Aashirvaad Chakki Premium Blend MP Lokwan Atta (1 Kg)",
+        "price": 63,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fortunechakkifreshatta5kg": {
+        "title": "Fortune Chakki Fresh Atta (5 kg)",
+        "price": 224,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshtohomepremiumchicken450g": {
+        "title": "FreshToHome Premium Chicken (450 g)",
+        "price": 190,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejrealgoodchickenkeema300g": {
+        "title": "Godrej Real Good Chicken Keema (300 g)",
+        "price": 169,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejrealgoodbonelesschickenbreast450g": {
+        "title": "Godrej Real Good Boneless Chicken Breast (450 g)",
+        "price": 243,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "halalboxchickencurrycut400g": {
+        "title": "Halal Box Chicken Curry Cut (400 g)",
+        "price": 129,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "eliciousfreshchickenwhole12kg": {
+        "title": "Elicious Fresh Chicken Whole (1.2 kg)",
+        "price": 279,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "delichicchickenbreast500g": {
+        "title": "Deli Chic Chicken Breast (500 g)",
+        "price": 266,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "delichicchickenbroth200g": {
+        "title": "Deli Chic Chicken Broth (200 g)",
+        "price": 239,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejrealgoodcurrycutchicken500g": {
+        "title": "Godrej Real Good Curry Cut Chicken (500 g)",
+        "price": 190,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "eliciouschickenlollypop450g": {
+        "title": "Elicious Chicken Lollypop (450 g)",
+        "price": 189,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshtohomereadytoeatmadraschickenfry180g": {
+        "title": "FreshToHome Ready To Eat Madras Chicken Fry (180 g)",
+        "price": 158,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "delichicchicken500g": {
+        "title": "Deli Chic Chicken (500 g)",
+        "price": 200,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "meatigobyprasumachickenkeemaminced450g": {
+        "title": "Meatigo by Prasuma Chicken Keema (Minced) (450 g)",
+        "price": 235,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "freshtohomepremiumchicken4800g": {
+        "title": "FreshToHome Premium Chicken (480.0 g)",
+        "price": 196,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "meatzzachickenthigh500g": {
+        "title": "Meatzza Chicken Thigh (500 g)",
+        "price": 280,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "meatzzafreshchickenmince500g": {
+        "title": "Meatzza Fresh Chicken Mince (500 g)",
+        "price": 260,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "laafrozenchickenliver200g": {
+        "title": "Laa Frozen Chicken Liver (200 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "meatzzafreshchickenbreast500g": {
+        "title": "Meatzza Fresh Chicken Breast (500 g)",
+        "price": 260,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "laafrozenchickengizzard200g": {
+        "title": "Laa Frozen Chicken Gizzard (200 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "meatzzafreshchickenwings500g": {
+        "title": "Meatzza Fresh Chicken Wings (500 g)",
+        "price": 230,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "godrejrealgoodchickendrumsticks500g": {
+        "title": "Godrej Real Good Chicken Drumsticks (500 g)",
+        "price": 226,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "megaprawnslarge500g": {
+        "title": "Mega Prawns - Large (500 g)",
+        "price": 390,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "naikmackerelbangdaayilaaila500g": {
+        "title": "Naik Mackerel/Bangda/Ayila/Aila (500 g)",
+        "price": 160,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ifbfreshcatchmediumprawns200g": {
+        "title": "IFB Fresh Catch Medium Prawns (200 g)",
+        "price": 176,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "megaprawnsmedium500g": {
+        "title": "Mega Prawns - Medium (500 g)",
+        "price": 371,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "megaprawnssmall500g": {
+        "title": "Mega Prawns - Small (500 g)",
+        "price": 336,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ifbfreshcatchlargeprawns200g": {
+        "title": "IFB Fresh Catch Large Prawns (200 g)",
+        "price": 217,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "octorikadryprawns50g": {
+        "title": "Octorika Dry Prawns (50 g)",
+        "price": 80,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "klassindianbasariversalmonfillets500g": {
+        "title": "Klass Indian Basa/River Salmon Fillets (500 g)",
+        "price": 312,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "itcmasterchefmediumprawns200g": {
+        "title": "ITC Master Chef Medium Prawns (200 g)",
+        "price": 225,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "delichicrohu500g": {
+        "title": "Deli Chic Rohu (500 g)",
+        "price": 285,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "octorikadrysmallshrimp40g": {
+        "title": "Octorika Dry Small Shrimp (40 g)",
+        "price": 70,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "octorikadryanchovy40g": {
+        "title": "Octorika Dry Anchovy (40 g)",
+        "price": 80,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "klasstilapiafillets500g": {
+        "title": "Klass Tilapia Fillets (500 g)",
+        "price": 352,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "octorikadryribbonfish60g": {
+        "title": "Octorika Dry Ribbon Fish (60 g)",
+        "price": 90,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "octorikadrybombayduckfish60g": {
+        "title": "Octorika Dry Bombay Duck Fish (60 g)",
+        "price": 140,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gadretilapiafishfillet250g": {
+        "title": "Gadre Tilapia Fish Fillet (250 g)",
+        "price": 171,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "hsdryfishbombayduckfish80g": {
+        "title": "H.S.Dry Fish Bombay Duck Fish (80 g)",
+        "price": 140,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "tastynibblessardineinoil185g": {
+        "title": "Tasty Nibbles Sardine in Oil (185 g)",
+        "price": 135,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "gadreimitationcrabsticks250g": {
+        "title": "Gadre Imitation Crab Sticks (250 g)",
+        "price": 265,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "naikseersurmaineymeenfishsteak500g": {
+        "title": "Naik Seer/Surmai/Neymeen Fish Steak (500 g)",
+        "price": 600,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "miltoncryofridgestorageboxesset": {
+        "title": "Milton Cryo Fridge Storage Boxes Set",
+        "price": 449,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "rilionmultipurpose6in1masalaboxblue1unit": {
+        "title": "RILION Multipurpose 6-in-1 Masala Box - Blue (1 Unit)",
+        "price": 171,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nestasiaglassoilsprayerbottlebeige220ml": {
+        "title": "Nestasia Glass Oil Sprayer Bottle - Beige (220 ml)",
+        "price": 235,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "rilion6fridgestorageboxesset": {
+        "title": "Rilion 6 Fridge Storage Boxes Set",
+        "price": 198,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "signorawareplasticbananacaseyellow1pc": {
+        "title": "Signoraware Plastic Banana Case - Yellow (1 Pc)",
+        "price": 88,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "vasukie2in1oilsprayeranddispenserbottle1pc500ml": {
+        "title": "Vasukie 2-in-1 Oil Sprayer and Dispenser Bottle (1 Pc, 500 ml)",
+        "price": 198,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "clazkitplasticoildispenser1l1l": {
+        "title": "Clazkit Plastic Oil Dispenser (1L) (1 L)",
+        "price": 109,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amazonbasicsmultipurposeziplockstoragebagsmm45pcs": {
+        "title": "Amazon Basics Multipurpose Zip Lock Storage Bags - M (M, 45 Pcs)",
+        "price": 319,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "prokartmultipurposeziplockpouches50pcs": {
+        "title": "ProKart Multi-Purpose Zip Lock Pouches (50 Pcs)",
+        "price": 159,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "cellocheckersairtightcanistersetblack1set18pcs": {
+        "title": "Cello Checkers Airtight Canister Set - Black (1 Set (18 Pcs))",
+        "price": 599,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "homewiz3in1glassoildispenserblack500ml": {
+        "title": "HomeWiz 3-in-1 Glass Oil Dispenser - Black (500 ml)",
+        "price": 249,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aristolockfresh403storagecontainer108l108l": {
+        "title": "Aristo Lock & Fresh 403 Storage Container (10.8L) (10.8 L)",
+        "price": 369,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "homestrapreusablemeshfridgestoragezipperpouches1set12pcs": {
+        "title": "HomeStrap Reusable Mesh Fridge Storage Zipper Pouches (1 Set (12 Pcs))",
+        "price": 247,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aristolockfresh503storagecontainer750ml750ml": {
+        "title": "Aristo Lock & Fresh 503 Storage Container (750ml) (750 ml)",
+        "price": 114,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "miltonvintageairtightcontainerswithspoons": {
+        "title": "Milton Vintage Airtight Containers With Spoons",
+        "price": 284,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "amazonbasicsmultipurposestoragesliderbags": {
+        "title": "Amazon Basics Multi Purpose Storage Slider Bags",
+        "price": 439,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sitovitransparentglassjarwithblacklid": {
+        "title": "Sitovi Transparent Glass Jar With Black Lid",
+        "price": 352,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "agaroborosilicateglassmixingbowlwithlid": {
+        "title": "Agaro Borosilicate Glass Mixing Bowl With Lid",
+        "price": 899,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "aristolockfresh334storagecontainer607l607l": {
+        "title": "Aristo Lock & Fresh 334 Storage Container (6.07L) (6.07 L)",
+        "price": 354,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nestasiastackableceramiccupssetfloralblue": {
+        "title": "Nestasia Stackable Ceramic Cups Set - Floral Blue",
+        "price": 999,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "birchcosilkensippremiumcrystalwineglasses": {
+        "title": "Birch & Co. Silkensip Premium Crystal Wine Glasses",
+        "price": 499,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "celloexecutivebeermugwithhandle": {
+        "title": "Cello Executive Beer Mug with Handle",
+        "price": 239,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "miltoncoppertumblerwithlid480ml": {
+        "title": "Milton Copper Tumbler With Lid (480 ml)",
+        "price": 417,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "miltonstainlesssteeltumblerwithlid415ml": {
+        "title": "Milton Stainless Steel Tumbler With Lid (415 ml)",
+        "price": 187,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "agaroelegantwhiskeyglassset": {
+        "title": "Agaro Elegant Whiskey Glass Set",
+        "price": 499,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "borosiltransparentchaitimeglasscupset": {
+        "title": "Borosil Transparent Chai Time Glass Cup Set",
+        "price": 499,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "signorawarestainlesssteelminitumbler300ml300ml": {
+        "title": "SignoraWare Stainless Steel Mini Tumbler (300ml) (300 ml)",
+        "price": 139,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "agaroelegant45mltequilashotglassset": {
+        "title": "Agaro Elegant 45ml Tequila Shot Glass Set",
+        "price": 279,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "agaroelegantbeermug": {
+        "title": "Agaro Elegant Beer Mug",
+        "price": 269,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "borosiltransparentdrinkingglass": {
+        "title": "Borosil Transparent Drinking Glass",
+        "price": 639,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "ganeshhappytimestylishcoffeemug": {
+        "title": "Ganesh Happy Time Stylish Coffee Mug",
+        "price": 234,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "nestasiapicksip40tumblerperiwinkle12l": {
+        "title": "Nestasia PickSip40 Tumbler - Periwinkle (1.2 L)",
+        "price": 999,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "femoraceramicgoldlinediamondcutwhitecupwithsaucerset": {
+        "title": "Femora Ceramic Gold Line Diamond Cut White Cup With Saucer Set",
+        "price": 1263,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "borosillatteteacoffeemugset240mleach": {
+        "title": "Borosil Latte Tea/Coffee Mug Set - 240 ml Each",
+        "price": 480,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "birchcocrystalclearwhiskeyglassset": {
+        "title": "Birch & Co. Crystal Clear Whiskey Glass Set",
+        "price": 1499,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "oceanplazaglasstumblertransparent": {
+        "title": "Ocean Plaza Glass Tumbler, Transparent",
+        "price": 549,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "vasukiepandacoffeemug1unit": {
+        "title": "Vasukie Panda Coffee Mug (1 Unit)",
+        "price": 559,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "borosilvisiontransparentglassset205mleach": {
+        "title": "Borosil Vision Transparent Glass Set - 205 ml Each",
+        "price": 454,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=206264743031&title=Kitchen+Essentials&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatevisiblewhitepurpletoothpaste75g": {
+        "title": "Colgate Visible White Purple Toothpaste (75 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "perforafluoridepurplemagicwhiteningtoothpaste125g": {
+        "title": "Perfora Fluoride+ Purple Magic Whitening Toothpaste (125 g)",
+        "price": 269,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "drreddyssenquelfsensitiveteethtoothpaste100g": {
+        "title": "Dr Reddy's Senquel-F+ Sensitive Teeth Toothpaste (100 g)",
+        "price": 181,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatestrongteethanticavitytoothpaste": {
+        "title": "Colgate Strong Teeth Anticavity Toothpaste",
+        "price": 363,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "whytwhiteningtoothpaste70g": {
+        "title": "Whyt Whitening Toothpaste (70 g)",
+        "price": 177,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatetotalactivepreventiontoothpaste": {
+        "title": "Colgate Total Active Prevention Toothpaste",
+        "price": 220,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "vantejlonglastingprotectiontoothpaste100g": {
+        "title": "Vantej Long-Lasting Protection Toothpaste (100 g)",
+        "price": 320,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatevisiblewhitepurpletoothpaste": {
+        "title": "Colgate Visible White Purple Toothpaste",
+        "price": 245,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "stolinractivegumcaretoothpaste120g": {
+        "title": "Stolin-R Active Gum Care Toothpaste (120 g)",
+        "price": 233,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sensodynepronamelenamelprotectiontoothpaste": {
+        "title": "Sensodyne Pronamel Enamel Protection Toothpaste",
+        "price": 238,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sensodynefreshminttoothpaste75g": {
+        "title": "Sensodyne Fresh Mint Toothpaste (75 g)",
+        "price": 133,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatestrongteethanticavitytoothpaste100g": {
+        "title": "Colgate Strong Teeth Anticavity Toothpaste (100 g)",
+        "price": 73,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "fangfarmmintnaturaltoothpaste120g": {
+        "title": "Fang Farm Mint Natural Toothpaste (120 g)",
+        "price": 298,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "daburredayurvedicgeltoothpaste300g": {
+        "title": "Dabur Red Ayurvedic Gel Toothpaste (300 g)",
+        "price": 134,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sensodynerepairprotecttoothpaste": {
+        "title": "Sensodyne Repair & Protect Toothpaste",
+        "price": 384,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "patanjalidantkantiadvancetoothpaste": {
+        "title": "Patanjali Dant Kanti Advance Toothpaste",
+        "price": 135,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "sensodynerapidrelieftoothpastecombo": {
+        "title": "Sensodyne Rapid Relief Toothpaste Combo",
+        "price": 316,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatestrongteethtoothpaste150g": {
+        "title": "Colgate Strong Teeth Toothpaste (150 g)",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "colgatemaxfreshspicyfreshredgeltoothpaste": {
+        "title": "Colgate Maxfresh Spicy Fresh Red Gel Toothpaste",
+        "price": 182,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "manforcextrapassionultrathincondoms": {
+        "title": "Manforce Xtra Passion Ultra Thin Condoms",
+        "price": 112,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "manforcekingdotscondoms": {
+        "title": "Manforce King Dots Condoms",
+        "price": 125,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexextratimeultrathincondom": {
+        "title": "Durex Extra Time Ultra Thin Condom",
+        "price": 373,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexnaturalssmoothglidecondoms": {
+        "title": "Durex Naturals Smooth Glide Condoms",
+        "price": 477,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexairultrathincondoms": {
+        "title": "Durex Air Ultra Thin Condoms",
+        "price": 92,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "manforceepicthinxultrathincondoms": {
+        "title": "MANforce Epic ThinX Ultra Thin Condoms",
+        "price": 205,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexextratimecondoms": {
+        "title": "Durex Extra Time Condoms",
+        "price": 99,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexrealfeelcondoms": {
+        "title": "Durex Real Feel Condoms",
+        "price": 172,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "skoreskinfitultrathincondoms": {
+        "title": "Skore Skin Fit Ultra Thin Condoms",
+        "price": 168,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "boldcareultrathindelaycondoms": {
+        "title": "Bold Care Ultra Thin Delay Condoms",
+        "price": 127,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "kamasutradottedcondoms": {
+        "title": "Kamasutra Dotted Condoms",
+        "price": 150,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "skorenotoutdottedcondoms": {
+        "title": "Skore Notout Dotted Condoms",
+        "price": 81,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "skorenothingclimaxdelaycondoms": {
+        "title": "Skore Nothing Climax Delay Condoms",
+        "price": 114,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexinvisible003condoms": {
+        "title": "Durex Invisible 003 Condoms",
+        "price": 496,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "manforcedots1740litchiextradottedcondoms": {
+        "title": "Manforce Dots 1740 Litchi Extra Dotted Condoms",
+        "price": 93,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    },
+    "durexextratimecondomsformen": {
+        "title": "Durex Extra Time Condoms for Men",
+        "price": 651,
+        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015909031&title=Sexual+Wellness&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+    }
+}
