@@ -98,7 +98,7 @@
     "spritezerosugarsoftdrinkcan300ml": {
         "title": "Sprite Zero Sugar Soft Drink Can (300 ml)",
         "price": 40,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924538031&title=Beverages&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "link": "https://www.amazon.in/s?k=Sprite%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "thumsupsoftdrink125l": {
@@ -766,7 +766,7 @@
     },
     "gokulpasteurisedfullcreammilk1l": {
         "title": "Gokul Pasteurised Full Cream Milk (1 L)",
-        "price": 70,
+        "price": 78,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1581,7 +1581,8 @@
     "gilletteregularshavingfoam418g": {
         "title": "Gillette Regular Shaving Foam (418 g)",
         "price": 270,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204992619031&title=Men%2527s+Grooming&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Gillette%20Regular%20Shaving%20Foam%20(418%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "gillettevectorshavingblades6pcs": {
         "title": "Gillette Vector Shaving Blades (6 Pcs)",
@@ -1986,7 +1987,8 @@
     "bruinstantcoffee200g": {
         "title": "Bru Instant Coffee (200 g)",
         "price": 373,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204924535031&title=Tea+%26+Coffee&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Bru%20Instant%20Coffee%20(200%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "sleepyowlhazelnutinstantcoffeesachets": {
         "title": "Sleepy Owl Hazelnut Instant Coffee Sachets",
@@ -2691,7 +2693,8 @@
     "colgatemaxfreshspicyfreshredgeltoothpaste": {
         "title": "Colgate Maxfresh Spicy Fresh Red Gel Toothpaste",
         "price": 182,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=205015906031&title=Oral+Care&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Colgate%20Maxfresh%20Spicy%20Fresh%20Red%20Gel%20Toothpaste&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "manforcextrapassionultrathincondoms": {
         "title": "Manforce Xtra Passion Ultra Thin Condoms",
@@ -3175,6 +3178,24 @@
         "title": "Trikaya Rocket Wild Greens (100 g)",
         "price": 60,
         "link": "https://www.amazon.in/s?k=Trikaya%20Rocket%20Wild%20Greens%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "davidoffricharomainstantcoffee100g": {
+        "title": "Davidoff Rich Aroma Instant Coffee (100 g)",
+        "price": 844,
+        "link": "https://www.amazon.in/s?k=Davidoff%20Rich%20Aroma%20Instant%20Coffee%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "tatasampanneasycookjowaratta500g": {
+        "title": "Tata Sampann, Easy Cook Jowar Atta (500g)",
+        "price": 66,
+        "link": "https://www.amazon.in/s?k=Tata%20Sampann%2C%20Easy%20Cook%20Jowar%20Atta%20(500g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "miltonairtightcontainertransparent1pc": {
+        "title": "Milton Air Tight Container-Transparent (1 Pc)",
+        "price": 147,
+        "link": "https://www.amazon.in/s?k=Milton%20Air%20Tight%20Container-Transparent%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
