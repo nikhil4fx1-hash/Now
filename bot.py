@@ -40,15 +40,27 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-def send_telegram_alert(title, new_price, old_price, link):
-    drop_amount = round(old_price - new_price, 2)
-    message = (
-        f"📉 *PRICE DROP ALERT* 📉\n\n"
-        f"📦 {title}\n"
-        f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
-        f"❌ Old Price: ~~₹{old_price}~~\n\n"
-        f"🔗 🛒 [Grab it Fast!]({link})"
-    )
+# സാധാരണ പ്രൈസ് ഡ്രോപ്പുകൾക്കും 50% മെഗാ ഡീലുകൾക്കുമുള്ള അലേർട്ട് ഫംഗ്ഷൻ
+def send_telegram_alert(title, new_price, old_price, link, mrp=0, is_mega_deal=False):
+    if is_mega_deal:
+        discount_pct = round(((mrp - new_price) / mrp) * 100)
+        message = (
+            f"🔥 *MEGA DISCOUNT (50%+ OFF)* 🔥\n\n"
+            f"📦 {title}\n"
+            f"💰 Deal Price: *₹{new_price}*\n"
+            f"❌ MRP: ~~₹{mrp}~~\n"
+            f"🏷️ Discount: *{discount_pct}% OFF*\n\n"
+            f"🔗 🛒 [Grab it Fast!]({link})"
+        )
+    else:
+        drop_amount = round(old_price - new_price, 2)
+        message = (
+            f"📉 *PRICE DROP ALERT* 📉\n\n"
+            f"📦 {title}\n"
+            f"💰 New Price: *₹{new_price}* (Dropped by ₹{drop_amount})\n"
+            f"❌ Old Price: ~~₹{old_price}~~\n\n"
+            f"🔗 🛒 [Grab it Fast!]({link})"
+        )
     
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     payload = {
@@ -92,6 +104,7 @@ async def scan_amazon_now():
                 await page.evaluate("window.scrollBy(0, 1000);")
                 await asyncio.sleep(2)
 
+                # പുതിയ Smart JS Parser: MRP കൂടി എടുക്കാൻ പാകത്തിൽ അപ്ഡേറ്റ് ചെയ്തത്
                 js_script = """
                 () => {
                     let results = {};
@@ -120,9 +133,13 @@ async def scan_amazon_now():
 
                         let lines = text.split('\\n').map(l => l.trim()).filter(l => l.length > 0);
                         
-                        let priceMatch = text.match(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/);
-                        if(!priceMatch) return;
-                        let price = parseFloat(priceMatch[1].replace(/,/g, ''));
+                        // പേജിൽ കാണിക്കുന്ന എല്ലാ വിലകളും (MRP ഉൾപ്പെടെ) എടുക്കുന്നു
+                        let allPrices = [...text.matchAll(/₹\\s*([0-9,]+(?:\\.[0-9]+)?)/g)].map(m => parseFloat(m[1].replace(/,/g, '')));
+                        if(allPrices.length === 0) return;
+                        
+                        let price = allPrices[0];
+                        // ഒന്നിലധികം വിലയുണ്ടെങ്കിൽ അതിൽ ഏറ്റവും വലിയ വില MRP ആയി കണക്കാക്കുന്നു
+                        let mrp = allPrices.length > 1 ? Math.max(...allPrices) : price;
                         
                         let title = "";
                         let titleIndex = -1;
@@ -153,6 +170,7 @@ async def scan_amazon_now():
                                 results[uid] = {
                                     title: title,
                                     price: price,
+                                    mrp: mrp,
                                     link: link
                                 };
                             }
@@ -163,35 +181,57 @@ async def scan_amazon_now():
                 """
                 extracted_products = await page.evaluate(js_script)
                 
-                if len(extracted_products) == 0:
-                    try:
-                        page_title = await page.title()
-                        error_log.append(f"⚠️ 0 items ({page_title[:15]}...)")
-                    except:
-                        pass
-                    continue
-
                 for uid, data in extracted_products.items():
                     title = data['title']
                     new_price = data['price']
+                    mrp = data['mrp']
                     link = data['link']
 
                     if AMAZON_AFFILIATE_TAG:
                         separator = "&" if "?" in link else "?"
                         link = f"{link}{separator}tag={AMAZON_AFFILIATE_TAG}"
 
+                    # ഡിസ്കൗണ്ട് ശതമാനം കണ്ടുപിടിക്കുന്നു
+                    discount_pct = round(((mrp - new_price) / mrp) * 100) if mrp > new_price else 0
+                    mega_alert_sent = False
+
                     if uid in price_database:
                         old_price = price_database[uid]['price']
+                        # ഈ പ്രൊഡക്റ്റിന് മുൻപ് 50% അലേർട്ട് നൽകിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കുന്നു
+                        mega_alert_sent = price_database[uid].get('mega_alert_sent', False)
+                        
                         if new_price < old_price:
-                            send_telegram_alert(title, new_price, old_price, link)
+                            # വില കുറഞ്ഞാൽ...
+                            if discount_pct >= 50:
+                                send_telegram_alert(title, new_price, old_price, link, mrp=mrp, is_mega_deal=True)
+                                mega_alert_sent = True
+                            else:
+                                send_telegram_alert(title, new_price, old_price, link)
+                                mega_alert_sent = False
+                        elif new_price == old_price:
+                            # വിലയിൽ മാറ്റമില്ല, എന്നാൽ ഡാറ്റാബേസിൽ ആദ്യമായിട്ടാണ് ഈ 50% ഡീൽ വരുന്നതെങ്കിൽ...
+                            if discount_pct >= 50 and not mega_alert_sent:
+                                send_telegram_alert(title, new_price, old_price, link, mrp=mrp, is_mega_deal=True)
+                                mega_alert_sent = True
+                    else:
+                        # ആദ്യമായി പുതിയൊരു പ്രൊഡക്റ്റ് കണ്ടെത്തുമ്പോൾ...
+                        if discount_pct >= 50:
+                            send_telegram_alert(title, new_price, mrp, link, mrp=mrp, is_mega_deal=True)
+                            mega_alert_sent = True
                     
-                    updated_database[uid] = {"title": title, "price": new_price, "link": link}
+                    # ഡാറ്റാബേസിൽ പുതിയ വിവരങ്ങൾ സേവ് ചെയ്യുന്നു
+                    updated_database[uid] = {
+                        "title": title, 
+                        "price": new_price, 
+                        "link": link,
+                        "mega_alert_sent": mega_alert_sent
+                    }
                     total_items_scanned += 1
                 
                 await asyncio.sleep(2) 
 
             except Exception as e:
-                error_log.append(f"❌ Error loading {category_name}: {str(e)[:40]}")
+                error_log.append(f"Error loading {category_name}: {str(e)[:40]}")
                 continue
 
         await browser.close()
@@ -199,7 +239,6 @@ async def scan_amazon_now():
     price_database.update(updated_database)
     save_json(DATA_FILE, price_database)
     
-    # ലോഗിൽ കാണാൻ വേണ്ടി മാത്രം പ്രിന്റ് ചെയ്യുന്നു
     print(f"Scan complete. Total items scanned: {total_items_scanned}")
     if error_log:
         print("Errors encountered:", error_log)
