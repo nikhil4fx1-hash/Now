@@ -881,7 +881,8 @@
     "akshayakalpaorganicpasteurizedcowmilk500ml": {
         "title": "Akshayakalpa Organic Pasteurized Cow Milk (500 ml)",
         "price": 40,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Pasteurized%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "heritagetotalcurdpouch500g": {
         "title": "Heritage Total Curd Pouch (500 g)",
@@ -981,8 +982,9 @@
     },
     "countrydelightgharjaisadahicup400g": {
         "title": "Country Delight Ghar Jaisa Dahi Cup (400 g)",
-        "price": 57,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb"
+        "price": 52,
+        "link": "https://www.amazon.in/s?k=Country%20Delight%20Ghar%20Jaisa%20Dahi%20Cup%20(400%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "epigamiablueberrygreekyogurt85g": {
         "title": "Epigamia Blueberry Greek Yogurt (85 g)",
@@ -3124,6 +3126,48 @@
         "title": "Meatzza Chicken Breast Strips (500 g)",
         "price": 361,
         "link": "https://www.amazon.in/s?k=Meatzza%20Chicken%20Breast%20Strips%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "cocacolazerosugarsoftdrink750ml": {
+        "title": "Coca-Cola Zero Sugar Soft Drink (750 ml)",
+        "price": 38,
+        "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshguavaamrudh500g": {
+        "title": "Fresh Guava (Amrudh) (500 g)",
+        "price": 74,
+        "link": "https://www.amazon.in/s?k=Fresh%20Guava%20(Amrudh)%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshnivapremiumthaiguavapink1pc300g": {
+        "title": "FreshNiva Premium Thai Guava Pink (1 Pc (300g +))",
+        "price": 72,
+        "link": "https://www.amazon.in/s?k=FreshNiva%20Premium%20Thai%20Guava%20Pink%20(1%20Pc%20(300g%20%2B))&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshnivapremiumpomegranate2pcs500g": {
+        "title": "FreshNiva Premium Pomegranate (2 Pcs (500 g))",
+        "price": 219,
+        "link": "https://www.amazon.in/s?k=FreshNiva%20Premium%20Pomegranate%20(2%20Pcs%20(500%20g))&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshtohomepremiumchickenbiryanicut450g": {
+        "title": "FreshToHome Premium Chicken Biryani Cut (450 g)",
+        "price": 191,
+        "link": "https://www.amazon.in/s?k=FreshToHome%20Premium%20Chicken%20Biryani%20Cut%20(450%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshtohomefreshchickenmincekheema": {
+        "title": "FreshToHome Fresh Chicken Mince/Kheema",
+        "price": 271,
+        "link": "https://www.amazon.in/s?k=FreshToHome%20Fresh%20Chicken%20Mince%2FKheema&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "fangtoothpastecombo": {
+        "title": "Fang Toothpaste Combo",
+        "price": 499,
+        "link": "https://www.amazon.in/s?k=Fang%20Toothpaste%20Combo&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
