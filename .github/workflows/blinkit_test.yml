@@ -18,7 +18,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install playwright requests
+          pip install playwright requests playwright-stealth
           playwright install chromium
 
       - name: Run Blinkit Test Script
@@ -26,9 +26,3 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: python blinkit_test.py
-
-      - name: Upload Screenshot
-        uses: actions/upload-artifact@v4
-        with:
-          name: blinkit-debug-screenshot
-          path: blinkit_debug.png
