@@ -133,7 +133,7 @@
     },
     "thumsupsoftdrink": {
         "title": "Thums Up Soft Drink",
-        "price": 156,
+        "price": 157,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -820,7 +820,7 @@
     },
     "amulpasteurizedhomogenisedcowmilk500ml": {
         "title": "Amul Pasteurized Homogenised Cow Milk (500 ml)",
-        "price": 30,
+        "price": 32,
         "link": "https://www.amazon.in/s?k=Amul%20Pasteurized%20Homogenised%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1307,7 +1307,7 @@
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
         "price": 53,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrownbeetroot250g": {
         "title": "Fresh Naturally Grown Beetroot (250 g)",
@@ -1633,7 +1633,7 @@
     },
     "gillettevectorplusshavingrazorbladescartridges": {
         "title": "Gillette Vector Plus Shaving Razor Blades/Cartridges",
-        "price": 188,
+        "price": 180,
         "link": "https://www.amazon.in/s?k=Gillette%20Vector%20Plus%20Shaving%20Razor%20Blades%2FCartridges&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2110,7 +2110,7 @@
     },
     "fortunechakkifreshatta5kg": {
         "title": "Fortune Chakki Fresh Atta (5 kg)",
-        "price": 224,
+        "price": 223,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3169,6 +3169,12 @@
         "title": "Fang Toothpaste Combo",
         "price": 499,
         "link": "https://www.amazon.in/s?k=Fang%20Toothpaste%20Combo&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "trikayarocketwildgreens100g": {
+        "title": "Trikaya Rocket Wild Greens (100 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/s?k=Trikaya%20Rocket%20Wild%20Greens%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
