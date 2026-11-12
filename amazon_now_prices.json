@@ -1119,7 +1119,7 @@
         "title": "Fresh Royal Gala Apple - Regular",
         "price": 176,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshpremiumhassavocadolarge": {
         "title": "Fresh Premium Hass Avocado (Large)",
@@ -1308,7 +1308,7 @@
     "freshnaturallygrownbeetroot250g": {
         "title": "Fresh Naturally Grown Beetroot (250 g)",
         "price": 18,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21",
+        "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Beetroot%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "freshbhindiladyfinger250g": {
@@ -1374,7 +1374,8 @@
     "freshnaturallygrowncabbage1pc": {
         "title": "Fresh Naturally Grown Cabbage (1 Pc)",
         "price": 12,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Cabbage%20(1%20Pc)&tag=flashsale069-21",
+        "mega_alert_sent": true
     },
     "freshdrumstickmoringaleaves100g": {
         "title": "Fresh Drumstick (Moringa) Leaves (100 g)",
@@ -2885,7 +2886,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 28,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3018,7 +3019,7 @@
     },
     "freshpomegranateanar4pcs": {
         "title": "Fresh Pomegranate (Anar) (4 Pcs)",
-        "price": 246,
+        "price": 225,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(Anar)%20(4%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
