@@ -895,7 +895,7 @@
     },
     "amulmastidahipouch1kg": {
         "title": "Amul Masti Dahi Pouch (1 kg)",
-        "price": 85,
+        "price": 80,
         "link": "https://www.amazon.in/s?k=Amul%20Masti%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1026,7 +1026,7 @@
     },
     "freshpomegranateanarregular2pcs": {
         "title": "Fresh Pomegranate (Anar) - Regular (2 Pcs)",
-        "price": 84,
+        "price": 123,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(Anar)%20-%20Regular%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2848,7 +2848,8 @@
     "freshbhindiladyfingerdeal200g": {
         "title": "Fresh Bhindi (Lady finger) - Deal (200 g)",
         "price": 8,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Fresh%20Bhindi%20(Lady%20finger)%20-%20Deal%20(200%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "freshbhartabrinjal2pcs500g": {
         "title": "Fresh Bharta Brinjal (2 Pcs, 500 g)",
@@ -3033,5 +3034,17 @@
         "price": 96,
         "link": "https://www.amazon.in/s?k=Dabur%20Activated%20Charcoal%20Whitening%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "freshpassionfruit500g": {
+        "title": "Fresh Passion Fruit (500 g)",
+        "price": 145,
+        "link": "https://www.amazon.in/s?k=Fresh%20Passion%20Fruit%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshplumregular250g": {
+        "title": "Fresh Plum - Regular (250 g)",
+        "price": 77,
+        "link": "https://www.amazon.in/s?k=Fresh%20Plum%20-%20Regular%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
