@@ -1181,7 +1181,7 @@
     },
     "freshgoldzesprikiwi3pcs": {
         "title": "Fresh Gold Zespri Kiwi (3 Pcs)",
-        "price": 149,
+        "price": 229,
         "link": "https://www.amazon.in/s?k=Fresh%20Gold%20Zespri%20Kiwi%20(3%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1789,7 +1789,7 @@
     },
     "chaayosmasaladesichai250g": {
         "title": "Chaayos Masala Desi Chai (250 g)",
-        "price": 147,
+        "price": 156,
         "link": "https://www.amazon.in/s?k=Chaayos%20Masala%20Desi%20Chai%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2050,7 +2050,7 @@
     },
     "fortunechakkifreshatta10kg": {
         "title": "Fortune Chakki Fresh Atta (10 kg)",
-        "price": 447,
+        "price": 439,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3014,6 +3014,12 @@
         "title": "Fresh Beetroot (250 g)",
         "price": 11,
         "link": "https://www.amazon.in/s?k=Fresh%20Beetroot%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshpomegranateanar4pcs": {
+        "title": "Fresh Pomegranate (Anar) (4 Pcs)",
+        "price": 255,
+        "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(Anar)%20(4%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
