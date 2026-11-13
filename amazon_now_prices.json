@@ -247,7 +247,7 @@
     },
     "chhedasgoldenpotatochips170g": {
         "title": "Chheda's - Golden Potato Chips (170 g)",
-        "price": 60,
+        "price": 62,
         "link": "https://www.amazon.in/s?k=Chheda's%20-%20Golden%20Potato%20Chips%20(170%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -472,7 +472,7 @@
     },
     "happiplanetnontoxickitchencleaner500ml": {
         "title": "Happi Planet Non-Toxic Kitchen Cleaner (500 ml)",
-        "price": 150,
+        "price": 133,
         "link": "https://www.amazon.in/s?k=Happi%20Planet%20Non-Toxic%20Kitchen%20Cleaner%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -784,7 +784,7 @@
     },
     "gokulsaatvikpasteurisedcowmilk500ml": {
         "title": "Gokul Saatvik Pasteurised Cow Milk (500 ml)",
-        "price": 29,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Gokul%20Saatvik%20Pasteurised%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -880,7 +880,7 @@
     },
     "akshayakalpaorganicpasteurizedcowmilk500ml": {
         "title": "Akshayakalpa Organic Pasteurized Cow Milk (500 ml)",
-        "price": 40,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Pasteurized%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -892,7 +892,7 @@
     },
     "amulcurdpouch700g": {
         "title": "Amul Curd Pouch (700 g)",
-        "price": 50,
+        "price": 49,
         "link": "https://www.amazon.in/s?k=Amul%20Curd%20Pouch%20(700%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -958,7 +958,7 @@
     },
     "motherdairylowfatdahipouch1kg": {
         "title": "Mother Dairy Low Fat Dahi Pouch (1 kg)",
-        "price": 66,
+        "price": 73,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Low%20Fat%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -982,7 +982,7 @@
     },
     "countrydelightgharjaisadahicup400g": {
         "title": "Country Delight Ghar Jaisa Dahi Cup (400 g)",
-        "price": 52,
+        "price": 57,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Ghar%20Jaisa%20Dahi%20Cup%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1054,7 +1054,7 @@
     },
     "freshnagpurbabyorange1kg": {
         "title": "Fresh Nagpur Baby Orange (1 kg)",
-        "price": 68,
+        "price": 70,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Baby%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2119,7 +2119,7 @@
     },
     "freshtohomepremiumchicken450g": {
         "title": "FreshToHome Premium Chicken (450 g)",
-        "price": 190,
+        "price": 189,
         "link": "https://www.amazon.in/s?k=FreshToHome%20Premium%20Chicken%20(450%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3142,9 +3142,9 @@
     },
     "freshguavaamrudh500g": {
         "title": "Fresh Guava (Amrudh) (500 g)",
-        "price": 74,
+        "price": 54,
         "link": "https://www.amazon.in/s?k=Fresh%20Guava%20(Amrudh)%20(500%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnivapremiumthaiguavapink1pc300g": {
         "title": "FreshNiva Premium Thai Guava Pink (1 Pc (300g +))",
@@ -3415,5 +3415,11 @@
         "price": 149,
         "link": "https://www.amazon.in/s?k=Skore%20Duo%20Max%20Series%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "ronniecolemansignatureserieslcarnitine465ml": {
+        "title": "Ronnie Coleman Signature Series L-Carnitine (465 ml)",
+        "price": 1599,
+        "link": "https://www.amazon.in/s?k=Ronnie%20Coleman%20Signature%20Series%20L-Carnitine%20(465%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
