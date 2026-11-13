@@ -394,7 +394,7 @@
     },
     "mamaearthricefacewash100ml": {
         "title": "Mamaearth Rice Face Wash (100 ml)",
-        "price": 240,
+        "price": 236,
         "link": "https://www.amazon.in/s?k=Mamaearth%20Rice%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -406,9 +406,9 @@
     },
     "dermatouchbrightevenskintonefacewash70g": {
         "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
-        "price": 146,
+        "price": 136,
         "link": "https://www.amazon.in/s?k=Dermatouch%20Bright%20%26%20Even%20Skin%20Tone%20Face%20Wash%20(70%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "biodermapigmentbiofoamingcream200ml": {
         "title": "Bioderma Pigmentbio Foaming Cream (200 ml)",
@@ -1120,7 +1120,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 176,
+        "price": 180,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1168,7 +1168,7 @@
     },
     "superplumkinnaurapplepesticidetested4pcs": {
         "title": "Superplum Kinnaur Apple Pesticide Tested (4Pcs)",
-        "price": 123,
+        "price": 176,
         "link": "https://www.amazon.in/s?k=Superplum%20Kinnaur%20Apple%20Pesticide%20Tested%20(4Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1216,7 +1216,7 @@
     },
     "freshpremiumseedlessgrapes250g": {
         "title": "Fresh Premium Seedless Grapes (250 g)",
-        "price": 99,
+        "price": 142,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Seedless%20Grapes%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2509,7 +2509,7 @@
     },
     "borosiltransparentchaitimeglasscupset": {
         "title": "Borosil Transparent Chai Time Glass Cup Set",
-        "price": 439,
+        "price": 529,
         "link": "https://www.amazon.in/s?k=Borosil%20Transparent%20Chai%20Time%20Glass%20Cup%20Set&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3540,6 +3540,12 @@
         "title": "Gokul Dahi Pouch (1 kg)",
         "price": 92,
         "link": "https://www.amazon.in/s?k=Gokul%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "durexextradotscondoms": {
+        "title": "Durex Extra Dots Condoms",
+        "price": 320,
+        "link": "https://www.amazon.in/s?k=Durex%20Extra%20Dots%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
