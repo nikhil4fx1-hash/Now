@@ -229,7 +229,7 @@
     },
     "superyoumultigrainproteinchips40g": {
         "title": "Superyou Multigrain Protein Chips (40 g)",
-        "price": 34,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Superyou%20Multigrain%20Protein%20Chips%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1210,7 +1210,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 101,
+        "price": 227,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1281,15 +1281,15 @@
     },
     "freshsmallcauliflower": {
         "title": "Fresh Small Cauliflower",
-        "price": 21,
+        "price": 10,
         "link": "https://www.amazon.in/s?k=Fresh%20Small%20Cauliflower&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrowncauliflower": {
         "title": "Fresh Naturally Grown Cauliflower",
-        "price": 29,
+        "price": 16,
         "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Cauliflower&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrownfrenchbeans500g": {
         "title": "Fresh Naturally Grown French Beans (500 g)",
@@ -2919,8 +2919,9 @@
     },
     "naturefreshsuperiormpatta10kg": {
         "title": "Nature Fresh Superior MP Atta (10 kg)",
-        "price": 430,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204870002031&title=Atta+Dal+%26+More&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "price": 398,
+        "link": "https://www.amazon.in/s?k=Nature%20Fresh%20Superior%20MP%20Atta%20(10%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "octorikafriedmasaladryprawns50g": {
         "title": "Octorika Fried Masala Dry Prawns (50 g)",
@@ -3275,7 +3276,7 @@
     },
     "surfexceleasywashdetergentpowder15kg": {
         "title": "Surf Excel Easy Wash Detergent Powder (1.5 kg)",
-        "price": 245,
+        "price": 237,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Easy%20Wash%20Detergent%20Powder%20(1.5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3445,6 +3446,42 @@
         "title": "Wagh Bakri Instant Tea Combo (168 g)",
         "price": 118,
         "link": "https://www.amazon.in/s?k=Wagh%20Bakri%20Instant%20Tea%20Combo%20(168%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "nathabittiklaubtanfacewash100g": {
+        "title": "Nat Habit Tikla Ubtan Face Wash (100 g)",
+        "price": 266,
+        "link": "https://www.amazon.in/s?k=Nat%20Habit%20Tikla%20Ubtan%20Face%20Wash%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gilletteaftershavesplash100ml": {
+        "title": "Gillette After Shave Splash (100 ml)",
+        "price": 444,
+        "link": "https://www.amazon.in/s?k=Gillette%20After%20Shave%20Splash%20(100%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "veetmenhairremovalcream50g": {
+        "title": "Veet Men Hair Removal Cream (50 g)",
+        "price": 165,
+        "link": "https://www.amazon.in/s?k=Veet%20Men%20Hair%20Removal%20Cream%20(50%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "muscleblazebiozymeperformancewheyproteinpowder500g": {
+        "title": "MuscleBlaze Biozyme Performance Whey Protein Powder (500 g)",
+        "price": 2195,
+        "link": "https://www.amazon.in/s?k=MuscleBlaze%20Biozyme%20Performance%20Whey%20Protein%20Powder%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "phaladapuresureorganicsoyaflour1kg": {
+        "title": "Phalada Pure & Sure Organic Soya Flour (1 kg)",
+        "price": 210,
+        "link": "https://www.amazon.in/s?k=Phalada%20Pure%20%26%20Sure%20Organic%20Soya%20Flour%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "durexextrathinstrawberryflavouredcondoms": {
+        "title": "Durex Extra Thin Strawberry Flavoured Condoms",
+        "price": 190,
+        "link": "https://www.amazon.in/s?k=Durex%20Extra%20Thin%20Strawberry%20Flavoured%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
