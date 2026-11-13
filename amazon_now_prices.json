@@ -247,7 +247,7 @@
     },
     "chhedasgoldenpotatochips170g": {
         "title": "Chheda's - Golden Potato Chips (170 g)",
-        "price": 63,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Chheda's%20-%20Golden%20Potato%20Chips%20(170%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -442,7 +442,7 @@
     },
     "cetaphilgentleskincleanser118ml": {
         "title": "Cetaphil Gentle Skin Cleanser (118 ml)",
-        "price": 367,
+        "price": 372,
         "link": "https://www.amazon.in/s?k=Cetaphil%20Gentle%20Skin%20Cleanser%20(118%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -610,7 +610,7 @@
     },
     "ifbessentialsfluffmaticliquiddetergentrefillpack2l": {
         "title": "IFB Essentials Fluff Matic Liquid Detergent Refill Pack (2 L)",
-        "price": 563,
+        "price": 612,
         "link": "https://www.amazon.in/s?k=IFB%20Essentials%20Fluff%20Matic%20Liquid%20Detergent%20Refill%20Pack%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -898,7 +898,7 @@
     },
     "amulmastidahipouch1kg": {
         "title": "Amul Masti Dahi Pouch (1 kg)",
-        "price": 80,
+        "price": 72,
         "link": "https://www.amazon.in/s?k=Amul%20Masti%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -922,7 +922,7 @@
     },
     "amulmastidahitub1kg": {
         "title": "Amul Masti Dahi - Tub (1 kg)",
-        "price": 109,
+        "price": 103,
         "link": "https://www.amazon.in/s?k=Amul%20Masti%20Dahi%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -982,7 +982,7 @@
     },
     "countrydelightgharjaisadahicup400g": {
         "title": "Country Delight Ghar Jaisa Dahi Cup (400 g)",
-        "price": 68,
+        "price": 57,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Ghar%20Jaisa%20Dahi%20Cup%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1174,7 +1174,7 @@
     },
     "freshkiwigreen3pcs": {
         "title": "Fresh Kiwi - Green (3 Pcs)",
-        "price": 94,
+        "price": 92,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiwi%20-%20Green%20(3%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1263,7 +1263,7 @@
     },
     "freshvarikatribrinjal250g": {
         "title": "Fresh Varikatri Brinjal (250 g)",
-        "price": 13,
+        "price": 14,
         "link": "https://www.amazon.in/s?k=Fresh%20Varikatri%20Brinjal%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1371,9 +1371,9 @@
     },
     "freshmethifenugreekleaveswithoutrootscleaned250g": {
         "title": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned) (250 g)",
-        "price": 40,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Fresh%20Methi%2FFenugreek%20Leaves%20-%20Without%20Roots%20(Cleaned)%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrowncabbage1pc": {
         "title": "Fresh Naturally Grown Cabbage (1 Pc)",
@@ -3520,6 +3520,12 @@
         "title": "Pluckk Fresh Ooty Carrot (250 g)",
         "price": 49,
         "link": "https://www.amazon.in/s?k=Pluckk%20Fresh%20Ooty%20Carrot%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshpomegranate2pcs": {
+        "title": "Fresh Pomegranate (2 Pcs)",
+        "price": 123,
+        "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
