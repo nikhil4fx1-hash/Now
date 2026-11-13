@@ -1030,7 +1030,7 @@
     },
     "freshpomegranateanarregular2pcs": {
         "title": "Fresh Pomegranate (Anar) - Regular (2 Pcs)",
-        "price": 123,
+        "price": 122,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(Anar)%20-%20Regular%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2113,7 +2113,7 @@
     },
     "fortunechakkifreshatta5kg": {
         "title": "Fortune Chakki Fresh Atta (5 kg)",
-        "price": 223,
+        "price": 224,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2353,7 +2353,8 @@
     "naikseersurmaineymeenfishsteak500g": {
         "title": "Naik Seer/Surmai/Neymeen Fish Steak (500 g)",
         "price": 600,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Naik%20Seer%2FSurmai%2FNeymeen%20Fish%20Steak%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "miltoncryofridgestorageboxesset": {
         "title": "Milton Cryo Fridge Storage Boxes Set",
@@ -3432,6 +3433,18 @@
         "title": "Ariel Matic Front Load Liquid Detergent Refill Pack (4 L)",
         "price": 658,
         "link": "https://www.amazon.in/s?k=Ariel%20Matic%20Front%20Load%20Liquid%20Detergent%20Refill%20Pack%20(4%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "arielperfectwashdetergentpowder5kg": {
+        "title": "Ariel Perfectwash Detergent Powder (5 kg)",
+        "price": 623,
+        "link": "https://www.amazon.in/s?k=Ariel%20Perfectwash%20Detergent%20Powder%20(5%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "waghbakriinstantteacombo168g": {
+        "title": "Wagh Bakri Instant Tea Combo (168 g)",
+        "price": 118,
+        "link": "https://www.amazon.in/s?k=Wagh%20Bakri%20Instant%20Tea%20Combo%20(168%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
