@@ -772,7 +772,7 @@
     },
     "gokulsaatvikpasteurisedcowmilk1l": {
         "title": "Gokul Saatvik Pasteurised Cow Milk (1 L)",
-        "price": 60,
+        "price": 54,
         "link": "https://www.amazon.in/s?k=Gokul%20Saatvik%20Pasteurised%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -940,7 +940,7 @@
     },
     "sidsfarmcurdpouch450g": {
         "title": "Sid's Farm Curd Pouch (450 g)",
-        "price": 34,
+        "price": 55,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Curd%20Pouch%20(450%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1120,7 +1120,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 180,
+        "price": 164,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1264,7 +1264,7 @@
     },
     "freshvarikatribrinjal250g": {
         "title": "Fresh Varikatri Brinjal (250 g)",
-        "price": 9,
+        "price": 14,
         "link": "https://www.amazon.in/s?k=Fresh%20Varikatri%20Brinjal%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1456,9 +1456,9 @@
     },
     "trikayapeasshootmicrogreens50g": {
         "title": "Trikaya Peas Shoot Microgreens (50 g)",
-        "price": 60,
+        "price": 42,
         "link": "https://www.amazon.in/s?k=Trikaya%20Peas%20Shoot%20Microgreens%20(50%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "trikayababyspinach100g": {
         "title": "Trikaya Baby Spinach (100 g)",
@@ -2048,7 +2048,7 @@
     },
     "vedakaragiflour1kg": {
         "title": "Vedaka Ragi Flour (1 kg)",
-        "price": 79,
+        "price": 87,
         "link": "https://www.amazon.in/s?k=Vedaka%20Ragi%20Flour%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2102,7 +2102,7 @@
     },
     "aashirvaadattawithmultigrains5kg": {
         "title": "Aashirvaad Atta With Multigrains (5 kg)",
-        "price": 328,
+        "price": 330,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Atta%20With%20Multigrains%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2897,7 +2897,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 28,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3564,6 +3564,12 @@
         "title": "Elicious Chicken Curry Cut Skinless (900 g)",
         "price": 302,
         "link": "https://www.amazon.in/s?k=Elicious%20Chicken%20Curry%20Cut%20Skinless%20(900%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "becotoploadnaturallaundryliquid2l": {
+        "title": "Beco Top Load Natural Laundry Liquid (2 L)",
+        "price": 248,
+        "link": "https://www.amazon.in/s?k=Beco%20Top%20Load%20Natural%20Laundry%20Liquid%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
