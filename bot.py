@@ -99,6 +99,9 @@ async def scan_amazon_now():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         
+        # ടൈംഔട്ട് പരിഹരിക്കാൻ ഇവിടെ 60000ms നൽകിയിരിക്കുന്നു
+        context.set_default_timeout(60000)
+        
         if cookies:
             valid_cookies = [{k: v for k, v in c.items() if k in ['name', 'value', 'domain', 'path']} for c in cookies]
             await context.add_cookies(valid_cookies)
