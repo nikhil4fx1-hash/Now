@@ -42,19 +42,19 @@ def save_json(filepath, data):
         json.dump(data, file, indent=4)
 
 def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is_mega_deal=False):
-    # HTML എറർ ഒഴിവാക്കാൻ ടൈറ്റിൽ എൻകോഡ് ചെയ്യുന്നു
+    # HTML എററുകൾ പൂർണ്ണമായും ഒഴിവാക്കാൻ എൻകോഡ് ചെയ്യുന്നു
     safe_title = html.escape(title)
+    safe_link = html.escape(link)
     
-    # സുരക്ഷിതമായ HTML ഫോർമാറ്റിലേക്ക് മെസ്സേജ് മാറ്റിയിരിക്കുന്നു
     if is_mega_deal:
-        discount_pct = round(((mrp - new_price) / mrp) * 100)
+        discount_pct = round(((mrp - new_price) / mrp) * 100) if mrp > 0 else 50
         message = (
             f"🔥 <b>MEGA DISCOUNT (50%+ OFF)</b> 🔥\n\n"
             f"📦 {safe_title}\n"
             f"💰 Deal Price: <b>₹{new_price}</b>\n"
             f"❌ MRP: <s>₹{mrp}</s>\n"
             f"🏷️ Discount: <b>{discount_pct}% OFF</b>\n\n"
-            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
+            f"🔗 🛒 <a href='{safe_link}'>Grab it Fast!</a>"
         )
     else:
         drop_amount = round(old_price - new_price, 2)
@@ -63,9 +63,11 @@ def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is
             f"📦 {safe_title}\n"
             f"💰 New Price: <b>₹{new_price}</b> (Dropped by ₹{drop_amount})\n"
             f"❌ Old Price: <s>₹{old_price}</s>\n\n"
-            f"🔗 🛒 <a href='{link}'>Grab it Fast!</a>"
+            f"🔗 🛒 <a href='{safe_link}'>Grab it Fast!</a>"
         )
     
+    success = False
+    # പ്ലാൻ A: ഫോട്ടോ സഹിതം അയക്കാൻ ശ്രമിക്കുക
     if img_url and img_url.startswith('http'):
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
         payload = {
@@ -74,7 +76,15 @@ def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is
             "caption": message,
             "parse_mode": "HTML"
         }
-    else:
+        response = requests.post(url, json=payload)
+        if response.status_code == 200:
+            success = True
+            print(f"✅ Alert sent with photo for: {title[:20]}...")
+        else:
+            print(f"⚠️ Photo send failed for {title[:20]}. Error: {response.text}")
+    
+    # പ്ലാൻ B: ഫോട്ടോ അയക്കുന്നത് പരാജയപ്പെട്ടാൽ വെറും ടെക്സ്റ്റ് ആയി അയക്കുക
+    if not success:
         url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
         payload = {
             "chat_id": TELEGRAM_CHANNEL_ID,
@@ -82,8 +92,11 @@ def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is
             "parse_mode": "HTML",
             "disable_web_page_preview": False
         }
-    
-    requests.post(url, json=payload)
+        response = requests.post(url, json=payload)
+        if response.status_code == 200:
+            print(f"✅ Alert sent as text for: {title[:20]}...")
+        else:
+            print(f"❌ Failed to send alert entirely! Error: {response.text}")
 
 async def scan_amazon_now():
     price_database = load_json(DATA_FILE, {})
@@ -99,7 +112,6 @@ async def scan_amazon_now():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         
-        # ടൈംഔട്ട് പരിഹരിക്കാൻ ഇവിടെ 60000ms നൽകിയിരിക്കുന്നു
         context.set_default_timeout(60000)
         
         if cookies:
@@ -177,7 +189,6 @@ async def scan_amazon_now():
                                 }
                             }
                             
-                            // ഇമേജ് കണ്ടെത്താനുള്ള പുതിയ കോഡ് (മുകളിലെ കണ്ടെയ്നറുകളിൽ കൂടി തിരയുന്നു)
                             let imgNode = null;
                             let searchNode = card;
                             for(let i=0; i<4; i++) {
