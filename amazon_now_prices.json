@@ -2808,7 +2808,8 @@
     "freshnaturallygrownpumpkin1pc": {
         "title": "Fresh Naturally Grown Pumpkin (1 Pc)",
         "price": 59,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218833871031&title=Vegetables&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Pumpkin%20(1%20Pc)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "naikbabyoctopus500g": {
         "title": "Naik Baby Octopus (500 g)",
@@ -3482,6 +3483,18 @@
         "title": "Durex Extra Thin Strawberry Flavoured Condoms",
         "price": 190,
         "link": "https://www.amazon.in/s?k=Durex%20Extra%20Thin%20Strawberry%20Flavoured%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "prestofabricconditionerafterwash2l": {
+        "title": "Presto! Fabric Conditioner After Wash (2 L)",
+        "price": 349,
+        "link": "https://www.amazon.in/s?k=Presto!%20Fabric%20Conditioner%20After%20Wash%20(2%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "claycraftbonechinacupsmaik": {
+        "title": "Clay Craft Bone China Cups - Maik",
+        "price": 576,
+        "link": "https://www.amazon.in/s?k=Clay%20Craft%20Bone%20China%20Cups%20-%20Maik&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
