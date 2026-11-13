@@ -1054,7 +1054,7 @@
     },
     "freshnagpurbabyorange1kg": {
         "title": "Fresh Nagpur Baby Orange (1 kg)",
-        "price": 70,
+        "price": 68,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Baby%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1114,9 +1114,9 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 88,
+        "price": 52,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
@@ -1156,9 +1156,9 @@
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
-        "price": 63,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Fresh%20Dragon%20Fruit%20Red%20Flesh%20-%20Indian%20(1%20Pc)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshpremiumdragonfruitwhite": {
         "title": "Fresh Premium Dragon Fruit White",
@@ -1402,7 +1402,7 @@
     },
     "nutrifreshmixlettuceapprox100g": {
         "title": "Nutrifresh Mix Lettuce (Approx. 100 g)",
-        "price": 33,
+        "price": 48,
         "link": "https://www.amazon.in/s?k=Nutrifresh%20Mix%20Lettuce%20(Approx.%20100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3546,6 +3546,12 @@
         "title": "Durex Extra Dots Condoms",
         "price": 320,
         "link": "https://www.amazon.in/s?k=Durex%20Extra%20Dots%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "unclechipsplainsalted80g": {
+        "title": "Uncle Chips Plain Salted (80 g)",
+        "price": 34,
+        "link": "https://www.amazon.in/s?k=Uncle%20Chips%20Plain%20Salted%20(80%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
