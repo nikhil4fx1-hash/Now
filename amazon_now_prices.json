@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 38,
+        "price": 37,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -634,7 +634,7 @@
     },
     "tidedoublepowerdetergentpowder10kg": {
         "title": "Tide Double Power+ Detergent Powder (10 kg)",
-        "price": 908,
+        "price": 907,
         "link": "https://www.amazon.in/s?k=Tide%20Double%20Power%2B%20Detergent%20Powder%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1036,7 +1036,7 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 36,
+        "price": 37,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1222,9 +1222,9 @@
     },
     "freshraspberry125g": {
         "title": "Fresh Raspberry (125 g)",
-        "price": 217,
+        "price": 151,
         "link": "https://www.amazon.in/s?k=Fresh%20Raspberry%20(125%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshbabykiwi": {
         "title": "Fresh Baby Kiwi",
@@ -1336,7 +1336,7 @@
     },
     "freshorganicdrumstick250g": {
         "title": "Fresh Organic Drumstick (250 g)",
-        "price": 27,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Drumstick%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2060,7 +2060,7 @@
     },
     "fortunechakkifreshatta10kg": {
         "title": "Fortune Chakki Fresh Atta (10 kg)",
-        "price": 428,
+        "price": 407,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2629,13 +2629,13 @@
     },
     "colgatevisiblewhitepurpletoothpaste": {
         "title": "Colgate Visible White Purple Toothpaste",
-        "price": 245,
+        "price": 240,
         "link": "https://www.amazon.in/s?k=Colgate%20Visible%20White%20Purple%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "stolinractivegumcaretoothpaste120g": {
         "title": "Stolin-R Active Gum Care Toothpaste (120 g)",
-        "price": 233,
+        "price": 192,
         "link": "https://www.amazon.in/s?k=Stolin-R%20Active%20Gum%20Care%20Toothpaste%20(120%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3028,9 +3028,9 @@
     },
     "freshbeetroot250g": {
         "title": "Fresh Beetroot (250 g)",
-        "price": 11,
+        "price": 9,
         "link": "https://www.amazon.in/s?k=Fresh%20Beetroot%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshpomegranateanar4pcs": {
         "title": "Fresh Pomegranate (Anar) (4 Pcs)",
@@ -3558,6 +3558,12 @@
         "title": "Dot & Key Blemish Clearing Gel Face Wash (100 ml)",
         "price": 214,
         "link": "https://www.amazon.in/s?k=Dot%20%26%20Key%20Blemish%20Clearing%20Gel%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "eliciouschickencurrycutskinless900g": {
+        "title": "Elicious Chicken Curry Cut Skinless (900 g)",
+        "price": 302,
+        "link": "https://www.amazon.in/s?k=Elicious%20Chicken%20Curry%20Cut%20Skinless%20(900%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
