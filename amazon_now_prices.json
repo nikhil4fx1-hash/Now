@@ -1156,13 +1156,13 @@
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
-        "price": 42,
+        "price": 63,
         "link": "https://www.amazon.in/s?k=Fresh%20Dragon%20Fruit%20Red%20Flesh%20-%20Indian%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
     "freshpremiumdragonfruitwhite": {
         "title": "Fresh Premium Dragon Fruit White",
-        "price": 54,
+        "price": 78,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Dragon%20Fruit%20White&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1534,7 +1534,7 @@
     },
     "gilletteseriesshavinggel60g": {
         "title": "Gillette Series Shaving Gel (60 g)",
-        "price": 93,
+        "price": 89,
         "link": "https://www.amazon.in/s?k=Gillette%20Series%20Shaving%20Gel%20(60%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1654,7 +1654,7 @@
     },
     "gillettefusion5powershavingrazor": {
         "title": "Gillette Fusion 5 Power Shaving Razor",
-        "price": 517,
+        "price": 543,
         "link": "https://www.amazon.in/s?k=Gillette%20Fusion%205%20Power%20Shaving%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1690,7 +1690,7 @@
     },
     "optimumnutritiongoldstandardwheyproteinpowder907g": {
         "title": "Optimum Nutrition Gold Standard Whey Protein Powder (907 g)",
-        "price": 4629,
+        "price": 4019,
         "link": "https://www.amazon.in/s?k=Optimum%20Nutrition%20Gold%20Standard%20Whey%20Protein%20Powder%20(907%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1911,7 +1911,7 @@
     },
     "nescafeclassicinstantcoffeepowdersachets": {
         "title": "Nescafe Classic Instant Coffee Powder Sachets",
-        "price": 135,
+        "price": 134,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2485,7 +2485,7 @@
     },
     "celloexecutivebeermugwithhandle": {
         "title": "Cello Executive Beer Mug with Handle",
-        "price": 236,
+        "price": 239,
         "link": "https://www.amazon.in/s?k=Cello%20Executive%20Beer%20Mug%20with%20Handle&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3534,6 +3534,12 @@
         "title": "Nescafe Classic Instant Coffee Powder Jar (45 g)",
         "price": 210,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Jar%20(45%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gokuldahipouch1kg": {
+        "title": "Gokul Dahi Pouch (1 kg)",
+        "price": 92,
+        "link": "https://www.amazon.in/s?k=Gokul%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
