@@ -3,6 +3,7 @@ import json
 import os
 import requests
 import html
+import time
 from playwright.async_api import async_playwright
 
 TELEGRAM_BOT_TOKEN = os.environ.get('BOT_TOKEN')
@@ -42,7 +43,6 @@ def save_json(filepath, data):
         json.dump(data, file, indent=4)
 
 def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is_mega_deal=False):
-    # HTML എററുകൾ പൂർണ്ണമായും ഒഴിവാക്കാൻ എൻകോഡ് ചെയ്യുന്നു
     safe_title = html.escape(title)
     safe_link = html.escape(link)
     
@@ -67,21 +67,40 @@ def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is
         )
     
     success = False
-    # പ്ലാൻ A: ഫോട്ടോ സഹിതം അയക്കാൻ ശ്രമിക്കുക
+    
+    # പ്ലാൻ A: ചിത്രം ഡൗൺലോഡ് ചെയ്ത് ഫയൽ ആയി അയക്കാൻ ശ്രമിക്കുന്നു
     if img_url and img_url.startswith('http'):
-        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-        payload = {
-            "chat_id": TELEGRAM_CHANNEL_ID,
-            "photo": img_url,
-            "caption": message,
-            "parse_mode": "HTML"
-        }
-        response = requests.post(url, json=payload)
-        if response.status_code == 200:
-            success = True
-            print(f"✅ Alert sent with photo for: {title[:20]}...")
-        else:
-            print(f"⚠️ Photo send failed for {title[:20]}. Error: {response.text}")
+        temp_img_path = None
+        try:
+            temp_img_path = f"temp_{int(time.time())}.jpg"
+            img_response = requests.get(img_url, timeout=15)
+            
+            if img_response.status_code == 200:
+                with open(temp_img_path, 'wb') as f:
+                    f.write(img_response.content)
+                
+                url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+                data = {
+                    "chat_id": TELEGRAM_CHANNEL_ID,
+                    "caption": message,
+                    "parse_mode": "HTML"
+                }
+                with open(temp_img_path, 'rb') as photo:
+                    response = requests.post(url, data=data, files={"photo": photo})
+                
+                if response.status_code == 200:
+                    success = True
+                    print(f"✅ Alert sent with PHOTO for: {title[:20]}...")
+                else:
+                    print(f"⚠️ Photo upload failed: {response.text}")
+                    
+        except Exception as e:
+            print(f"⚠️ Image processing error: {e}")
+            
+        finally:
+            # ഡൗൺലോഡ് ചെയ്ത ഫയൽ ഡിലീറ്റ് ചെയ്യുന്നു
+            if temp_img_path and os.path.exists(temp_img_path):
+                os.remove(temp_img_path)
     
     # പ്ലാൻ B: ഫോട്ടോ അയക്കുന്നത് പരാജയപ്പെട്ടാൽ വെറും ടെക്സ്റ്റ് ആയി അയക്കുക
     if not success:
@@ -94,7 +113,7 @@ def send_telegram_alert(title, new_price, old_price, link, img_url="", mrp=0, is
         }
         response = requests.post(url, json=payload)
         if response.status_code == 200:
-            print(f"✅ Alert sent as text for: {title[:20]}...")
+            print(f"✅ Alert sent as TEXT (Fallback) for: {title[:20]}...")
         else:
             print(f"❌ Failed to send alert entirely! Error: {response.text}")
 
