@@ -797,7 +797,7 @@
     },
     "motherdairycowmilk1l": {
         "title": "Mother Dairy Cow Milk (1 L)",
-        "price": 50,
+        "price": 58,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3627,5 +3627,17 @@
         "price": 120,
         "link": "https://www.amazon.in/s?k=MuscleBlaze%20Wrathx%20Zero%20Sugar%20Energy%20Drink%20(335%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "pringlesperiperipotatocrisps102g": {
+        "title": "Pringles Peri Peri Potato Crisps (102 g)",
+        "price": 101,
+        "link": "https://www.amazon.in/s?k=Pringles%20Peri%20Peri%20Potato%20Crisps%20(102%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "aqueriavitamincdetanbrighteningfacewash200ml": {
+        "title": "Aqueria Vitamin C De-Tan & Brightening Face Wash (200 ml)",
+        "price": 146,
+        "link": "https://www.amazon.in/s?k=Aqueria%20Vitamin%20C%20De-Tan%20%26%20Brightening%20Face%20Wash%20(200%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
