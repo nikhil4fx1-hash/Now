@@ -1048,7 +1048,7 @@
     },
     "freshyelakkibanana500g": {
         "title": "Fresh Yelakki Banana (500 g)",
-        "price": 63,
+        "price": 62,
         "link": "https://www.amazon.in/s?k=Fresh%20Yelakki%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1156,7 +1156,7 @@
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
-        "price": 60,
+        "price": 63,
         "link": "https://www.amazon.in/s?k=Fresh%20Dragon%20Fruit%20Red%20Flesh%20-%20Indian%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1425,7 +1425,7 @@
     },
     "freshpokchoy250g": {
         "title": "Fresh Pok Choy (250 g)",
-        "price": 22,
+        "price": 23,
         "link": "https://www.amazon.in/s?k=Fresh%20Pok%20Choy%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2973,7 +2973,8 @@
     "epigamiaturbonaturalgreekyogurt430g": {
         "title": "Epigamia Turbo Natural Greek Yogurt (430 g)",
         "price": 276,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=204869998031&title=Dairy+%26+Bread&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Epigamia%20Turbo%20Natural%20Greek%20Yogurt%20(430%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "freshcucumber500g": {
         "title": "Fresh Cucumber (500 g)",
@@ -3501,6 +3502,18 @@
         "title": "Gillette Fusion 5 Proglide Shaving Razor",
         "price": 499,
         "link": "https://www.amazon.in/s?k=Gillette%20Fusion%205%20Proglide%20Shaving%20Razor&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "ezeeplasticziplocksliderbag10pcs": {
+        "title": "Ezee Plastic Zip Lock Slider Bag (10 Pcs)",
+        "price": 65,
+        "link": "https://www.amazon.in/s?k=Ezee%20Plastic%20Zip%20Lock%20Slider%20Bag%20(10%20Pcs)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "manforcecocktailcondoms": {
+        "title": "MANforce Cocktail Condoms",
+        "price": 54,
+        "link": "https://www.amazon.in/s?k=MANforce%20Cocktail%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
