@@ -922,7 +922,7 @@
     },
     "amulmastidahitub1kg": {
         "title": "Amul Masti Dahi - Tub (1 kg)",
-        "price": 109,
+        "price": 103,
         "link": "https://www.amazon.in/s?k=Amul%20Masti%20Dahi%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1114,7 +1114,7 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 52,
+        "price": 88,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1198,7 +1198,7 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 183,
+        "price": 190,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1362,7 +1362,7 @@
         "title": "Fresh Iceberg Lettuce",
         "price": 32,
         "link": "https://www.amazon.in/s?k=Fresh%20Iceberg%20Lettuce&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshgreenlettuce250g": {
         "title": "Fresh Green Lettuce (250 g)",
@@ -3552,6 +3552,12 @@
         "title": "Uncle Chips Plain Salted (80 g)",
         "price": 34,
         "link": "https://www.amazon.in/s?k=Uncle%20Chips%20Plain%20Salted%20(80%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dotkeyblemishclearinggelfacewash100ml": {
+        "title": "Dot & Key Blemish Clearing Gel Face Wash (100 ml)",
+        "price": 214,
+        "link": "https://www.amazon.in/s?k=Dot%20%26%20Key%20Blemish%20Clearing%20Gel%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
