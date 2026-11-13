@@ -1115,9 +1115,9 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 90,
+        "price": 88,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
@@ -2289,7 +2289,7 @@
     },
     "itcmasterchefmediumprawns200g": {
         "title": "ITC Master Chef Medium Prawns (200 g)",
-        "price": 225,
+        "price": 219,
         "link": "https://www.amazon.in/s?k=ITC%20Master%20Chef%20Medium%20Prawns%20(200%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3601,6 +3601,12 @@
         "title": "Vgrassp Banana Storage Case (Pack of 2)",
         "price": 176,
         "link": "https://www.amazon.in/s?k=Vgrassp%20Banana%20Storage%20Case%20(Pack%20of%202)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "countrydelighthomestylecurdpouch900g": {
+        "title": "Country Delight Homestyle Curd Pouch (900 g)",
+        "price": 88,
+        "link": "https://www.amazon.in/s?k=Country%20Delight%20Homestyle%20Curd%20Pouch%20(900%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
