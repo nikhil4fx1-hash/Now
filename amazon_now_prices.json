@@ -2084,7 +2084,7 @@
     },
     "vedakariceflour500g": {
         "title": "Vedaka Rice Flour (500 g)",
-        "price": 29,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Vedaka%20Rice%20Flour%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3142,7 +3142,7 @@
     },
     "cocacolazerosugarsoftdrink750ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink (750 ml)",
-        "price": 35,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3570,6 +3570,18 @@
         "title": "Beco Top Load Natural Laundry Liquid (2 L)",
         "price": 248,
         "link": "https://www.amazon.in/s?k=Beco%20Top%20Load%20Natural%20Laundry%20Liquid%20(2%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "mountaindewsoftdrink400ml": {
+        "title": "Mountain Dew Soft Drink (400 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/s?k=Mountain%20Dew%20Soft%20Drink%20(400%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "amulhighproteinprobioticdahicup400g": {
+        "title": "Amul High Protein Probiotic Dahi - Cup (400 g)",
+        "price": 80,
+        "link": "https://www.amazon.in/s?k=Amul%20High%20Protein%20Probiotic%20Dahi%20-%20Cup%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
