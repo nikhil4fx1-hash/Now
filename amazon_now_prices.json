@@ -670,7 +670,7 @@
     },
     "comfortroyalefabricconditioner2l": {
         "title": "Comfort Royale Fabric Conditioner (2 L)",
-        "price": 349,
+        "price": 309,
         "link": "https://www.amazon.in/s?k=Comfort%20Royale%20Fabric%20Conditioner%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -850,13 +850,13 @@
     },
     "motherdairytonedmilk500ml": {
         "title": "Mother Dairy Toned Milk (500 ml)",
-        "price": 29,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Toned%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "amultaazapasteurisedtonedmilkymilk500ml": {
         "title": "Amul Taaza Pasteurised Toned Milky Milk (500 ml)",
-        "price": 27,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Amul%20Taaza%20Pasteurised%20Toned%20Milky%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1006,9 +1006,9 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 24,
+        "price": 19,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrownlemon100g": {
         "title": "Fresh Naturally Grown Lemon (100 g)",
@@ -1305,7 +1305,7 @@
     },
     "freshredyellowcapsicummix2pcs": {
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
-        "price": 53,
+        "price": 49,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2059,7 +2059,7 @@
     },
     "fortunechakkifreshatta10kg": {
         "title": "Fortune Chakki Fresh Atta (10 kg)",
-        "price": 447,
+        "price": 439,
         "link": "https://www.amazon.in/s?k=Fortune%20Chakki%20Fresh%20Atta%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3420,6 +3420,18 @@
         "title": "Ronnie Coleman Signature Series L-Carnitine (465 ml)",
         "price": 1599,
         "link": "https://www.amazon.in/s?k=Ronnie%20Coleman%20Signature%20Series%20L-Carnitine%20(465%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "luxmagicalorchidbodywash245ml": {
+        "title": "LUX Magical Orchid Body Wash (245 ml)",
+        "price": 99,
+        "link": "https://www.amazon.in/s?k=LUX%20Magical%20Orchid%20Body%20Wash%20(245%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "arielmaticfrontloadliquiddetergentrefillpack4l": {
+        "title": "Ariel Matic Front Load Liquid Detergent Refill Pack (4 L)",
+        "price": 658,
+        "link": "https://www.amazon.in/s?k=Ariel%20Matic%20Front%20Load%20Liquid%20Detergent%20Refill%20Pack%20(4%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
