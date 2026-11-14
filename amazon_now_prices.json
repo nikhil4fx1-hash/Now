@@ -635,7 +635,7 @@
     },
     "tidedoublepowerdetergentpowder10kg": {
         "title": "Tide Double Power+ Detergent Powder (10 kg)",
-        "price": 907,
+        "price": 908,
         "link": "https://www.amazon.in/s?k=Tide%20Double%20Power%2B%20Detergent%20Powder%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1175,7 +1175,7 @@
     },
     "freshkiwigreen3pcs": {
         "title": "Fresh Kiwi - Green (3 Pcs)",
-        "price": 97,
+        "price": 92,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiwi%20-%20Green%20(3%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2913,7 +2913,7 @@
     },
     "mille31gplantprotein500g": {
         "title": "Mille 31g Plant Protein (500 g)",
-        "price": 1615,
+        "price": 1614,
         "link": "https://www.amazon.in/s?k=Mille%2031g%20Plant%20Protein%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3146,7 +3146,7 @@
     },
     "cocacolazerosugarsoftdrink750ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink (750 ml)",
-        "price": 35,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3748,6 +3748,18 @@
         "title": "Gadre Tilapia Fish Fingers (250 g)",
         "price": 225,
         "link": "https://www.amazon.in/s?k=Gadre%20Tilapia%20Fish%20Fingers%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "abbiesgigglespoppingbobatcan320ml": {
+        "title": "Abbie's Giggles Popping Boba T Can (320 ml)",
+        "price": 110,
+        "link": "https://www.amazon.in/s?k=Abbie's%20Giggles%20Popping%20Boba%20T%20Can%20(320%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshorganicsweetpotato500g": {
+        "title": "Fresh Organic Sweet Potato (500 g)",
+        "price": 46,
+        "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Sweet%20Potato%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
