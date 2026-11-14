@@ -223,7 +223,7 @@
     },
     "thebakersdozenmultigrain10gproteinchips45g": {
         "title": "The Baker's Dozen Multigrain 10g Protein Chips (45 g)",
-        "price": 21,
+        "price": 27,
         "link": "https://www.amazon.in/s?k=The%20Baker's%20Dozen%20Multigrain%2010g%20Protein%20Chips%20(45%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1703,7 +1703,7 @@
     },
     "nakproimpactwheyprotein1kg": {
         "title": "Nakpro Impact Whey Protein (1 kg)",
-        "price": 1461,
+        "price": 1599,
         "link": "https://www.amazon.in/s?k=Nakpro%20Impact%20Whey%20Protein%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2488,7 +2488,7 @@
     },
     "celloexecutivebeermugwithhandle": {
         "title": "Cello Executive Beer Mug with Handle",
-        "price": 236,
+        "price": 239,
         "link": "https://www.amazon.in/s?k=Cello%20Executive%20Beer%20Mug%20with%20Handle&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2764,7 +2764,7 @@
     },
     "kamasutradottedcondoms": {
         "title": "Kamasutra Dotted Condoms",
-        "price": 150,
+        "price": 90,
         "link": "https://www.amazon.in/s?k=Kamasutra%20Dotted%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3803,5 +3803,17 @@
         "price": 249,
         "link": "https://www.amazon.in/s?k=Kozicare%20Skin%20Lightening%20Soap&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "bellavitabrightwonderbrighteningsoap": {
+        "title": "Bellavita Bright Wonder Brightening Soap",
+        "price": 299,
+        "link": "https://www.amazon.in/s?k=Bellavita%20Bright%20Wonder%20Brightening%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "organictattvamaizeflourmakkaatta500g": {
+        "title": "Organic Tattva Maize Flour (Makka Atta) (500 g)",
+        "price": 70,
+        "link": "https://www.amazon.in/s?k=Organic%20Tattva%20Maize%20Flour%20(Makka%20Atta)%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
