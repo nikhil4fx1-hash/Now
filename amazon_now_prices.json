@@ -354,7 +354,7 @@
     },
     "pearspuregentlebathingbar5x125g": {
         "title": "Pears Pure & Gentle Bathing Bar (5 x 125 g)",
-        "price": 229,
+        "price": 264,
         "link": "https://www.amazon.in/s?k=Pears%20Pure%20%26%20Gentle%20Bathing%20Bar%20(5%20x%20125%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -407,7 +407,7 @@
     },
     "dermatouchbrightevenskintonefacewash70g": {
         "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
-        "price": 147,
+        "price": 164,
         "link": "https://www.amazon.in/s?k=Dermatouch%20Bright%20%26%20Even%20Skin%20Tone%20Face%20Wash%20(70%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1912,7 +1912,7 @@
     },
     "nescafeclassicinstantcoffeepowdersachets": {
         "title": "Nescafe Classic Instant Coffee Powder Sachets",
-        "price": 134,
+        "price": 135,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3699,6 +3699,12 @@
         "title": "Aristo Lock & Fresh 211 Storage Container (1.1L) (1.1 L)",
         "price": 119,
         "link": "https://www.amazon.in/s?k=Aristo%20Lock%20%26%20Fresh%20211%20Storage%20Container%20(1.1L)%20(1.1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "garnierbrightcompletevitamincfacewash160g": {
+        "title": "Garnier Bright Complete Vitamin C Face Wash (160 g)",
+        "price": 239,
+        "link": "https://www.amazon.in/s?k=Garnier%20Bright%20Complete%20Vitamin%20C%20Face%20Wash%20(160%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
