@@ -1103,7 +1103,7 @@
     },
     "freshappleroyalgalaregular": {
         "title": "Fresh Apple Royal Gala - Regular",
-        "price": 99,
+        "price": 80,
         "link": "https://www.amazon.in/s?k=Fresh%20Apple%20Royal%20Gala%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3833,6 +3833,12 @@
         "title": "Fresh Pomegranate (4 Pcs)",
         "price": 255,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(4%20Pcs)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "surfexceleasywashdetergentpowder5kg": {
+        "title": "Surf Excel Easy Wash Detergent Powder (5 kg)",
+        "price": 705,
+        "link": "https://www.amazon.in/s?k=Surf%20Excel%20Easy%20Wash%20Detergent%20Powder%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
