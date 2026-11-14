@@ -629,7 +629,7 @@
     },
     "safewashpremiumliquiddetergentrefill": {
         "title": "Safewash Premium Liquid Detergent Refill",
-        "price": 297,
+        "price": 254,
         "link": "https://www.amazon.in/s?k=Safewash%20Premium%20Liquid%20Detergent%20Refill&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -965,7 +965,7 @@
     },
     "akshayakalpaartisanalorganicsetcurdtub1kg": {
         "title": "Akshayakalpa Artisanal Organic Set Curd - Tub (1 kg)",
-        "price": 155,
+        "price": 170,
         "link": "https://www.amazon.in/s?k=Akshayakalpa%20Artisanal%20Organic%20Set%20Curd%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3254,7 +3254,7 @@
     },
     "nathabittomatobasilmoisturisingsoapcombo": {
         "title": "Nat Habit Tomato Basil Moisturising Soap Combo",
-        "price": 230,
+        "price": 268,
         "link": "https://www.amazon.in/s?k=Nat%20Habit%20Tomato%20Basil%20Moisturising%20Soap%20Combo&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3797,5 +3797,11 @@
         "price": 225,
         "link": "https://www.amazon.in/s?k=Old%20Spice%20Original%20After%20Shave%20Lotion%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "kozicareskinlighteningsoap": {
+        "title": "Kozicare Skin Lightening Soap",
+        "price": 249,
+        "link": "https://www.amazon.in/s?k=Kozicare%20Skin%20Lightening%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
