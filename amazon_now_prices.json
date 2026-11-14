@@ -1307,7 +1307,7 @@
     },
     "freshredyellowcapsicummix2pcs": {
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
-        "price": 71,
+        "price": 42,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3112,7 +3112,7 @@
         "title": "Fresh Sarson Ka Saag (Mustard Leaves) (250 g)",
         "price": 22,
         "link": "https://www.amazon.in/s?k=Fresh%20Sarson%20Ka%20Saag%20(Mustard%20Leaves)%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "humpyfarmspasteurizeda2cowmilk500ml": {
         "title": "Humpy Farms Pasteurized A2 Cow Milk (500 ml)",
@@ -3773,5 +3773,23 @@
         "price": 33,
         "link": "https://www.amazon.in/s?k=Dabur%20Herb'L%20Activated%20Charcoal%20Whitening%20Toothpaste%20(120%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "boldcare404allinoneflavourspackcondoms": {
+        "title": "Bold Care 404 All In One Flavours Pack Condoms",
+        "price": 79,
+        "link": "https://www.amazon.in/s?k=Bold%20Care%20404%20All%20In%20One%20Flavours%20Pack%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": true
+    },
+    "durexextrathincondoms": {
+        "title": "Durex Extra Thin Condoms",
+        "price": 254,
+        "link": "https://www.amazon.in/s?k=Durex%20Extra%20Thin%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "durexpleasuremixassortedcomdoms": {
+        "title": "Durex Pleasure Mix Assorted Comdoms",
+        "price": 499,
+        "link": "https://www.amazon.in/s?k=Durex%20Pleasure%20Mix%20Assorted%20Comdoms&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
