@@ -773,7 +773,7 @@
     },
     "gokulsaatvikpasteurisedcowmilk1l": {
         "title": "Gokul Saatvik Pasteurised Cow Milk (1 L)",
-        "price": 60,
+        "price": 52,
         "link": "https://www.amazon.in/s?k=Gokul%20Saatvik%20Pasteurised%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1331,7 +1331,7 @@
     },
     "freshwhitecucumber500g": {
         "title": "Fresh White Cucumber (500 g)",
-        "price": 32,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Fresh%20White%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1385,7 +1385,7 @@
     },
     "freshdrumstickmoringaleaves100g": {
         "title": "Fresh Drumstick (Moringa) Leaves (100 g)",
-        "price": 17,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Fresh%20Drumstick%20(Moringa)%20Leaves%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2800,7 +2800,7 @@
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
-        "price": 53,
+        "price": 58,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Buffalo%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3839,6 +3839,12 @@
         "title": "Surf Excel Easy Wash Detergent Powder (5 kg)",
         "price": 705,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Easy%20Wash%20Detergent%20Powder%20(5%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "cocacolaoriginaltastesoftdrink": {
+        "title": "Coca-Cola Original Taste Soft Drink",
+        "price": 160,
+        "link": "https://www.amazon.in/s?k=Coca-Cola%20Original%20Taste%20Soft%20Drink&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
