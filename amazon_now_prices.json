@@ -1475,7 +1475,7 @@
     },
     "nutrifreshbutterheadlettuceapprox100g": {
         "title": "Nutrifresh Butter Head Lettuce (Approx. 100 g)",
-        "price": 57,
+        "price": 53,
         "link": "https://www.amazon.in/s?k=Nutrifresh%20Butter%20Head%20Lettuce%20(Approx.%20100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2859,7 +2859,7 @@
     },
     "nescafeclassicinstantcoffeepowderjar24g": {
         "title": "Nescafe Classic Instant Coffee Powder Jar (24 g)",
-        "price": 124,
+        "price": 120,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Jar%20(24%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3284,7 +3284,7 @@
     },
     "surfexceleasywashdetergentpowder15kg": {
         "title": "Surf Excel Easy Wash Detergent Powder (1.5 kg)",
-        "price": 237,
+        "price": 245,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Easy%20Wash%20Detergent%20Powder%20(1.5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3767,5 +3767,11 @@
         "price": 171,
         "link": "https://www.amazon.in/s?k=Pluckk%20Fresh%20Premium%20Watermelon%20Kiran&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "daburherblactivatedcharcoalwhiteningtoothpaste120g": {
+        "title": "Dabur Herb'L Activated Charcoal Whitening Toothpaste (120 g)",
+        "price": 33,
+        "link": "https://www.amazon.in/s?k=Dabur%20Herb'L%20Activated%20Charcoal%20Whitening%20Toothpaste%20(120%20g)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
