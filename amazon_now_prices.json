@@ -223,7 +223,7 @@
     },
     "thebakersdozenmultigrain10gproteinchips45g": {
         "title": "The Baker's Dozen Multigrain 10g Protein Chips (45 g)",
-        "price": 27,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=The%20Baker's%20Dozen%20Multigrain%2010g%20Protein%20Chips%20(45%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -581,7 +581,7 @@
     },
     "arielmaticliquiddetergentfrontload6l": {
         "title": "Ariel Matic Liquid Detergent Front Load (6 L)",
-        "price": 785,
+        "price": 931,
         "link": "https://www.amazon.in/s?k=Ariel%20Matic%20Liquid%20Detergent%20Front%20Load%20(6%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1151,7 +1151,7 @@
     },
     "freshfig": {
         "title": "Fresh Fig",
-        "price": 59,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Fresh%20Fig&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1954,7 +1954,7 @@
     },
     "lavazzagustocremacoffeebeans500g": {
         "title": "Lavazza Gusto Crema Coffee Beans (500 g)",
-        "price": 780,
+        "price": 612,
         "link": "https://www.amazon.in/s?k=Lavazza%20Gusto%20Crema%20Coffee%20Beans%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2206,7 +2206,7 @@
     },
     "meatzzafreshchickenmince500g": {
         "title": "Meatzza Fresh Chicken Mince (500 g)",
-        "price": 256,
+        "price": 260,
         "link": "https://www.amazon.in/s?k=Meatzza%20Fresh%20Chicken%20Mince%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2351,7 +2351,8 @@
     "gadreimitationcrabsticks250g": {
         "title": "Gadre Imitation Crab Sticks (250 g)",
         "price": 265,
-        "link": "https://www.amazon.in/tez/browse/explore/collection?qcbrand=qqfsWw9RkO&nodeId=218876203031&title=Chicken%2C+Meat+%26+Fish&pf_rd_r=7F1RMR5CT7GKWBHXN921&pf_rd_p=843e77b6-8834-4ef1-bf3b-ecc146b1b1bb&tag=flashsale069-21"
+        "link": "https://www.amazon.in/s?k=Gadre%20Imitation%20Crab%20Sticks%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     },
     "naikseersurmaineymeenfishsteak500g": {
         "title": "Naik Seer/Surmai/Neymeen Fish Steak (500 g)",
@@ -3613,7 +3614,7 @@
     },
     "dovenourishingbodywash300ml": {
         "title": "Dove Nourishing Bodywash (300 ml)",
-        "price": 133,
+        "price": 156,
         "link": "https://www.amazon.in/s?k=Dove%20Nourishing%20Bodywash%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3718,5 +3719,29 @@
         "price": 299,
         "link": "https://www.amazon.in/s?k=Chemist%20At%20Play%20Brightening%20Body%20Wash%20(236%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "ethigloskinwhiteningfacewash70ml": {
+        "title": "Ethiglo Skin Whitening Face Wash (70 ml)",
+        "price": 246,
+        "link": "https://www.amazon.in/s?k=Ethiglo%20Skin%20Whitening%20Face%20Wash%20(70%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "tatacoffeegrandclassic50g": {
+        "title": "Tata Coffee Grand Classic (50 g)",
+        "price": 102,
+        "link": "https://www.amazon.in/s?k=Tata%20Coffee%20Grand%20Classic%20(50%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "anveshankhaplimultigrainatta2kg": {
+        "title": "Anveshan Khapli Multigrain Atta (2 kg)",
+        "price": 249,
+        "link": "https://www.amazon.in/s?k=Anveshan%20Khapli%20Multigrain%20Atta%20(2%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "aristoinsulatedchillericebox25l": {
+        "title": "Aristo Insulated Chiller Ice Box (2.5 L)",
+        "price": 301,
+        "link": "https://www.amazon.in/s?k=Aristo%20Insulated%20Chiller%20Ice%20Box%20(2.5%20L)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
