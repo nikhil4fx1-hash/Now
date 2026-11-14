@@ -330,7 +330,7 @@
     },
     "chemistatplaydailyexfoliatingbodywash236ml": {
         "title": "Chemist At Play Daily ExfoliAting Body Wash (236 ml)",
-        "price": 368,
+        "price": 369,
         "link": "https://www.amazon.in/s?k=Chemist%20At%20Play%20Daily%20ExfoliAting%20Body%20Wash%20(236%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1805,7 +1805,7 @@
     },
     "tatateaagnielaichichai250g": {
         "title": "Tata Tea Agni Elaichi Chai (250 g)",
-        "price": 85,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Tata%20Tea%20Agni%20Elaichi%20Chai%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2014,7 +2014,7 @@
     },
     "sleepyowlfrenchvanillainstantcoffeesachets": {
         "title": "Sleepy Owl French Vanilla Instant Coffee Sachets",
-        "price": 89,
+        "price": 96,
         "link": "https://www.amazon.in/s?k=Sleepy%20Owl%20French%20Vanilla%20Instant%20Coffee%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2511,9 +2511,9 @@
     },
     "borosiltransparentchaitimeglasscupset": {
         "title": "Borosil Transparent Chai Time Glass Cup Set",
-        "price": 568,
+        "price": 529,
         "link": "https://www.amazon.in/s?k=Borosil%20Transparent%20Chai%20Time%20Glass%20Cup%20Set&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "signorawarestainlesssteelminitumbler300ml300ml": {
         "title": "SignoraWare Stainless Steel Mini Tumbler (300ml) (300 ml)",
@@ -2900,7 +2900,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 26,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3705,6 +3705,12 @@
         "title": "Garnier Bright Complete Vitamin C Face Wash (160 g)",
         "price": 239,
         "link": "https://www.amazon.in/s?k=Garnier%20Bright%20Complete%20Vitamin%20C%20Face%20Wash%20(160%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "cetaphiloilyskincleanser118ml": {
+        "title": "Cetaphil Oily Skin Cleanser (118 ml)",
+        "price": 520,
+        "link": "https://www.amazon.in/s?k=Cetaphil%20Oily%20Skin%20Cleanser%20(118%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
