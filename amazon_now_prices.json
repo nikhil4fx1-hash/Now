@@ -1667,7 +1667,7 @@
     },
     "gillettevectorshavingrazor1unit": {
         "title": "Gillette Vector + Shaving Razor (1 Unit)",
-        "price": 105,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Gillette%20Vector%20%2B%20Shaving%20Razor%20(1%20Unit)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3614,7 +3614,7 @@
     },
     "dovenourishingbodywash300ml": {
         "title": "Dove Nourishing Bodywash (300 ml)",
-        "price": 156,
+        "price": 136,
         "link": "https://www.amazon.in/s?k=Dove%20Nourishing%20Bodywash%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3790,6 +3790,12 @@
         "title": "Durex Pleasure Mix Assorted Comdoms",
         "price": 499,
         "link": "https://www.amazon.in/s?k=Durex%20Pleasure%20Mix%20Assorted%20Comdoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "oldspiceoriginalaftershavelotion100ml": {
+        "title": "Old Spice Original After Shave Lotion (100 ml)",
+        "price": 225,
+        "link": "https://www.amazon.in/s?k=Old%20Spice%20Original%20After%20Shave%20Lotion%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
