@@ -187,7 +187,7 @@
     },
     "cocacolazerosugarsoftdrinkcan300ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
-        "price": 39,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -348,7 +348,7 @@
     },
     "doveexfoliatingbodywash300ml": {
         "title": "Dove Exfoliating Bodywash (300 ml)",
-        "price": 204,
+        "price": 157,
         "link": "https://www.amazon.in/s?k=Dove%20Exfoliating%20Bodywash%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1637,7 +1637,7 @@
     },
     "gillettevectorplusshavingrazorbladescartridges": {
         "title": "Gillette Vector Plus Shaving Razor Blades/Cartridges",
-        "price": 180,
+        "price": 178,
         "link": "https://www.amazon.in/s?k=Gillette%20Vector%20Plus%20Shaving%20Razor%20Blades%2FCartridges&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3743,5 +3743,11 @@
         "price": 301,
         "link": "https://www.amazon.in/s?k=Aristo%20Insulated%20Chiller%20Ice%20Box%20(2.5%20L)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "gadretilapiafishfingers250g": {
+        "title": "Gadre Tilapia Fish Fingers (250 g)",
+        "price": 225,
+        "link": "https://www.amazon.in/s?k=Gadre%20Tilapia%20Fish%20Fingers%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
