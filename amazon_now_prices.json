@@ -407,9 +407,9 @@
     },
     "dermatouchbrightevenskintonefacewash70g": {
         "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
-        "price": 156,
+        "price": 142,
         "link": "https://www.amazon.in/s?k=Dermatouch%20Bright%20%26%20Even%20Skin%20Tone%20Face%20Wash%20(70%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "biodermapigmentbiofoamingcream200ml": {
         "title": "Bioderma Pigmentbio Foaming Cream (200 ml)",
@@ -1007,9 +1007,9 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 24,
+        "price": 22,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshnaturallygrownlemon100g": {
         "title": "Fresh Naturally Grown Lemon (100 g)",
@@ -1271,7 +1271,7 @@
     },
     "freshgreencapsicum250g": {
         "title": "Fresh Green Capsicum (250 g)",
-        "price": 17,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3996,5 +3996,17 @@
         "price": 131,
         "link": "https://www.amazon.in/s?k=Pepsodent%20Germicheck%20Toothpaste%20(300%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "freshgreenzesprikiwi3pcs": {
+        "title": "Fresh Green Zespri Kiwi (3 Pcs)",
+        "price": 159,
+        "link": "https://www.amazon.in/s?k=Fresh%20Green%20Zespri%20Kiwi%20(3%20Pcs)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pluckkfreshpremiumroyalgalaapple": {
+        "title": "Pluckk Fresh Premium Royal Gala Apple",
+        "price": 239,
+        "link": "https://www.amazon.in/s?k=Pluckk%20Fresh%20Premium%20Royal%20Gala%20Apple&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
