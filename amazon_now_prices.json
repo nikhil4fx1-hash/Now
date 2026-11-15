@@ -3069,7 +3069,7 @@
     },
     "countrydelightpasteurisedcowmilk450ml": {
         "title": "Country Delight Pasteurised Cow Milk (450 ml)",
-        "price": 41,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3765,9 +3765,9 @@
     },
     "pluckkfreshpremiumwatermelonkiran": {
         "title": "Pluckk Fresh Premium Watermelon Kiran",
-        "price": 171,
+        "price": 119,
         "link": "https://www.amazon.in/s?k=Pluckk%20Fresh%20Premium%20Watermelon%20Kiran&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "daburherblactivatedcharcoalwhiteningtoothpaste120g": {
         "title": "Dabur Herb'L Activated Charcoal Whitening Toothpaste (120 g)",
@@ -3953,6 +3953,12 @@
         "title": "Fresh Premium Green Pear",
         "price": 123,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Green%20Pear&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshpremiumraspberry85g": {
+        "title": "Fresh Premium Raspberry (85 g)",
+        "price": 265,
+        "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Raspberry%20(85%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
