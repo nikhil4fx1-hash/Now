@@ -863,13 +863,13 @@
     },
     "sidsfarma2buffalomilk500ml": {
         "title": "Sid's Farm A2 Buffalo Milk (500 ml)",
-        "price": 64,
+        "price": 66,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20A2%20Buffalo%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "sidsfarmtonedmilk500ml": {
         "title": "Sid's Farm Toned Milk (500 ml)",
-        "price": 36,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Toned%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1421,7 +1421,7 @@
     },
     "freshcolocasialeafarvipatta10pcs": {
         "title": "Fresh Colocasia Leaf (Arvi Patta) (10 Pcs)",
-        "price": 15,
+        "price": 25,
         "link": "https://www.amazon.in/s?k=Fresh%20Colocasia%20Leaf%20(Arvi%20Patta)%20(10%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2734,7 +2734,7 @@
     },
     "manforceepicthinxultrathincondoms": {
         "title": "MANforce Epic ThinX Ultra Thin Condoms",
-        "price": 233,
+        "price": 235,
         "link": "https://www.amazon.in/s?k=MANforce%20Epic%20ThinX%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2800,7 +2800,7 @@
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
-        "price": 58,
+        "price": 53,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Buffalo%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3003,7 +3003,7 @@
     },
     "freshgreencapsicum500g": {
         "title": "Fresh Green Capsicum (500 g)",
-        "price": 22,
+        "price": 41,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3921,7 +3921,7 @@
     },
     "maazaoriginalmangodrink12l": {
         "title": "Maaza Original Mango Drink (1.2 L)",
-        "price": 62,
+        "price": 70,
         "link": "https://www.amazon.in/s?k=Maaza%20Original%20Mango%20Drink%20(1.2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3959,6 +3959,12 @@
         "title": "Fresh Premium Raspberry (85 g)",
         "price": 265,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Raspberry%20(85%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dovebodypolishexfoliatingscrub298g": {
+        "title": "Dove Body Polish Exfoliating Scrub (298 g)",
+        "price": 559.3,
+        "link": "https://www.amazon.in/s?k=Dove%20Body%20Polish%20Exfoliating%20Scrub%20(298%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
