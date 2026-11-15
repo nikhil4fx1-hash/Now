@@ -797,7 +797,7 @@
     },
     "motherdairycowmilk1l": {
         "title": "Mother Dairy Cow Milk (1 L)",
-        "price": 60,
+        "price": 54,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1235,7 +1235,7 @@
     },
     "freshpremiumroyalgalaapple": {
         "title": "Fresh Premium Royal Gala Apple",
-        "price": 122,
+        "price": 124,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Royal%20Gala%20Apple&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1954,7 +1954,7 @@
     },
     "lavazzagustocremacoffeebeans500g": {
         "title": "Lavazza Gusto Crema Coffee Beans (500 g)",
-        "price": 612,
+        "price": 780,
         "link": "https://www.amazon.in/s?k=Lavazza%20Gusto%20Crema%20Coffee%20Beans%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3918,5 +3918,17 @@
         "price": 31,
         "link": "https://www.amazon.in/s?k=Fresh%20Sweet%20Potato%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "maazaoriginalmangodrink12l": {
+        "title": "Maaza Original Mango Drink (1.2 L)",
+        "price": 62,
+        "link": "https://www.amazon.in/s?k=Maaza%20Original%20Mango%20Drink%20(1.2%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshfrenchbeans250g": {
+        "title": "Fresh French Beans (250 g)",
+        "price": 23,
+        "link": "https://www.amazon.in/s?k=Fresh%20French%20Beans%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
