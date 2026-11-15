@@ -1061,7 +1061,7 @@
     },
     "freshsmallpapaya500g": {
         "title": "Fresh Small Papaya (500 g)",
-        "price": 75,
+        "price": 76,
         "link": "https://www.amazon.in/s?k=Fresh%20Small%20Papaya%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1199,7 +1199,7 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 192,
+        "price": 187,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1307,7 +1307,7 @@
     },
     "freshredyellowcapsicummix2pcs": {
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
-        "price": 73,
+        "price": 52,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3912,5 +3912,11 @@
         "price": 99,
         "link": "https://www.amazon.in/s?k=Brooke%20Bond%20Red%20Label%20Instant%20Elaichi%20Chai%20Premix&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "freshsweetpotato500g": {
+        "title": "Fresh Sweet Potato (500 g)",
+        "price": 31,
+        "link": "https://www.amazon.in/s?k=Fresh%20Sweet%20Potato%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
