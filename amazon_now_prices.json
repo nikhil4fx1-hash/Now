@@ -1271,7 +1271,7 @@
     },
     "freshgreencapsicum250g": {
         "title": "Fresh Green Capsicum (250 g)",
-        "price": 17,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3965,6 +3965,12 @@
         "title": "Dove Body Polish Exfoliating Scrub (298 g)",
         "price": 559.3,
         "link": "https://www.amazon.in/s?k=Dove%20Body%20Polish%20Exfoliating%20Scrub%20(298%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshmangosteen250g": {
+        "title": "Fresh Mangosteen (250 g)",
+        "price": 359,
+        "link": "https://www.amazon.in/s?k=Fresh%20Mangosteen%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
