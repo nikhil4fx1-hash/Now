@@ -1241,7 +1241,7 @@
     },
     "freshbeetrootdeal200250g": {
         "title": "Fresh Beet Root - Deal (200-250 g)",
-        "price": 6,
+        "price": 8,
         "link": "https://www.amazon.in/s?k=Fresh%20Beet%20Root%20-%20Deal%20(200-250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2014,7 +2014,7 @@
     },
     "sleepyowlfrenchvanillainstantcoffeesachets": {
         "title": "Sleepy Owl French Vanilla Instant Coffee Sachets",
-        "price": 96,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Sleepy%20Owl%20French%20Vanilla%20Instant%20Coffee%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2644,7 +2644,7 @@
     },
     "sensodynepronamelenamelprotectiontoothpaste": {
         "title": "Sensodyne Pronamel Enamel Protection Toothpaste",
-        "price": 232,
+        "price": 238,
         "link": "https://www.amazon.in/s?k=Sensodyne%20Pronamel%20Enamel%20Protection%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3249,7 +3249,7 @@
     },
     "doveserumbathingbar": {
         "title": "Dove Serum Bathing Bar",
-        "price": 588,
+        "price": 598,
         "link": "https://www.amazon.in/s?k=Dove%20Serum%20Bathing%20Bar&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4031,6 +4031,18 @@
         "title": "Fresh Premium Grapefruit (1 Pc)",
         "price": 83,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Grapefruit%20(1%20Pc)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gosupremocowsmilk1l": {
+        "title": "Go Supremo Cow's Milk (1 L)",
+        "price": 80,
+        "link": "https://www.amazon.in/s?k=Go%20Supremo%20Cow's%20Milk%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "heritagelitefitmilk1l": {
+        "title": "Heritage Lite Fit Milk (1 L)",
+        "price": 71,
+        "link": "https://www.amazon.in/s?k=Heritage%20Lite%20Fit%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
