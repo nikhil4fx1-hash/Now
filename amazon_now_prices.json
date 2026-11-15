@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 37,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1703,7 +1703,7 @@
     },
     "nakproimpactwheyprotein1kg": {
         "title": "Nakpro Impact Whey Protein (1 kg)",
-        "price": 1599,
+        "price": 1461,
         "link": "https://www.amazon.in/s?k=Nakpro%20Impact%20Whey%20Protein%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2800,7 +2800,7 @@
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
-        "price": 58,
+        "price": 51,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Buffalo%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2985,7 +2985,7 @@
     },
     "freshcucumber500g": {
         "title": "Fresh Cucumber (500 g)",
-        "price": 30,
+        "price": 33,
         "link": "https://www.amazon.in/s?k=Fresh%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3003,7 +3003,7 @@
     },
     "freshgreencapsicum500g": {
         "title": "Fresh Green Capsicum (500 g)",
-        "price": 41,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3971,6 +3971,30 @@
         "title": "Fresh Mangosteen (250 g)",
         "price": 359,
         "link": "https://www.amazon.in/s?k=Fresh%20Mangosteen%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "wildstonedeodorantbathsoaps": {
+        "title": "Wild Stone Deodorant Bath Soaps",
+        "price": 264,
+        "link": "https://www.amazon.in/s?k=Wild%20Stone%20Deodorant%20Bath%20Soaps&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "cintholoriginalgermprotectionsoap": {
+        "title": "Cinthol Original Germ Protection Soap",
+        "price": 165,
+        "link": "https://www.amazon.in/s?k=Cinthol%20Original%20Germ%20Protection%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gokultazapasteurisedtonedmilk500ml": {
+        "title": "Gokul Taza Pasteurised Toned Milk (500 ml)",
+        "price": 29,
+        "link": "https://www.amazon.in/s?k=Gokul%20Taza%20Pasteurised%20Toned%20Milk%20(500%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pepsodentgermichecktoothpaste300g": {
+        "title": "Pepsodent Germicheck Toothpaste (300 g)",
+        "price": 131,
+        "link": "https://www.amazon.in/s?k=Pepsodent%20Germicheck%20Toothpaste%20(300%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
