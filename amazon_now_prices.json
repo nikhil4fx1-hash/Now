@@ -4008,5 +4008,17 @@
         "price": 239,
         "link": "https://www.amazon.in/s?k=Pluckk%20Fresh%20Premium%20Royal%20Gala%20Apple&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "freshbottlegourdsmall": {
+        "title": "Fresh Bottle Gourd - Small",
+        "price": 18,
+        "link": "https://www.amazon.in/s?k=Fresh%20Bottle%20Gourd%20-%20Small&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "laopaladivaglasscoffeemugwhite": {
+        "title": "La Opala Diva Glass Coffee Mug, White",
+        "price": 449,
+        "link": "https://www.amazon.in/s?k=La%20Opala%20Diva%20Glass%20Coffee%20Mug%2C%20White&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
