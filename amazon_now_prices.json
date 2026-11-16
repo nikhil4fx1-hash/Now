@@ -2902,7 +2902,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 26,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4097,6 +4097,12 @@
         "title": "Skore SkinThin Ultra Fine Condoms",
         "price": 100,
         "link": "https://www.amazon.in/s?k=Skore%20SkinThin%20Ultra%20Fine%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "brookebondtajmahaltea500g": {
+        "title": "Brooke Bond Taj Mahal Tea (500 g)",
+        "price": 362,
+        "link": "https://www.amazon.in/s?k=Brooke%20Bond%20Taj%20Mahal%20Tea%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
