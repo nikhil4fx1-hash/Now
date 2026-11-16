@@ -103,7 +103,7 @@
     },
     "thumsupsoftdrink125l": {
         "title": "Thums Up Soft Drink (1.25 L)",
-        "price": 63,
+        "price": 66,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink%20(1.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -779,7 +779,7 @@
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 39,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -797,7 +797,7 @@
     },
     "motherdairycowmilk1l": {
         "title": "Mother Dairy Cow Milk (1 L)",
-        "price": 60,
+        "price": 54,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1007,7 +1007,7 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 24,
+        "price": 22,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2074,7 +2074,7 @@
     },
     "pillsburychakkifreshatta5kg": {
         "title": "Pillsbury Chakki Fresh Atta (5 kg)",
-        "price": 230,
+        "price": 231,
         "link": "https://www.amazon.in/s?k=Pillsbury%20Chakki%20Fresh%20Atta%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2104,7 +2104,7 @@
     },
     "aashirvaadattawithmultigrains5kg": {
         "title": "Aashirvaad Atta With Multigrains (5 kg)",
-        "price": 328,
+        "price": 329,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Atta%20With%20Multigrains%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2902,7 +2902,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 26,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3831,7 +3831,7 @@
     },
     "freshpomegranate4pcs": {
         "title": "Fresh Pomegranate (4 Pcs)",
-        "price": 255,
+        "price": 234,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(4%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4073,6 +4073,12 @@
         "title": "Happi Planet Non Toxic Kitchen Cleaner Set",
         "price": 449,
         "link": "https://www.amazon.in/s?k=Happi%20Planet%20Non%20Toxic%20Kitchen%20Cleaner%20Set&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dettoloriginalbathingsoap": {
+        "title": "Dettol Original Bathing Soap",
+        "price": 239,
+        "link": "https://www.amazon.in/s?k=Dettol%20Original%20Bathing%20Soap&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
