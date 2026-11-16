@@ -785,7 +785,7 @@
     },
     "gokulsaatvikpasteurisedcowmilk500ml": {
         "title": "Gokul Saatvik Pasteurised Cow Milk (500 ml)",
-        "price": 30,
+        "price": 29,
         "link": "https://www.amazon.in/s?k=Gokul%20Saatvik%20Pasteurised%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1025,7 +1025,7 @@
     },
     "freshkashmirapple2pcs": {
         "title": "Fresh Kashmir Apple (2 Pcs)",
-        "price": 88,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Fresh%20Kashmir%20Apple%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 89,
+        "price": 87,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1175,7 +1175,7 @@
     },
     "freshkiwigreen3pcs": {
         "title": "Fresh Kiwi - Green (3 Pcs)",
-        "price": 95,
+        "price": 98,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiwi%20-%20Green%20(3%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2801,7 +2801,7 @@
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
-        "price": 51,
+        "price": 58,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Buffalo%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2855,7 +2855,7 @@
     },
     "freshorganiccauliflower": {
         "title": "Fresh Organic Cauliflower",
-        "price": 31,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Cauliflower&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3532,7 +3532,7 @@
     },
     "freshpomegranate2pcs": {
         "title": "Fresh Pomegranate (2 Pcs)",
-        "price": 81,
+        "price": 118,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -4138,7 +4138,7 @@
     },
     "freshpremiumredglobegrapes250g": {
         "title": "Fresh Premium Red Globe Grapes (250 g)",
-        "price": 97,
+        "price": 109,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Red%20Globe%20Grapes%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4147,5 +4147,11 @@
         "price": 52,
         "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Sweet%20Corn%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "becofrontloadmaticlaundryshampoo4l": {
+        "title": "Beco Front Load Matic Laundry Shampoo (4 L)",
+        "price": 450,
+        "link": "https://www.amazon.in/s?k=Beco%20Front%20Load%20Matic%20Laundry%20Shampoo%20(4%20L)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
