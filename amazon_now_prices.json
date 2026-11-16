@@ -1037,7 +1037,7 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 52,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1289,7 +1289,7 @@
     },
     "freshnaturallygrowncauliflower": {
         "title": "Fresh Naturally Grown Cauliflower",
-        "price": 14,
+        "price": 29,
         "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Cauliflower&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1751,7 +1751,7 @@
     },
     "horlicksproteinpowder": {
         "title": "Horlicks Protein Powder",
-        "price": 2100,
+        "price": 2300,
         "link": "https://www.amazon.in/s?k=Horlicks%20Protein%20Powder&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3124,7 +3124,7 @@
     },
     "milkymistlactosefreetonedmilk250ml": {
         "title": "Milky Mist Lactose Free Toned Milk (250 ml)",
-        "price": 26,
+        "price": 34,
         "link": "https://www.amazon.in/s?k=Milky%20Mist%20Lactose%20Free%20Toned%20Milk%20(250%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3724,7 +3724,7 @@
     },
     "ethigloskinwhiteningfacewash70ml": {
         "title": "Ethiglo Skin Whitening Face Wash (70 ml)",
-        "price": 246,
+        "price": 252,
         "link": "https://www.amazon.in/s?k=Ethiglo%20Skin%20Whitening%20Face%20Wash%20(70%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4153,5 +4153,11 @@
         "price": 450,
         "link": "https://www.amazon.in/s?k=Beco%20Front%20Load%20Matic%20Laundry%20Shampoo%20(4%20L)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "surfexcelmaticliquiddetergenttopload3kg": {
+        "title": "Surf Excel Matic Liquid Detergent Top Load (3 kg)",
+        "price": 470,
+        "link": "https://www.amazon.in/s?k=Surf%20Excel%20Matic%20Liquid%20Detergent%20Top%20Load%20(3%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
