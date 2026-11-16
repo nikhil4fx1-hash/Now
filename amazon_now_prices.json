@@ -3226,7 +3226,7 @@
     },
     "freshkinnaurapple": {
         "title": "Fresh Kinnaur Apple",
-        "price": 68,
+        "price": 98,
         "link": "https://www.amazon.in/s?k=Fresh%20Kinnaur%20Apple&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -4024,7 +4024,7 @@
     },
     "freshbeautyredpearregular": {
         "title": "Fresh Beauty Red Pear - Regular",
-        "price": 139,
+        "price": 127,
         "link": "https://www.amazon.in/s?k=Fresh%20Beauty%20Red%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4164,6 +4164,12 @@
         "title": "Surf Excel Matic Liquid Detergent Top Load (2 L)",
         "price": 336,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Matic%20Liquid%20Detergent%20Top%20Load%20(2%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "nutrifreshcurlykaleapprox100g": {
+        "title": "Nutrifresh Curly Kale (Approx. 100 g)",
+        "price": 33,
+        "link": "https://www.amazon.in/s?k=Nutrifresh%20Curly%20Kale%20(Approx.%20100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
