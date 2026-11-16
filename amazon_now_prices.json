@@ -223,13 +223,13 @@
     },
     "thebakersdozenmultigrain10gproteinchips45g": {
         "title": "The Baker's Dozen Multigrain 10g Protein Chips (45 g)",
-        "price": 35,
+        "price": 32,
         "link": "https://www.amazon.in/s?k=The%20Baker's%20Dozen%20Multigrain%2010g%20Protein%20Chips%20(45%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "superyoumultigrainproteinchips40g": {
         "title": "Superyou Multigrain Protein Chips (40 g)",
-        "price": 30,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Superyou%20Multigrain%20Protein%20Chips%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1511,7 +1511,7 @@
     },
     "mannlichintimatehairremovalcreamformen100ml": {
         "title": "Mannlich Intimate Hair Removal Cream For Men (100 ml)",
-        "price": 289,
+        "price": 265,
         "link": "https://www.amazon.in/s?k=Mannlich%20Intimate%20Hair%20Removal%20Cream%20For%20Men%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4182,6 +4182,12 @@
         "title": "Durex Mutual Climax Condoms",
         "price": 419,
         "link": "https://www.amazon.in/s?k=Durex%20Mutual%20Climax%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "isopurewheyproteinisolatepowder1kg": {
+        "title": "Isopure Whey Protein Isolate Powder (1 kg)",
+        "price": 7810,
+        "link": "https://www.amazon.in/s?k=Isopure%20Whey%20Protein%20Isolate%20Powder%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
