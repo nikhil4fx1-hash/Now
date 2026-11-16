@@ -1757,7 +1757,7 @@
     },
     "truebasicscleanplantprotein1kg": {
         "title": "Truebasics Clean Plant Protein (1 kg)",
-        "price": 2099,
+        "price": 1999,
         "link": "https://www.amazon.in/s?k=Truebasics%20Clean%20Plant%20Protein%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3712,7 +3712,7 @@
     },
     "cetaphiloilyskincleanser118ml": {
         "title": "Cetaphil Oily Skin Cleanser (118 ml)",
-        "price": 520,
+        "price": 540,
         "link": "https://www.amazon.in/s?k=Cetaphil%20Oily%20Skin%20Cleanser%20(118%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4116,6 +4116,12 @@
         "title": "Fresh Strawberry (180 g)",
         "price": 139,
         "link": "https://www.amazon.in/s?k=Fresh%20Strawberry%20(180%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "colgatestrongteethtoothpaste500g": {
+        "title": "Colgate Strong Teeth Toothpaste (500 g)",
+        "price": 245,
+        "link": "https://www.amazon.in/s?k=Colgate%20Strong%20Teeth%20Toothpaste%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
