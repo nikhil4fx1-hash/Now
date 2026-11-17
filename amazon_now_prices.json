@@ -67,7 +67,7 @@
     },
     "coolbergstrawberrybeer330ml": {
         "title": "Coolberg Strawberry Beer (330 ml)",
-        "price": 102,
+        "price": 98,
         "link": "https://www.amazon.in/s?k=Coolberg%20Strawberry%20Beer%20(330%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 100,
+        "price": 229,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3160,7 +3160,7 @@
     },
     "freshnivapremiumthaiguavapink1pc300g": {
         "title": "FreshNiva Premium Thai Guava Pink (1 Pc (300g +))",
-        "price": 72,
+        "price": 54,
         "link": "https://www.amazon.in/s?k=FreshNiva%20Premium%20Thai%20Guava%20Pink%20(1%20Pc%20(300g%20%2B))&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5082,6 +5082,12 @@
         "title": "Pilgrim Vitamin C Gel Face Wash (100 ml)",
         "price": 190,
         "link": "https://www.amazon.in/s?k=Pilgrim%20Vitamin%20C%20Gel%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "colgatemaxfreshpepperminttoothpaste": {
+        "title": "Colgate Maxfresh Peppermint Toothpaste",
+        "price": 202,
+        "link": "https://www.amazon.in/s?k=Colgate%20Maxfresh%20Peppermint%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
