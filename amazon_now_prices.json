@@ -103,7 +103,7 @@
     },
     "thumsupsoftdrink125l": {
         "title": "Thums Up Soft Drink (1.25 L)",
-        "price": 63,
+        "price": 66,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink%20(1.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -241,7 +241,7 @@
     },
     "pringlesoriginalpotatocrisps40g": {
         "title": "Pringles Original Potato Crisps (40 g)",
-        "price": 50,
+        "price": 51,
         "link": "https://www.amazon.in/s?k=Pringles%20Original%20Potato%20Crisps%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1259,7 +1259,7 @@
     },
     "freshootycarrot250g": {
         "title": "Fresh Ooty Carrot (250 g)",
-        "price": 10,
+        "price": 22,
         "link": "https://www.amazon.in/s?k=Fresh%20Ooty%20Carrot%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1817,7 +1817,7 @@
     },
     "tatateapremiumblacktea15kg": {
         "title": "Tata Tea Premium (Black tea) (1.5 kg)",
-        "price": 507,
+        "price": 547,
         "link": "https://www.amazon.in/s?k=Tata%20Tea%20Premium%20(Black%20tea)%20(1.5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3238,7 +3238,7 @@
     },
     "drreddysvenusiahydratingcleansersyndetbar75g": {
         "title": "Dr. Reddy's Venusia Hydrating Cleanser Syndet Bar (75 g)",
-        "price": 175,
+        "price": 159,
         "link": "https://www.amazon.in/s?k=Dr.%20Reddy's%20Venusia%20Hydrating%20Cleanser%20Syndet%20Bar%20(75%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4200,6 +4200,12 @@
         "title": "Tata Tea Gold - Assam Tea (250 g)",
         "price": 160,
         "link": "https://www.amazon.in/s?k=Tata%20Tea%20Gold%20-%20Assam%20Tea%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "medimixayurvedicnatureprotectsoappack": {
+        "title": "Medimix Ayurvedic Nature Protect Soap Pack",
+        "price": 333,
+        "link": "https://www.amazon.in/s?k=Medimix%20Ayurvedic%20Nature%20Protect%20Soap%20Pack&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
