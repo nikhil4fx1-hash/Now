@@ -389,7 +389,7 @@
     },
     "simplerefreshingfacialwash100ml": {
         "title": "Simple Refreshing Facial Wash (100 ml)",
-        "price": 228,
+        "price": 227,
         "link": "https://www.amazon.in/s?k=Simple%20Refreshing%20Facial%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -407,7 +407,7 @@
     },
     "dermatouchbrightevenskintonefacewash70g": {
         "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
-        "price": 156,
+        "price": 136,
         "link": "https://www.amazon.in/s?k=Dermatouch%20Bright%20%26%20Even%20Skin%20Tone%20Face%20Wash%20(70%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -647,7 +647,7 @@
     },
     "prestoactivewashdetergentpowder8kg": {
         "title": "Presto! Active Wash Detergent Powder (8 kg)",
-        "price": 465,
+        "price": 479,
         "link": "https://www.amazon.in/s?k=Presto!%20Active%20Wash%20Detergent%20Powder%20(8%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -935,7 +935,7 @@
     },
     "gokuldahipouch500g": {
         "title": "Gokul Dahi Pouch (500 g)",
-        "price": 50,
+        "price": 47,
         "link": "https://www.amazon.in/s?k=Gokul%20Dahi%20Pouch%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1115,7 +1115,7 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 86,
+        "price": 88,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2825,7 +2825,7 @@
     },
     "epigamiastrawberrygreekyogurt85g": {
         "title": "Epigamia Strawberry Greek Yogurt (85 g)",
-        "price": 59,
+        "price": 57,
         "link": "https://www.amazon.in/s?k=Epigamia%20Strawberry%20Greek%20Yogurt%20(85%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5016,6 +5016,12 @@
         "title": "Manforce Xtra Pleasure Condoms",
         "price": 120,
         "link": "https://www.amazon.in/s?k=Manforce%20Xtra%20Pleasure%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dettoloriginalgermdefencesoappack": {
+        "title": "Dettol Original Germ Defence Soap Pack",
+        "price": 242,
+        "link": "https://www.amazon.in/s?k=Dettol%20Original%20Germ%20Defence%20Soap%20Pack&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
