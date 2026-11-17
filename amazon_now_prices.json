@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 37,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -187,7 +187,7 @@
     },
     "cocacolazerosugarsoftdrinkcan300ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
-        "price": 40,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1427,7 +1427,7 @@
     },
     "freshpokchoy250g": {
         "title": "Fresh Pok Choy (250 g)",
-        "price": 22,
+        "price": 32,
         "link": "https://www.amazon.in/s?k=Fresh%20Pok%20Choy%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3406,7 +3406,7 @@
     },
     "closeuptoothpastemegasaverpack300g": {
         "title": "Close Up Toothpaste Mega Saver Pack (300 g)",
-        "price": 167,
+        "price": 171,
         "link": "https://www.amazon.in/s?k=Close%20Up%20Toothpaste%20Mega%20Saver%20Pack%20(300%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5046,6 +5046,30 @@
         "title": "Treo By Milton Cube Storage Glass Jar (800 ml) - Transparent (800 ml)",
         "price": 215,
         "link": "https://www.amazon.in/s?k=Treo%20By%20Milton%20Cube%20Storage%20Glass%20Jar%20(800%20ml)%20-%20Transparent%20(800%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "redbullenergydrinkcan350ml": {
+        "title": "Red Bull Energy Drink Can (350 ml)",
+        "price": 165,
+        "link": "https://www.amazon.in/s?k=Red%20Bull%20Energy%20Drink%20Can%20(350%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshashgourd1pc12kg": {
+        "title": "Fresh Ash Gourd (1 Pc (1-2 kg))",
+        "price": 95,
+        "link": "https://www.amazon.in/s?k=Fresh%20Ash%20Gourd%20(1%20Pc%20(1-2%20kg))&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "brookebondredlabelnaturalcaretea250g": {
+        "title": "Brooke Bond Red Label Natural Care Tea (250 g)",
+        "price": 150,
+        "link": "https://www.amazon.in/s?k=Brooke%20Bond%20Red%20Label%20Natural%20Care%20Tea%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshtohomegheeroasttangychicken250g": {
+        "title": "FreshToHome Ghee Roast Tangy Chicken (250 g)",
+        "price": 180,
+        "link": "https://www.amazon.in/s?k=FreshToHome%20Ghee%20Roast%20Tangy%20Chicken%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
