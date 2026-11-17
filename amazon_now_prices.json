@@ -809,7 +809,7 @@
     },
     "amulgoldpasteurizedfullcreammilkymilk1l": {
         "title": "Amul Gold Pasteurized Full Cream Milky Milk (1 L)",
-        "price": 72,
+        "price": 76,
         "link": "https://www.amazon.in/s?k=Amul%20Gold%20Pasteurized%20Full%20Cream%20Milky%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1007,7 +1007,7 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 24,
+        "price": 27,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 87,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1157,7 +1157,7 @@
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
-        "price": 63,
+        "price": 69,
         "link": "https://www.amazon.in/s?k=Fresh%20Dragon%20Fruit%20Red%20Flesh%20-%20Indian%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2135,7 +2135,7 @@
     },
     "godrejrealgoodbonelesschickenbreast450g": {
         "title": "Godrej Real Good Boneless Chicken Breast (450 g)",
-        "price": 243,
+        "price": 251,
         "link": "https://www.amazon.in/s?k=Godrej%20Real%20Good%20Boneless%20Chicken%20Breast%20(450%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2411,9 +2411,9 @@
     },
     "prokartmultipurposeziplockpouches50pcs": {
         "title": "ProKart Multi-Purpose Zip Lock Pouches (50 Pcs)",
-        "price": 159,
+        "price": 157,
         "link": "https://www.amazon.in/s?k=ProKart%20Multi-Purpose%20Zip%20Lock%20Pouches%20(50%20Pcs)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "cellocheckersairtightcanistersetblack1set18pcs": {
         "title": "Cello Checkers Airtight Canister Set - Black (1 Set (18 Pcs))",
@@ -2903,7 +2903,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 26,
+        "price": 29,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4890,6 +4890,24 @@
         "title": "Manforce High Double Apple Ultra Thin Condoms",
         "price": 132,
         "link": "https://www.amazon.in/s?k=Manforce%20High%20Double%20Apple%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "mirindaorangeflavoursoftdrink750ml": {
+        "title": "Mirinda Orange Flavour Soft Drink (750 ml)",
+        "price": 39,
+        "link": "https://www.amazon.in/s?k=Mirinda%20Orange%20Flavour%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshorganicfrenchbeans250g": {
+        "title": "Fresh Organic French Beans (250 g)",
+        "price": 27,
+        "link": "https://www.amazon.in/s?k=Fresh%20Organic%20French%20Beans%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "bagrryswheatbran500g": {
+        "title": "Bagrry's Wheat Bran (500 g)",
+        "price": 135,
+        "link": "https://www.amazon.in/s?k=Bagrry's%20Wheat%20Bran%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
