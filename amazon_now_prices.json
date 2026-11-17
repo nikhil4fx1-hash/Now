@@ -1037,7 +1037,7 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 52,
+        "price": 37,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5076,6 +5076,12 @@
         "title": "Nescafe Classic Instant Coffee Powder Jar (90 g)",
         "price": 339,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Jar%20(90%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pilgrimvitamincgelfacewash100ml": {
+        "title": "Pilgrim Vitamin C Gel Face Wash (100 ml)",
+        "price": 190,
+        "link": "https://www.amazon.in/s?k=Pilgrim%20Vitamin%20C%20Gel%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
