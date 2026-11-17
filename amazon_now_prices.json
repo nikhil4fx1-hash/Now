@@ -779,7 +779,7 @@
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 39,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -899,7 +899,7 @@
     },
     "amulmastidahipouch1kg": {
         "title": "Amul Masti Dahi Pouch (1 kg)",
-        "price": 72,
+        "price": 85,
         "link": "https://www.amazon.in/s?k=Amul%20Masti%20Dahi%20Pouch%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1043,7 +1043,7 @@
     },
     "freshkiranwatermelonlarge": {
         "title": "Fresh Kiran Watermelon - Large",
-        "price": 87,
+        "price": 125,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiran%20Watermelon%20-%20Large&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1241,7 +1241,7 @@
     },
     "freshbeetrootdeal200250g": {
         "title": "Fresh Beet Root - Deal (200-250 g)",
-        "price": 6,
+        "price": 8,
         "link": "https://www.amazon.in/s?k=Fresh%20Beet%20Root%20-%20Deal%20(200-250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3832,7 +3832,7 @@
     },
     "freshpomegranate4pcs": {
         "title": "Fresh Pomegranate (4 Pcs)",
-        "price": 255,
+        "price": 225,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(4%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4900,7 +4900,7 @@
     },
     "freshorganicfrenchbeans250g": {
         "title": "Fresh Organic French Beans (250 g)",
-        "price": 27,
+        "price": 50,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20French%20Beans%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4986,6 +4986,12 @@
         "title": "24 Mantra Organic Sattu (500 g)",
         "price": 116,
         "link": "https://www.amazon.in/s?k=24%20Mantra%20Organic%20Sattu%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "durexintensestimulatingcondoms": {
+        "title": "Durex Intense Stimulating Condoms",
+        "price": 193,
+        "link": "https://www.amazon.in/s?k=Durex%20Intense%20Stimulating%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
