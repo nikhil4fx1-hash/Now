@@ -1349,7 +1349,7 @@
     },
     "freshwhiteradish500g": {
         "title": "Fresh White Radish (500 g)",
-        "price": 19,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Fresh%20White%20Radish%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1391,7 +1391,7 @@
     },
     "trikayawheatgrass50g": {
         "title": "Trikaya Wheatgrass (50 g)",
-        "price": 27,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Trikaya%20Wheatgrass%20(50%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1637,7 +1637,7 @@
     },
     "gillettevectorplusshavingrazorbladescartridges": {
         "title": "Gillette Vector Plus Shaving Razor Blades/Cartridges",
-        "price": 188,
+        "price": 180,
         "link": "https://www.amazon.in/s?k=Gillette%20Vector%20Plus%20Shaving%20Razor%20Blades%2FCartridges&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4150,7 +4150,7 @@
     },
     "becofrontloadmaticlaundryshampoo4l": {
         "title": "Beco Front Load Matic Laundry Shampoo (4 L)",
-        "price": 450,
+        "price": 432,
         "link": "https://www.amazon.in/s?k=Beco%20Front%20Load%20Matic%20Laundry%20Shampoo%20(4%20L)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -4909,5 +4909,41 @@
         "price": 135,
         "link": "https://www.amazon.in/s?k=Bagrry's%20Wheat%20Bran%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "frugivorespicymangokombucha200ml": {
+        "title": "Frugivore Spicy Mango Kombucha (200 ml)",
+        "price": 110,
+        "link": "https://www.amazon.in/s?k=Frugivore%20Spicy%20Mango%20Kombucha%20(200%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "epigamiastrawberryfruityogurt75g": {
+        "title": "Epigamia Strawberry Fruit Yogurt (75 g)",
+        "price": 28,
+        "link": "https://www.amazon.in/s?k=Epigamia%20Strawberry%20Fruit%20Yogurt%20(75%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "bruinstantcoffee100g": {
+        "title": "Bru Instant Coffee (100 g)",
+        "price": 243,
+        "link": "https://www.amazon.in/s?k=Bru%20Instant%20Coffee%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gadrepremiumseerfishsteak500g": {
+        "title": "Gadre Premium Seer Fish Steak (500 g)",
+        "price": 630,
+        "link": "https://www.amazon.in/s?k=Gadre%20Premium%20Seer%20Fish%20Steak%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gadresurimicrabclaw250g": {
+        "title": "Gadre Surimi Crab Claw (250 g)",
+        "price": 213,
+        "link": "https://www.amazon.in/s?k=Gadre%20Surimi%20Crab%20Claw%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "lubexnaturalunflavouredcondoms": {
+        "title": "Lubex Natural Unflavoured Condoms",
+        "price": 189,
+        "link": "https://www.amazon.in/s?k=Lubex%20Natural%20Unflavoured%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
