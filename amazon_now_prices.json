@@ -1085,7 +1085,7 @@
     },
     "freshorganiclemon100g": {
         "title": "Fresh Organic Lemon (100 g)",
-        "price": 31,
+        "price": 33,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Lemon%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1319,7 +1319,7 @@
     },
     "freshbhindiladyfinger250g": {
         "title": "Fresh Bhindi (Lady Finger) (250 g)",
-        "price": 16,
+        "price": 15,
         "link": "https://www.amazon.in/s?k=Fresh%20Bhindi%20(Lady%20Finger)%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2453,7 +2453,7 @@
     },
     "amazonbasicsmultipurposestoragesliderbags": {
         "title": "Amazon Basics Multi Purpose Storage Slider Bags",
-        "price": 459,
+        "price": 479,
         "link": "https://www.amazon.in/s?k=Amazon%20Basics%20Multi%20Purpose%20Storage%20Slider%20Bags&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4992,6 +4992,30 @@
         "title": "Durex Intense Stimulating Condoms",
         "price": 193,
         "link": "https://www.amazon.in/s?k=Durex%20Intense%20Stimulating%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshmosambi": {
+        "title": "Fresh Mosambi",
+        "price": 58,
+        "link": "https://www.amazon.in/s?k=Fresh%20Mosambi&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "nescafegoldblendinstantcoffeepowder200g": {
+        "title": "Nescafe Gold Blend Instant Coffee Powder (200 g)",
+        "price": 1225,
+        "link": "https://www.amazon.in/s?k=Nescafe%20Gold%20Blend%20Instant%20Coffee%20Powder%20(200%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "daburneemgermprotectiontoothpaste200g": {
+        "title": "Dabur Neem Germ Protection Toothpaste (200 g)",
+        "price": 69,
+        "link": "https://www.amazon.in/s?k=Dabur%20Neem%20Germ%20Protection%20Toothpaste%20(200%20g)&tag=flashsale069-21",
+        "mega_alert_sent": true
+    },
+    "manforcextrapleasurecondoms": {
+        "title": "Manforce Xtra Pleasure Condoms",
+        "price": 120,
+        "link": "https://www.amazon.in/s?k=Manforce%20Xtra%20Pleasure%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
