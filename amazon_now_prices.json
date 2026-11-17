@@ -1007,7 +1007,7 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 27,
+        "price": 20,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1115,7 +1115,7 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 84,
+        "price": 86,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1865,7 +1865,7 @@
     },
     "waghbakripremiumleaftea500g": {
         "title": "Wagh Bakri Premium Leaf Tea (500 g)",
-        "price": 276,
+        "price": 265,
         "link": "https://www.amazon.in/s?k=Wagh%20Bakri%20Premium%20Leaf%20Tea%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1913,7 +1913,7 @@
     },
     "nescafeclassicinstantcoffeepowdersachets": {
         "title": "Nescafe Classic Instant Coffee Powder Sachets",
-        "price": 134,
+        "price": 135,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3070,7 +3070,7 @@
     },
     "countrydelightpasteurisedcowmilk450ml": {
         "title": "Country Delight Pasteurised Cow Milk (450 ml)",
-        "price": 47,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4138,7 +4138,7 @@
     },
     "freshpremiumredglobegrapes250g": {
         "title": "Fresh Premium Red Globe Grapes (250 g)",
-        "price": 102,
+        "price": 95,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Red%20Globe%20Grapes%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4162,7 +4162,7 @@
     },
     "surfexcelmaticliquiddetergenttopload2l": {
         "title": "Surf Excel Matic Liquid Detergent Top Load (2 L)",
-        "price": 336,
+        "price": 350,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Matic%20Liquid%20Detergent%20Top%20Load%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4945,5 +4945,35 @@
         "price": 189,
         "link": "https://www.amazon.in/s?k=Lubex%20Natural%20Unflavoured%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "paperboatswingjeera600ml": {
+        "title": "Paper Boat Swing Jeera (600 ml)",
+        "price": 50,
+        "link": "https://www.amazon.in/s?k=Paper%20Boat%20Swing%20Jeera%20(600%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshridgegourd500g": {
+        "title": "Fresh Ridge Gourd (500 g)",
+        "price": 37,
+        "link": "https://www.amazon.in/s?k=Fresh%20Ridge%20Gourd%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "brookebondredlabelnaturalcaretea100g": {
+        "title": "Brooke Bond Red Label Natural Care Tea (100 g)",
+        "price": 60,
+        "link": "https://www.amazon.in/s?k=Brooke%20Bond%20Red%20Label%20Natural%20Care%20Tea%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "meatzzafreshchickencurrycutbonein500g": {
+        "title": "Meatzza Fresh Chicken Curry Cut Bone In (500 g)",
+        "price": 187,
+        "link": "https://www.amazon.in/s?k=Meatzza%20Fresh%20Chicken%20Curry%20Cut%20Bone%20In%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "tastynibbleslightmeattunachunksinsunfloweroil185g": {
+        "title": "Tasty Nibbles Light Meat Tuna Chunks in Sunflower Oil (185 g)",
+        "price": 190,
+        "link": "https://www.amazon.in/s?k=Tasty%20Nibbles%20Light%20Meat%20Tuna%20Chunks%20in%20Sunflower%20Oil%20(185%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
