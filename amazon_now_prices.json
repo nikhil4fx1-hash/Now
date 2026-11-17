@@ -395,7 +395,7 @@
     },
     "mamaearthricefacewash100ml": {
         "title": "Mamaearth Rice Face Wash (100 ml)",
-        "price": 223,
+        "price": 256,
         "link": "https://www.amazon.in/s?k=Mamaearth%20Rice%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5088,6 +5088,24 @@
         "title": "Colgate Maxfresh Peppermint Toothpaste",
         "price": 202,
         "link": "https://www.amazon.in/s?k=Colgate%20Maxfresh%20Peppermint%20Toothpaste&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "amultaazahomogenizedtonedmilk1l": {
+        "title": "Amul Taaza Homogenized Toned Milk (1 L)",
+        "price": 77,
+        "link": "https://www.amazon.in/s?k=Amul%20Taaza%20Homogenized%20Toned%20Milk%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gokulshaktitonedcowmilk1l": {
+        "title": "Gokul Shakti Toned Cow Milk (1 L)",
+        "price": 59,
+        "link": "https://www.amazon.in/s?k=Gokul%20Shakti%20Toned%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "heritagefarmfreshtonedmilk1l": {
+        "title": "Heritage Farm Fresh Toned Milk (1 L)",
+        "price": 72,
+        "link": "https://www.amazon.in/s?k=Heritage%20Farm%20Fresh%20Toned%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
