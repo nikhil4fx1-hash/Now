@@ -1253,9 +1253,9 @@
     },
     "freshgreenpeas250g": {
         "title": "Fresh Green Peas (250 g)",
-        "price": 67,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Peas%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshootycarrot250g": {
         "title": "Fresh Ooty Carrot (250 g)",
@@ -2633,7 +2633,7 @@
     },
     "colgatevisiblewhitepurpletoothpaste": {
         "title": "Colgate Visible White Purple Toothpaste",
-        "price": 240,
+        "price": 237,
         "link": "https://www.amazon.in/s?k=Colgate%20Visible%20White%20Purple%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2729,7 +2729,7 @@
     },
     "durexairultrathincondoms": {
         "title": "Durex Air Ultra Thin Condoms",
-        "price": 320,
+        "price": 92,
         "link": "https://www.amazon.in/s?k=Durex%20Air%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2849,7 +2849,7 @@
     },
     "sidsfarmcowmilk500ml": {
         "title": "Sid's Farm Cow Milk (500 ml)",
-        "price": 43,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5195,7 +5195,7 @@
     },
     "snehasupercoolchickenliver450g": {
         "title": "Sneha Super Cool Chicken Liver (450g)",
-        "price": 90,
+        "price": 99,
         "link": "https://www.amazon.in/s?k=Sneha%20Super%20Cool%20Chicken%20Liver%20(450g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
