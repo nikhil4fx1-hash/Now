@@ -407,7 +407,7 @@
     },
     "dermatouchbrightevenskintonefacewash70g": {
         "title": "Dermatouch Bright & Even Skin Tone Face Wash (70 g)",
-        "price": 137,
+        "price": 145,
         "link": "https://www.amazon.in/s?k=Dermatouch%20Bright%20%26%20Even%20Skin%20Tone%20Face%20Wash%20(70%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2843,7 +2843,7 @@
     },
     "freshchanagreenleaf250g": {
         "title": "Fresh Chana Green Leaf (250 g)",
-        "price": 49,
+        "price": 44,
         "link": "https://www.amazon.in/s?k=Fresh%20Chana%20Green%20Leaf%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3125,7 +3125,7 @@
     },
     "milkymistlactosefreetonedmilk250ml": {
         "title": "Milky Mist Lactose Free Toned Milk (250 ml)",
-        "price": 34,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Milky%20Mist%20Lactose%20Free%20Toned%20Milk%20(250%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5093,7 +5093,7 @@
     },
     "amultaazahomogenizedtonedmilk1l": {
         "title": "Amul Taaza Homogenized Toned Milk (1 L)",
-        "price": 77,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Amul%20Taaza%20Homogenized%20Toned%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5179,6 +5179,24 @@
         "title": "Mother Dairy Ultimate Dahi - Cup (400 g)",
         "price": 70,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Ultimate%20Dahi%20-%20Cup%20(400%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshcurledamericankale": {
+        "title": "Fresh Curled/American Kale",
+        "price": 35,
+        "link": "https://www.amazon.in/s?k=Fresh%20Curled%2FAmerican%20Kale&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshtandulja250g": {
+        "title": "Fresh Tandulja (250 g)",
+        "price": 55,
+        "link": "https://www.amazon.in/s?k=Fresh%20Tandulja%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "snehasupercoolchickenliver450g": {
+        "title": "Sneha Super Cool Chicken Liver (450g)",
+        "price": 90,
+        "link": "https://www.amazon.in/s?k=Sneha%20Super%20Cool%20Chicken%20Liver%20(450g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
