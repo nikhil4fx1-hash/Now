@@ -2021,7 +2021,7 @@
     },
     "aashirvaadhighproteinatta1kg": {
         "title": "Aashirvaad High Protein Atta (1 Kg)",
-        "price": 63,
+        "price": 55,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20High%20Protein%20Atta%20(1%20Kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5171,7 +5171,7 @@
     },
     "femorapremiumfloralgoldlinefinestcup": {
         "title": "Femora Premium Floral Gold Line Finest Cup",
-        "price": 1175,
+        "price": 1215,
         "link": "https://www.amazon.in/s?k=Femora%20Premium%20Floral%20Gold%20Line%20Finest%20Cup&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5203,6 +5203,12 @@
         "title": "Trikaya Swiss Chard Multicoloured Greens (250 g)",
         "price": 45,
         "link": "https://www.amazon.in/s?k=Trikaya%20Swiss%20Chard%20Multicoloured%20Greens%20(250%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "hellclassicenergydrink250ml": {
+        "title": "Hell Classic Energy Drink (250ml)",
+        "price": 49,
+        "link": "https://www.amazon.in/s?k=Hell%20Classic%20Energy%20Drink%20(250ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
