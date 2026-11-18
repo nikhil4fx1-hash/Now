@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 38,
+        "price": 37,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -617,7 +617,7 @@
     },
     "arielpowergelliquiddetergenttoploadsemiauto4kg": {
         "title": "Ariel Power Gel Liquid Detergent Top Load & Semi Auto (4 kg)",
-        "price": 558,
+        "price": 549,
         "link": "https://www.amazon.in/s?k=Ariel%20Power%20Gel%20Liquid%20Detergent%20Top%20Load%20%26%20Semi%20Auto%20(4%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1667,7 +1667,7 @@
     },
     "gillettevectorshavingrazor1unit": {
         "title": "Gillette Vector + Shaving Razor (1 Unit)",
-        "price": 75,
+        "price": 105,
         "link": "https://www.amazon.in/s?k=Gillette%20Vector%20%2B%20Shaving%20Razor%20(1%20Unit)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1703,7 +1703,7 @@
     },
     "nakproimpactwheyprotein1kg": {
         "title": "Nakpro Impact Whey Protein (1 kg)",
-        "price": 1405,
+        "price": 1599,
         "link": "https://www.amazon.in/s?k=Nakpro%20Impact%20Whey%20Protein%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2417,7 +2417,7 @@
     },
     "cellocheckersairtightcanistersetblack1set18pcs": {
         "title": "Cello Checkers Airtight Canister Set - Black (1 Set (18 Pcs))",
-        "price": 539,
+        "price": 599,
         "link": "https://www.amazon.in/s?k=Cello%20Checkers%20Airtight%20Canister%20Set%20-%20Black%20(1%20Set%20(18%20Pcs))&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2489,7 +2489,7 @@
     },
     "celloexecutivebeermugwithhandle": {
         "title": "Cello Executive Beer Mug with Handle",
-        "price": 236,
+        "price": 239,
         "link": "https://www.amazon.in/s?k=Cello%20Executive%20Beer%20Mug%20with%20Handle&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3532,13 +3532,13 @@
     },
     "freshpomegranate2pcs": {
         "title": "Fresh Pomegranate (2 Pcs)",
-        "price": 127,
+        "price": 111,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "nescafeclassicinstantcoffeepowderjar45g": {
         "title": "Nescafe Classic Instant Coffee Powder Jar (45 g)",
-        "price": 210,
+        "price": 200,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Jar%20(45%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5130,6 +5130,12 @@
         "title": "Gillette Presto Manual Shaving Razor",
         "price": 224,
         "link": "https://www.amazon.in/s?k=Gillette%20Presto%20Manual%20Shaving%20Razor&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "sensodynefreshminttoothpaste": {
+        "title": "Sensodyne Fresh Mint Toothpaste",
+        "price": 345,
+        "link": "https://www.amazon.in/s?k=Sensodyne%20Fresh%20Mint%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
