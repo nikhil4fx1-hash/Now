@@ -1775,9 +1775,9 @@
     },
     "gncproperformanceweightgainer3kg": {
         "title": "GNC Pro Performance Weight Gainer (3 Kg)",
-        "price": 2399,
+        "price": 2190,
         "link": "https://www.amazon.in/s?k=GNC%20Pro%20Performance%20Weight%20Gainer%20(3%20Kg)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "yogabarprocleanplantproteinpowder500g": {
         "title": "Yogabar Pro Clean Plant Protein Powder (500 g)",
@@ -5112,6 +5112,12 @@
         "title": "Heritage Total Curd - Tub (1 kg)",
         "price": 105,
         "link": "https://www.amazon.in/s?k=Heritage%20Total%20Curd%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "ganeshnjoycoffeemugwithlid400ml1pc": {
+        "title": "Ganesh N-Joy Coffee Mug With Lid, 400 Ml (1 Pc)",
+        "price": 179,
+        "link": "https://www.amazon.in/s?k=Ganesh%20N-Joy%20Coffee%20Mug%20With%20Lid%2C%20400%20Ml%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
