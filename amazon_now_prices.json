@@ -1271,7 +1271,7 @@
     },
     "freshgreencapsicum250g": {
         "title": "Fresh Green Capsicum (250 g)",
-        "price": 22,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3070,7 +3070,7 @@
     },
     "countrydelightpasteurisedcowmilk450ml": {
         "title": "Country Delight Pasteurised Cow Milk (450 ml)",
-        "price": 45,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3136,7 +3136,7 @@
     },
     "miltoninsulatedcoffeemugblack300ml": {
         "title": "Milton Insulated Coffee Mug - Black (300 ml)",
-        "price": 652,
+        "price": 685,
         "link": "https://www.amazon.in/s?k=Milton%20Insulated%20Coffee%20Mug%20-%20Black%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3862,7 +3862,7 @@
     },
     "doveexfoliatingbodywash825ml": {
         "title": "Dove Exfoliating Bodywash (825 ml)",
-        "price": 455,
+        "price": 450,
         "link": "https://www.amazon.in/s?k=Dove%20Exfoliating%20Bodywash%20(825%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4132,7 +4132,7 @@
     },
     "freshenglishcucumber500g": {
         "title": "Fresh English Cucumber (500 g)",
-        "price": 27,
+        "price": 31,
         "link": "https://www.amazon.in/s?k=Fresh%20English%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5124,6 +5124,12 @@
         "title": "Optimum Nutrition Gold Standard Whey Protein (2.27 kg)",
         "price": 8156,
         "link": "https://www.amazon.in/s?k=Optimum%20Nutrition%20Gold%20Standard%20Whey%20Protein%20(2.27%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "gilletteprestomanualshavingrazor": {
+        "title": "Gillette Presto Manual Shaving Razor",
+        "price": 224,
+        "link": "https://www.amazon.in/s?k=Gillette%20Presto%20Manual%20Shaving%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
