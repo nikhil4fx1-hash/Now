@@ -205,7 +205,7 @@
     },
     "tooyummclassicsaltedbananachips60g": {
         "title": "Too Yumm! Classic Salted Banana Chips (60 g)",
-        "price": 44,
+        "price": 47,
         "link": "https://www.amazon.in/s?k=Too%20Yumm!%20Classic%20Salted%20Banana%20Chips%20(60%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3005,7 +3005,7 @@
     },
     "freshgreencapsicum500g": {
         "title": "Fresh Green Capsicum (500 g)",
-        "price": 40,
+        "price": 45,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3107,7 +3107,7 @@
     },
     "countrydelightpasteurisednaturalcowmilk450ml": {
         "title": "Country Delight Pasteurised Natural Cow Milk (450 ml)",
-        "price": 51,
+        "price": 55,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Natural%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3659,7 +3659,7 @@
     },
     "happiplanettaplimescaleremoverkitchencleanercombo": {
         "title": "Happi Planet Tap Limescale Remover & Kitchen Cleaner Combo",
-        "price": 306,
+        "price": 360,
         "link": "https://www.amazon.in/s?k=Happi%20Planet%20Tap%20Limescale%20Remover%20%26%20Kitchen%20Cleaner%20Combo&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5173,6 +5173,12 @@
         "title": "Femora Premium Floral Gold Line Finest Cup",
         "price": 1175,
         "link": "https://www.amazon.in/s?k=Femora%20Premium%20Floral%20Gold%20Line%20Finest%20Cup&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "motherdairyultimatedahicup400g": {
+        "title": "Mother Dairy Ultimate Dahi - Cup (400 g)",
+        "price": 70,
+        "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Ultimate%20Dahi%20-%20Cup%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
