@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 160,
+        "price": 100,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5136,6 +5136,12 @@
         "title": "Sensodyne Fresh Mint Toothpaste",
         "price": 347,
         "link": "https://www.amazon.in/s?k=Sensodyne%20Fresh%20Mint%20Toothpaste&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "motherdairyclassicdahicup400g": {
+        "title": "Mother Dairy Classic Dahi - Cup (400 g)",
+        "price": 50,
+        "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Classic%20Dahi%20-%20Cup%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
