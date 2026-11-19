@@ -1397,7 +1397,7 @@
     },
     "freshgreenamaranthus250g": {
         "title": "Fresh Green Amaranthus (250 g)",
-        "price": 11,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Amaranthus%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -3659,7 +3659,7 @@
     },
     "happiplanettaplimescaleremoverkitchencleanercombo": {
         "title": "Happi Planet Tap Limescale Remover & Kitchen Cleaner Combo",
-        "price": 360,
+        "price": 323,
         "link": "https://www.amazon.in/s?k=Happi%20Planet%20Tap%20Limescale%20Remover%20%26%20Kitchen%20Cleaner%20Combo&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5261,8 +5261,14 @@
     },
     "pricecrash": {
         "title": "Price Crash",
-        "price": 11,
+        "price": 18,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "freshorganicstrawberry180g": {
+        "title": "Fresh Organic Strawberry (180 g)",
+        "price": 96,
+        "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Strawberry%20(180%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
