@@ -1055,9 +1055,9 @@
     },
     "freshnagpurbabyorange1kg": {
         "title": "Fresh Nagpur Baby Orange (1 kg)",
-        "price": 50,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Baby%20Orange%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshsmallpapaya500g": {
         "title": "Fresh Small Papaya (500 g)",
@@ -1259,7 +1259,7 @@
     },
     "freshootycarrot250g": {
         "title": "Fresh Ooty Carrot (250 g)",
-        "price": 13,
+        "price": 10,
         "link": "https://www.amazon.in/s?k=Fresh%20Ooty%20Carrot%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
