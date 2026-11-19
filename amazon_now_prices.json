@@ -229,7 +229,7 @@
     },
     "superyoumultigrainproteinchips40g": {
         "title": "Superyou Multigrain Protein Chips (40 g)",
-        "price": 36,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Superyou%20Multigrain%20Protein%20Chips%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -881,7 +881,7 @@
     },
     "akshayakalpaorganicpasteurizedcowmilk500ml": {
         "title": "Akshayakalpa Organic Pasteurized Cow Milk (500 ml)",
-        "price": 49,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Pasteurized%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1037,7 +1037,7 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 41,
+        "price": 48,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1289,7 +1289,7 @@
     },
     "freshnaturallygrowncauliflower": {
         "title": "Fresh Naturally Grown Cauliflower",
-        "price": 15,
+        "price": 14,
         "link": "https://www.amazon.in/s?k=Fresh%20Naturally%20Grown%20Cauliflower&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1913,7 +1913,7 @@
     },
     "nescafeclassicinstantcoffeepowdersachets": {
         "title": "Nescafe Classic Instant Coffee Powder Sachets",
-        "price": 129,
+        "price": 135,
         "link": "https://www.amazon.in/s?k=Nescafe%20Classic%20Instant%20Coffee%20Powder%20Sachets&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2729,7 +2729,7 @@
     },
     "durexairultrathincondoms": {
         "title": "Durex Air Ultra Thin Condoms",
-        "price": 320,
+        "price": 92,
         "link": "https://www.amazon.in/s?k=Durex%20Air%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5276,5 +5276,11 @@
         "price": 112,
         "link": "https://www.amazon.in/s?k=Park%20Avenue%20Good%20Morning%20After%20Shave%20Lotion%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "durexextrathinintensechocolatecondom": {
+        "title": "Durex Extra Thin Intense Chocolate Condom",
+        "price": 198,
+        "link": "https://www.amazon.in/s?k=Durex%20Extra%20Thin%20Intense%20Chocolate%20Condom&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
