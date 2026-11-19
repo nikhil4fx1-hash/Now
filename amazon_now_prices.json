@@ -1043,7 +1043,7 @@
     },
     "freshkiranwatermelonlarge": {
         "title": "Fresh Kiran Watermelon - Large",
-        "price": 87,
+        "price": 125,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiran%20Watermelon%20-%20Large&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5281,6 +5281,12 @@
         "title": "Durex Extra Thin Intense Chocolate Condom",
         "price": 198,
         "link": "https://www.amazon.in/s?k=Durex%20Extra%20Thin%20Intense%20Chocolate%20Condom&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "deconstructbrighteningfacewash100ml": {
+        "title": "Deconstruct Brightening Face Wash (100 ml)",
+        "price": 275,
+        "link": "https://www.amazon.in/s?k=Deconstruct%20Brightening%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
