@@ -1007,7 +1007,7 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 20,
+        "price": 27,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5233,6 +5233,12 @@
         "title": "7Up Extra Fizz Soft Drink (400 ml)",
         "price": 20,
         "link": "https://www.amazon.in/s?k=7Up%20Extra%20Fizz%20Soft%20Drink%20(400%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "countrydelighthomestylecurd1kg": {
+        "title": "Country Delight Homestyle Curd (1 kg)",
+        "price": 124,
+        "link": "https://www.amazon.in/s?k=Country%20Delight%20Homestyle%20Curd%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
