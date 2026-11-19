@@ -187,7 +187,7 @@
     },
     "cocacolazerosugarsoftdrinkcan300ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
-        "price": 39,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1505,7 +1505,7 @@
     },
     "bombayshavingcompanyflexistudrazor": {
         "title": "Bombay Shaving Company Flexi Stud Razor",
-        "price": 199,
+        "price": 109,
         "link": "https://www.amazon.in/s?k=Bombay%20Shaving%20Company%20Flexi%20Stud%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2729,7 +2729,7 @@
     },
     "durexairultrathincondoms": {
         "title": "Durex Air Ultra Thin Condoms",
-        "price": 92,
+        "price": 320,
         "link": "https://www.amazon.in/s?k=Durex%20Air%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2987,7 +2987,7 @@
     },
     "freshcucumber500g": {
         "title": "Fresh Cucumber (500 g)",
-        "price": 33,
+        "price": 41,
         "link": "https://www.amazon.in/s?k=Fresh%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5252,5 +5252,17 @@
         "price": 40,
         "link": "https://www.amazon.in/s?k=Chetran's%20Soya%20Curd%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "patanjalihaldichandankantibodycleansersoap": {
+        "title": "Patanjali Haldi Chandan Kanti Body Cleanser Soap",
+        "price": 142,
+        "link": "https://www.amazon.in/s?k=Patanjali%20Haldi%20Chandan%20Kanti%20Body%20Cleanser%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pricecrash": {
+        "title": "Price Crash",
+        "price": 11,
+        "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
