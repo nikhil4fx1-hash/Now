@@ -767,19 +767,19 @@
     },
     "gokulpasteurisedfullcreammilk1l": {
         "title": "Gokul Pasteurised Full Cream Milk (1 L)",
-        "price": 68,
+        "price": 72,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "gokulsaatvikpasteurisedcowmilk1l": {
         "title": "Gokul Saatvik Pasteurised Cow Milk (1 L)",
-        "price": 60,
+        "price": 52,
         "link": "https://www.amazon.in/s?k=Gokul%20Saatvik%20Pasteurised%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 34,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2489,7 +2489,7 @@
     },
     "celloexecutivebeermugwithhandle": {
         "title": "Cello Executive Beer Mug with Handle",
-        "price": 224,
+        "price": 239,
         "link": "https://www.amazon.in/s?k=Cello%20Executive%20Beer%20Mug%20with%20Handle&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5299,6 +5299,12 @@
         "title": "FreshNiva Premium Pineapple (1-1.5 kg)",
         "price": 119,
         "link": "https://www.amazon.in/s?k=FreshNiva%20Premium%20Pineapple%20(1-1.5%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "vookihardstainsspraywipe": {
+        "title": "Vooki Hard Stains Spray + Wipe",
+        "price": 386,
+        "link": "https://www.amazon.in/s?k=Vooki%20Hard%20Stains%20Spray%20%2B%20Wipe&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
