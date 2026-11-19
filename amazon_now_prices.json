@@ -779,7 +779,7 @@
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 39,
+        "price": 34,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1253,7 +1253,7 @@
     },
     "freshgreenpeas250g": {
         "title": "Fresh Green Peas (250 g)",
-        "price": 47,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Peas%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5293,6 +5293,12 @@
         "title": "Monster Energy Drink Can (350 ml)",
         "price": 107,
         "link": "https://www.amazon.in/s?k=Monster%20Energy%20Drink%20Can%20(350%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshnivapremiumpineapple115kg": {
+        "title": "FreshNiva Premium Pineapple (1-1.5 kg)",
+        "price": 119,
+        "link": "https://www.amazon.in/s?k=FreshNiva%20Premium%20Pineapple%20(1-1.5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
