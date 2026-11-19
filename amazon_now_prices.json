@@ -103,7 +103,7 @@
     },
     "thumsupsoftdrink125l": {
         "title": "Thums Up Soft Drink (1.25 L)",
-        "price": 66,
+        "price": 63,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink%20(1.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1919,7 +1919,7 @@
     },
     "davidofffinearomainstantcoffee100g": {
         "title": "Davidoff Fine Aroma Instant Coffee (100 g)",
-        "price": 949,
+        "price": 902,
         "link": "https://www.amazon.in/s?k=Davidoff%20Fine%20Aroma%20Instant%20Coffee%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5227,6 +5227,12 @@
         "title": "Godrej Ezee Liquid Detergent for Winterwear (2 kg)",
         "price": 381,
         "link": "https://www.amazon.in/s?k=Godrej%20Ezee%20Liquid%20Detergent%20for%20Winterwear%20(2%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "7upextrafizzsoftdrink400ml": {
+        "title": "7Up Extra Fizz Soft Drink (400 ml)",
+        "price": 20,
+        "link": "https://www.amazon.in/s?k=7Up%20Extra%20Fizz%20Soft%20Drink%20(400%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
