@@ -3413,7 +3413,7 @@
     },
     "boldcare404nanothincondoms": {
         "title": "Bold Care 404 Nano Thin Condoms",
-        "price": 87,
+        "price": 83,
         "link": "https://www.amazon.in/s?k=Bold%20Care%20404%20Nano%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5270,5 +5270,11 @@
         "price": 96,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Strawberry%20(180%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "parkavenuegoodmorningaftershavelotion100ml": {
+        "title": "Park Avenue Good Morning After Shave Lotion (100 ml)",
+        "price": 112,
+        "link": "https://www.amazon.in/s?k=Park%20Avenue%20Good%20Morning%20After%20Shave%20Lotion%20(100%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
