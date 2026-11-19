@@ -247,7 +247,7 @@
     },
     "chhedasgoldenpotatochips170g": {
         "title": "Chheda's - Golden Potato Chips (170 g)",
-        "price": 60,
+        "price": 62,
         "link": "https://www.amazon.in/s?k=Chheda's%20-%20Golden%20Potato%20Chips%20(170%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -779,7 +779,7 @@
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 34,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -797,7 +797,7 @@
     },
     "motherdairycowmilk1l": {
         "title": "Mother Dairy Cow Milk (1 L)",
-        "price": 54,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Cow%20Milk%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1085,7 +1085,7 @@
     },
     "freshorganiclemon100g": {
         "title": "Fresh Organic Lemon (100 g)",
-        "price": 35,
+        "price": 31,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Lemon%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1121,7 +1121,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 183,
+        "price": 190,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1139,7 +1139,7 @@
     },
     "freshblueberrypremium125g": {
         "title": "Fresh Blueberry - Premium (125 g)",
-        "price": 248,
+        "price": 249,
         "link": "https://www.amazon.in/s?k=Fresh%20Blueberry%20-%20Premium%20(125%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1157,7 +1157,7 @@
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
-        "price": 57,
+        "price": 75,
         "link": "https://www.amazon.in/s?k=Fresh%20Dragon%20Fruit%20Red%20Flesh%20-%20Indian%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1307,7 +1307,7 @@
     },
     "freshredyellowcapsicummix2pcs": {
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
-        "price": 58,
+        "price": 60,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1373,9 +1373,9 @@
     },
     "freshmethifenugreekleaveswithoutrootscleaned250g": {
         "title": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned) (250 g)",
-        "price": 40,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Fresh%20Methi%2FFenugreek%20Leaves%20-%20Without%20Roots%20(Cleaned)%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshnaturallygrowncabbage1pc": {
         "title": "Fresh Naturally Grown Cabbage (1 Pc)",
@@ -2075,7 +2075,7 @@
     },
     "pillsburychakkifreshatta5kg": {
         "title": "Pillsbury Chakki Fresh Atta (5 kg)",
-        "price": 192,
+        "price": 231,
         "link": "https://www.amazon.in/s?k=Pillsbury%20Chakki%20Fresh%20Atta%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2873,7 +2873,7 @@
     },
     "freshbhartabrinjal2pcs500g": {
         "title": "Fresh Bharta Brinjal (2 Pcs, 500 g)",
-        "price": 36,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Bharta%20Brinjal%20(2%20Pcs%2C%20500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5215,6 +5215,12 @@
         "title": "Wheel Active 2 in 1 Detergent Powder (1 kg)",
         "price": 76,
         "link": "https://www.amazon.in/s?k=Wheel%20Active%202%20in%201%20Detergent%20Powder%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "nescafeallin1powdercoffeebag": {
+        "title": "Nescafe All-In-1 Powder Coffee Bag",
+        "price": 114,
+        "link": "https://www.amazon.in/s?k=Nescafe%20All-In-1%20Powder%20Coffee%20Bag&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
