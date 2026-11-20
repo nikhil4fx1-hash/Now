@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 100,
+        "price": 229,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5539,6 +5539,18 @@
         "title": "Amazon Basics Multi Purpose Storage Double Zipper Bags - L",
         "price": 489,
         "link": "https://www.amazon.in/s?k=Amazon%20Basics%20Multi%20Purpose%20Storage%20Double%20Zipper%20Bags%20-%20L&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "fastupreload5vitalelectrolytedrink500ml": {
+        "title": "Fast&Up Reload 5 Vital Electrolyte Drink (500 ml)",
+        "price": 39,
+        "link": "https://www.amazon.in/s?k=Fast%26Up%20Reload%205%20Vital%20Electrolyte%20Drink%20(500%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "pepsizerosugarsoftdrinkcan300ml": {
+        "title": "Pepsi Zero Sugar Soft Drink Can (300 ml)",
+        "price": 39,
+        "link": "https://www.amazon.in/s?k=Pepsi%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
