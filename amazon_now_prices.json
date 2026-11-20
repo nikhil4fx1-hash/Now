@@ -73,7 +73,7 @@
     },
     "spritesoftdrink225l": {
         "title": "Sprite Soft Drink (2.25 L)",
-        "price": 87,
+        "price": 83,
         "link": "https://www.amazon.in/s?k=Sprite%20Soft%20Drink%20(2.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3137,7 +3137,7 @@
     },
     "miltoninsulatedcoffeemugblack300ml": {
         "title": "Milton Insulated Coffee Mug - Black (300 ml)",
-        "price": 685,
+        "price": 691,
         "link": "https://www.amazon.in/s?k=Milton%20Insulated%20Coffee%20Mug%20-%20Black%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5165,7 +5165,7 @@
     },
     "closeupwhitenowtoothpaste100g": {
         "title": "Closeup White Now Toothpaste (100 g)",
-        "price": 137,
+        "price": 128,
         "link": "https://www.amazon.in/s?k=Closeup%20White%20Now%20Toothpaste%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5312,5 +5312,11 @@
         "price": 62,
         "link": "https://www.amazon.in/s?k=Dove%20Serum%20Bathing%20Bar%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "muuchstacoceanfacewash100ml": {
+        "title": "Muuchstac Ocean Face Wash (100 ml)",
+        "price": 116,
+        "link": "https://www.amazon.in/s?k=Muuchstac%20Ocean%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
