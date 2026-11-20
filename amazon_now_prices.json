@@ -671,7 +671,7 @@
     },
     "comfortroyalefabricconditioner2l": {
         "title": "Comfort Royale Fabric Conditioner (2 L)",
-        "price": 309,
+        "price": 349,
         "link": "https://www.amazon.in/s?k=Comfort%20Royale%20Fabric%20Conditioner%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1121,7 +1121,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 188,
+        "price": 187,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 229,
+        "price": 100,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1415,7 +1415,7 @@
     },
     "freshredamaranthus250g": {
         "title": "Fresh Red Amaranthus (250 g)",
-        "price": 9,
+        "price": 19,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Amaranthus%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2777,7 +2777,7 @@
     },
     "skorenothingclimaxdelaycondoms": {
         "title": "Skore Nothing Climax Delay Condoms",
-        "price": 129,
+        "price": 114,
         "link": "https://www.amazon.in/s?k=Skore%20Nothing%20Climax%20Delay%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5323,6 +5323,12 @@
         "title": "Comfort Morning Fresh Fabric Conditioner (860 ml)",
         "price": 200,
         "link": "https://www.amazon.in/s?k=Comfort%20Morning%20Fresh%20Fabric%20Conditioner%20(860%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "thehealthybingeragicrispies40g": {
+        "title": "The Healthy Binge Ragi Crispies (40 g)",
+        "price": 21,
+        "link": "https://www.amazon.in/s?k=The%20Healthy%20Binge%20Ragi%20Crispies%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
