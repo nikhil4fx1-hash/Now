@@ -2291,7 +2291,7 @@
     },
     "itcmasterchefmediumprawns200g": {
         "title": "ITC Master Chef Medium Prawns (200 g)",
-        "price": 225,
+        "price": 200,
         "link": "https://www.amazon.in/s?k=ITC%20Master%20Chef%20Medium%20Prawns%20(200%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5318,5 +5318,11 @@
         "price": 116,
         "link": "https://www.amazon.in/s?k=Muuchstac%20Ocean%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "comfortmorningfreshfabricconditioner860ml": {
+        "title": "Comfort Morning Fresh Fabric Conditioner (860 ml)",
+        "price": 178,
+        "link": "https://www.amazon.in/s?k=Comfort%20Morning%20Fresh%20Fabric%20Conditioner%20(860%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
