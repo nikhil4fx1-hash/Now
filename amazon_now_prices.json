@@ -73,7 +73,7 @@
     },
     "spritesoftdrink225l": {
         "title": "Sprite Soft Drink (2.25 L)",
-        "price": 83,
+        "price": 87,
         "link": "https://www.amazon.in/s?k=Sprite%20Soft%20Drink%20(2.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1055,7 +1055,7 @@
     },
     "freshnagpurbabyorange1kg": {
         "title": "Fresh Nagpur Baby Orange (1 kg)",
-        "price": 50,
+        "price": 69,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Baby%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2729,7 +2729,7 @@
     },
     "durexairultrathincondoms": {
         "title": "Durex Air Ultra Thin Condoms",
-        "price": 320,
+        "price": 313,
         "link": "https://www.amazon.in/s?k=Durex%20Air%20Ultra%20Thin%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5305,6 +5305,12 @@
         "title": "Vooki Hard Stains Spray + Wipe",
         "price": 386,
         "link": "https://www.amazon.in/s?k=Vooki%20Hard%20Stains%20Spray%20%2B%20Wipe&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "doveserumbathingbar100g": {
+        "title": "Dove Serum Bathing Bar (100 g)",
+        "price": 62,
+        "link": "https://www.amazon.in/s?k=Dove%20Serum%20Bathing%20Bar%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
