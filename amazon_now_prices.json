@@ -1091,7 +1091,7 @@
     },
     "freshshimlaapple": {
         "title": "Fresh Shimla Apple",
-        "price": 92,
+        "price": 73,
         "link": "https://www.amazon.in/s?k=Fresh%20Shimla%20Apple&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2075,7 +2075,7 @@
     },
     "pillsburychakkifreshatta5kg": {
         "title": "Pillsbury Chakki Fresh Atta (5 kg)",
-        "price": 229,
+        "price": 228,
         "link": "https://www.amazon.in/s?k=Pillsbury%20Chakki%20Fresh%20Atta%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5594,5 +5594,11 @@
         "price": 60,
         "link": "https://www.amazon.in/s?k=Zyro%20Zero%20Sugar%20Tonic%20Water%20Can%20(250%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "daburrealpinkguavafruitdrink1l": {
+        "title": "Dabur Real Pink Guava Fruit Drink (1 L)",
+        "price": 75,
+        "link": "https://www.amazon.in/s?k=Dabur%20Real%20Pink%20Guava%20Fruit%20Drink%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
