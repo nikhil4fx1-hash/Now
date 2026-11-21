@@ -2741,7 +2741,7 @@
     },
     "durexextratimecondoms": {
         "title": "Durex Extra Time Condoms",
-        "price": 307,
+        "price": 99,
         "link": "https://www.amazon.in/s?k=Durex%20Extra%20Time%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5261,7 +5261,7 @@
     },
     "pricecrash": {
         "title": "Price Crash",
-        "price": 16,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5563,6 +5563,12 @@
         "title": "Comfort Lily Fresh Fabric Conditioner (860 ml)",
         "price": 200,
         "link": "https://www.amazon.in/s?k=Comfort%20Lily%20Fresh%20Fabric%20Conditioner%20(860%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "sidsfarmcurdtub1kg": {
+        "title": "Sid's Farm Curd - Tub (1 kg)",
+        "price": 135,
+        "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Curd%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
