@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 87,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3533,7 +3533,7 @@
     },
     "freshpomegranate2pcs": {
         "title": "Fresh Pomegranate (2 Pcs)",
-        "price": 99,
+        "price": 109,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5623,6 +5623,60 @@
         "title": "Patanjali Neem Kanti Herbal Body Cleanser Soap",
         "price": 126,
         "link": "https://www.amazon.in/s?k=Patanjali%20Neem%20Kanti%20Herbal%20Body%20Cleanser%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "daburrealactivcranberryburstfruitdrink1l": {
+        "title": "Dabur Real Activ Cranberry Burst Fruit Drink (1 L)",
+        "price": 140,
+        "link": "https://www.amazon.in/s?k=Dabur%20Real%20Activ%20Cranberry%20Burst%20Fruit%20Drink%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "realfruitpowerminigoodnessapplejuice": {
+        "title": "Real Fruit PowerMini Goodness Apple Juice",
+        "price": 95,
+        "link": "https://www.amazon.in/s?k=Real%20Fruit%20PowerMini%20Goodness%20Apple%20Juice&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "akshayakalpaorganichighproteinskimmedcowmilk250ml": {
+        "title": "Akshayakalpa Organic High Protein Skimmed Cow Milk (250 ml)",
+        "price": 100,
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20High%20Protein%20Skimmed%20Cow%20Milk%20(250%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "motherdairyuhtsterilizedhomogenizedtonedmilk180ml": {
+        "title": "Mother Dairy UHT Sterilized & Homogenized Toned Milk (180 ml)",
+        "price": 16,
+        "link": "https://www.amazon.in/s?k=Mother%20Dairy%20UHT%20Sterilized%20%26%20Homogenized%20Toned%20Milk%20(180%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "motherdairyfitliteuhtlowfatmilk400ml": {
+        "title": "Mother Dairy Fit Lite UHT Low Fat Milk (400 ml)",
+        "price": 30,
+        "link": "https://www.amazon.in/s?k=Mother%20Dairy%20Fit%20Lite%20UHT%20Low%20Fat%20Milk%20(400%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "motherdairyuhtsterilizedhomogenizedtonedmilk1l": {
+        "title": "Mother Dairy UHT Sterilized & Homogenized Toned Milk (1 L)",
+        "price": 73,
+        "link": "https://www.amazon.in/s?k=Mother%20Dairy%20UHT%20Sterilized%20%26%20Homogenized%20Toned%20Milk%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "akshayakalpaorganiccowmilkuht200ml": {
+        "title": "Akshayakalpa Organic Cow Milk - UHT (200 ml)",
+        "price": 31,
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Cow%20Milk%20-%20UHT%20(200%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "akshayakalpaorganicslimmilkuht1l": {
+        "title": "Akshayakalpa Organic Slim Milk - UHT (1 L)",
+        "price": 147,
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Slim%20Milk%20-%20UHT%20(1%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "akshayakalpaorganiccowmilkuht1l": {
+        "title": "Akshayakalpa Organic Cow Milk - UHT (1 L)",
+        "price": 142,
+        "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Cow%20Milk%20-%20UHT%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
