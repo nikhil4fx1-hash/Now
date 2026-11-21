@@ -67,7 +67,7 @@
     },
     "coolbergstrawberrybeer330ml": {
         "title": "Coolberg Strawberry Beer (330 ml)",
-        "price": 98,
+        "price": 102,
         "link": "https://www.amazon.in/s?k=Coolberg%20Strawberry%20Beer%20(330%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -103,7 +103,7 @@
     },
     "thumsupsoftdrink125l": {
         "title": "Thums Up Soft Drink (1.25 L)",
-        "price": 66,
+        "price": 63,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink%20(1.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -779,7 +779,7 @@
     },
     "gokulpasteurisedfullcreammilk500ml": {
         "title": "Gokul Pasteurised Full Cream Milk (500 ml)",
-        "price": 36,
+        "price": 39,
         "link": "https://www.amazon.in/s?k=Gokul%20Pasteurised%20Full%20Cream%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1007,7 +1007,7 @@
     },
     "freshrobustabanana500g": {
         "title": "Fresh Robusta Banana (500 g)",
-        "price": 28,
+        "price": 21,
         "link": "https://www.amazon.in/s?k=Fresh%20Robusta%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1919,7 +1919,7 @@
     },
     "davidofffinearomainstantcoffee100g": {
         "title": "Davidoff Fine Aroma Instant Coffee (100 g)",
-        "price": 902,
+        "price": 949,
         "link": "https://www.amazon.in/s?k=Davidoff%20Fine%20Aroma%20Instant%20Coffee%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3149,7 +3149,7 @@
     },
     "cocacolazerosugarsoftdrink750ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink (750 ml)",
-        "price": 37,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5357,7 +5357,7 @@
     },
     "frootimangodrink": {
         "title": "Frooti Mango Drink",
-        "price": 95,
+        "price": 90,
         "link": "https://www.amazon.in/s?k=Frooti%20Mango%20Drink&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5551,6 +5551,12 @@
         "title": "Pepsi Zero Sugar Soft Drink Can (300 ml)",
         "price": 39,
         "link": "https://www.amazon.in/s?k=Pepsi%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "closeuptoothpastejumbosaverpack": {
+        "title": "Close Up Toothpaste Jumbo Saver Pack",
+        "price": 245,
+        "link": "https://www.amazon.in/s?k=Close%20Up%20Toothpaste%20Jumbo%20Saver%20Pack&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
