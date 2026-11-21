@@ -1055,9 +1055,9 @@
     },
     "freshnagpurbabyorange1kg": {
         "title": "Fresh Nagpur Baby Orange (1 kg)",
-        "price": 69,
+        "price": 50,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Baby%20Orange%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshsmallpapaya500g": {
         "title": "Fresh Small Papaya (500 g)",
@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 229,
+        "price": 100,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5557,6 +5557,12 @@
         "title": "Close Up Toothpaste Jumbo Saver Pack",
         "price": 245,
         "link": "https://www.amazon.in/s?k=Close%20Up%20Toothpaste%20Jumbo%20Saver%20Pack&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "comfortlilyfreshfabricconditioner860ml": {
+        "title": "Comfort Lily Fresh Fabric Conditioner (860 ml)",
+        "price": 200,
+        "link": "https://www.amazon.in/s?k=Comfort%20Lily%20Fresh%20Fabric%20Conditioner%20(860%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
