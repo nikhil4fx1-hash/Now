@@ -1151,9 +1151,9 @@
     },
     "freshfig": {
         "title": "Fresh Fig",
-        "price": 63,
+        "price": 49,
         "link": "https://www.amazon.in/s?k=Fresh%20Fig&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
@@ -1199,9 +1199,9 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 187,
+        "price": 142,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshcapegooseberry100g": {
         "title": "Fresh Cape Gooseberry (100 g)",
@@ -2033,7 +2033,7 @@
     },
     "aashirvaadchakkikhapliatta1kg": {
         "title": "Aashirvaad Chakki Khapli Atta (1 kg)",
-        "price": 143,
+        "price": 142,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Chakki%20Khapli%20Atta%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3749,7 +3749,7 @@
     },
     "gadretilapiafishfingers250g": {
         "title": "Gadre Tilapia Fish Fingers (250 g)",
-        "price": 225,
+        "price": 207,
         "link": "https://www.amazon.in/s?k=Gadre%20Tilapia%20Fish%20Fingers%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
