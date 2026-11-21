@@ -1037,7 +1037,7 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 35,
+        "price": 36,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1193,15 +1193,15 @@
     },
     "freshlongan100g": {
         "title": "Fresh Longan (100 g)",
-        "price": 48,
+        "price": 43,
         "link": "https://www.amazon.in/s?k=Fresh%20Longan%20(100%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 142,
+        "price": 116,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshcapegooseberry100g": {
         "title": "Fresh Cape Gooseberry (100 g)",
@@ -5575,6 +5575,12 @@
         "title": "11 items",
         "price": 541,
         "link": "https://www.amazon.in/s?k=11%20items&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "mogumogustrawberrywithnatadecocojuicedrink320ml": {
+        "title": "Mogu Mogu Strawberry With Nata De Coco Juice Drink (320 ml)",
+        "price": 68,
+        "link": "https://www.amazon.in/s?k=Mogu%20Mogu%20Strawberry%20With%20Nata%20De%20Coco%20Juice%20Drink%20(320%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
