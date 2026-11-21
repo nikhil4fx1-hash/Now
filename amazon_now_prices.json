@@ -1037,9 +1037,9 @@
     },
     "freshbabyrobustbanana1kg": {
         "title": "Fresh Baby Robust Banana (1 kg)",
-        "price": 39,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Fresh%20Baby%20Robust%20Banana%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshkiranwatermelonlarge": {
         "title": "Fresh Kiran Watermelon - Large",
@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 89,
+        "price": 87,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5261,7 +5261,7 @@
     },
     "pricecrash": {
         "title": "Price Crash",
-        "price": 160,
+        "price": 16,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
         "mega_alert_sent": true
     },
