@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 37,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -389,7 +389,7 @@
     },
     "simplerefreshingfacialwash100ml": {
         "title": "Simple Refreshing Facial Wash (100 ml)",
-        "price": 234,
+        "price": 206,
         "link": "https://www.amazon.in/s?k=Simple%20Refreshing%20Facial%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -401,7 +401,7 @@
     },
     "muuchstacoceanfacewash": {
         "title": "Muuchstac Ocean Face Wash",
-        "price": 290,
+        "price": 220,
         "link": "https://www.amazon.in/s?k=Muuchstac%20Ocean%20Face%20Wash&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -713,7 +713,7 @@
     },
     "ujalayoungfreshfabricconditioner2l": {
         "title": "Ujala Young & Fresh Fabric Conditioner (2 L)",
-        "price": 350,
+        "price": 340,
         "link": "https://www.amazon.in/s?k=Ujala%20Young%20%26%20Fresh%20Fabric%20Conditioner%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5393,7 +5393,7 @@
     },
     "paperboatswingcrispycranberryfruitdrink12l": {
         "title": "Paper Boat Swing Crispy Cranberry Fruit Drink (1.2 L)",
-        "price": 74,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Paper%20Boat%20Swing%20Crispy%20Cranberry%20Fruit%20Drink%20(1.2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5606,5 +5606,23 @@
         "price": 265,
         "link": "https://www.amazon.in/s?k=Amazon%20Basics%20Multi%20Purpose%20Storage%20Slider%20Bags%20-%20S&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "rawpresserydailydoseberryhealthy250ml": {
+        "title": "Raw Pressery Daily Dose Berry Healthy (250 ml)",
+        "price": 60,
+        "link": "https://www.amazon.in/s?k=Raw%20Pressery%20Daily%20Dose%20Berry%20Healthy%20(250%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "tipsytigerindiantonicwatercan250ml": {
+        "title": "Tipsy Tiger Indian Tonic Water Can (250 ml)",
+        "price": 78,
+        "link": "https://www.amazon.in/s?k=Tipsy%20Tiger%20Indian%20Tonic%20Water%20Can%20(250%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "patanjalineemkantiherbalbodycleansersoap": {
+        "title": "Patanjali Neem Kanti Herbal Body Cleanser Soap",
+        "price": 126,
+        "link": "https://www.amazon.in/s?k=Patanjali%20Neem%20Kanti%20Herbal%20Body%20Cleanser%20Soap&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
