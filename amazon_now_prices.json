@@ -1559,7 +1559,7 @@
     },
     "gillettefusion5shavingrazor": {
         "title": "Gillette Fusion 5 Shaving Razor",
-        "price": 340,
+        "price": 337,
         "link": "https://www.amazon.in/s?k=Gillette%20Fusion%205%20Shaving%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1943,7 +1943,7 @@
     },
     "nescafeblackroastinstantcoffee90g": {
         "title": "Nescafe Black Roast Instant Coffee (90 g)",
-        "price": 445,
+        "price": 430,
         "link": "https://www.amazon.in/s?k=Nescafe%20Black%20Roast%20Instant%20Coffee%20(90%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2105,7 +2105,7 @@
     },
     "aashirvaadattawithmultigrains5kg": {
         "title": "Aashirvaad Atta With Multigrains (5 kg)",
-        "price": 334,
+        "price": 329,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Atta%20With%20Multigrains%20(5%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2963,7 +2963,7 @@
     },
     "morefor": {
         "title": "more for",
-        "price": 255,
+        "price": 358,
         "link": "https://www.amazon.in/s?k=more%20for&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3533,7 +3533,7 @@
     },
     "freshpomegranate2pcs": {
         "title": "Fresh Pomegranate (2 Pcs)",
-        "price": 107,
+        "price": 110,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3719,7 +3719,7 @@
     },
     "chemistatplaybrighteningbodywash236ml": {
         "title": "Chemist At Play Brightening Body Wash (236 ml)",
-        "price": 314,
+        "price": 308,
         "link": "https://www.amazon.in/s?k=Chemist%20At%20Play%20Brightening%20Body%20Wash%20(236%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3809,7 +3809,7 @@
     },
     "bellavitabrightwonderbrighteningsoap": {
         "title": "Bellavita Bright Wonder Brightening Soap",
-        "price": 299,
+        "price": 275,
         "link": "https://www.amazon.in/s?k=Bellavita%20Bright%20Wonder%20Brightening%20Soap&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5225,7 +5225,7 @@
     },
     "godrejezeeliquiddetergentforwinterwear2kg": {
         "title": "Godrej Ezee Liquid Detergent for Winterwear (2 kg)",
-        "price": 369,
+        "price": 368,
         "link": "https://www.amazon.in/s?k=Godrej%20Ezee%20Liquid%20Detergent%20for%20Winterwear%20(2%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5569,6 +5569,12 @@
         "title": "Sid's Farm Curd - Tub (1 kg)",
         "price": 135,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Curd%20-%20Tub%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "11items": {
+        "title": "11 items",
+        "price": 541,
+        "link": "https://www.amazon.in/s?k=11%20items&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
