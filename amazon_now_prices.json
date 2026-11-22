@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 94,
+        "price": 89,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1943,7 +1943,7 @@
     },
     "nescafeblackroastinstantcoffee90g": {
         "title": "Nescafe Black Roast Instant Coffee (90 g)",
-        "price": 430,
+        "price": 445,
         "link": "https://www.amazon.in/s?k=Nescafe%20Black%20Roast%20Instant%20Coffee%20(90%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3083,7 +3083,7 @@
     },
     "meatigobonelesschickenthigh450g": {
         "title": "Meatigo Boneless Chicken Thigh (450 g)",
-        "price": 308,
+        "price": 302,
         "link": "https://www.amazon.in/s?k=Meatigo%20Boneless%20Chicken%20Thigh%20(450%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5690,5 +5690,11 @@
         "price": 650,
         "link": "https://www.amazon.in/s?k=More%20Light%20Extra%20Power%20Detergent%20Powder%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "klaasbasapangasriversalmonsteaks500g": {
+        "title": "Klaas Basa/Pangas/River Salmon Steaks (500 g)",
+        "price": 220,
+        "link": "https://www.amazon.in/s?k=Klaas%20Basa%2FPangas%2FRiver%20Salmon%20Steaks%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
