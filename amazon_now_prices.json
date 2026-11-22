@@ -3119,7 +3119,7 @@
     },
     "humpyfarmspasteurizeda2cowmilk500ml": {
         "title": "Humpy Farms Pasteurized A2 Cow Milk (500 ml)",
-        "price": 46,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Humpy%20Farms%20Pasteurized%20A2%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5731,6 +5731,12 @@
         "title": "Ocean Ivory Hi Ball whiskey Glass Set",
         "price": 535,
         "link": "https://www.amazon.in/s?k=Ocean%20Ivory%20Hi%20Ball%20whiskey%20Glass%20Set&tag=flashsale069-21",
+        "mega_alert_sent": true
+    },
+    "niveamensensitiveaftershavelotion100ml": {
+        "title": "Nivea Men Sensitive After Shave Lotion (100 ml)",
+        "price": 192,
+        "link": "https://www.amazon.in/s?k=Nivea%20Men%20Sensitive%20After%20Shave%20Lotion%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
