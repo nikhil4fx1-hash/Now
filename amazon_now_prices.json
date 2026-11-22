@@ -229,7 +229,7 @@
     },
     "superyoumultigrainproteinchips40g": {
         "title": "Superyou Multigrain Protein Chips (40 g)",
-        "price": 36,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Superyou%20Multigrain%20Protein%20Chips%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -941,7 +941,7 @@
     },
     "sidsfarmcurdpouch450g": {
         "title": "Sid's Farm Curd Pouch (450 g)",
-        "price": 55,
+        "price": 58,
         "link": "https://www.amazon.in/s?k=Sid's%20Farm%20Curd%20Pouch%20(450%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1193,7 +1193,7 @@
     },
     "freshlongan100g": {
         "title": "Fresh Longan (100 g)",
-        "price": 46,
+        "price": 47,
         "link": "https://www.amazon.in/s?k=Fresh%20Longan%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1559,7 +1559,7 @@
     },
     "gillettefusion5shavingrazor": {
         "title": "Gillette Fusion 5 Shaving Razor",
-        "price": 337,
+        "price": 360,
         "link": "https://www.amazon.in/s?k=Gillette%20Fusion%205%20Shaving%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3071,7 +3071,7 @@
     },
     "countrydelightpasteurisedcowmilk450ml": {
         "title": "Country Delight Pasteurised Cow Milk (450 ml)",
-        "price": 42,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5261,7 +5261,7 @@
     },
     "pricecrash": {
         "title": "Price Crash",
-        "price": 16,
+        "price": 14,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5695,6 +5695,12 @@
         "title": "Klaas Basa/Pangas/River Salmon Steaks (500 g)",
         "price": 220,
         "link": "https://www.amazon.in/s?k=Klaas%20Basa%2FPangas%2FRiver%20Salmon%20Steaks%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "rinmatictoploadliquiddetergent2l": {
+        "title": "Rin Matic Top Load Liquid Detergent (2 L)",
+        "price": 214,
+        "link": "https://www.amazon.in/s?k=Rin%20Matic%20Top%20Load%20Liquid%20Detergent%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
