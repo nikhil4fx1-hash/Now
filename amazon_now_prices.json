@@ -1097,9 +1097,9 @@
     },
     "freshsmallpomegranate1kg": {
         "title": "Fresh Small Pomegranate (1 kg)",
-        "price": 248,
+        "price": 162,
         "link": "https://www.amazon.in/s?k=Fresh%20Small%20Pomegranate%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshappleroyalgalaregular": {
         "title": "Fresh Apple Royal Gala - Regular",
@@ -1223,7 +1223,7 @@
     },
     "freshraspberry125g": {
         "title": "Fresh Raspberry (125 g)",
-        "price": 275,
+        "price": 299,
         "link": "https://www.amazon.in/s?k=Fresh%20Raspberry%20(125%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1415,7 +1415,7 @@
     },
     "freshredamaranthus250g": {
         "title": "Fresh Red Amaranthus (250 g)",
-        "price": 9,
+        "price": 19,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Amaranthus%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2903,7 +2903,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 20,
+        "price": 29,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
