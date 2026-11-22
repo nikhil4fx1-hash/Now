@@ -79,7 +79,7 @@
     },
     "limcalimenlemonisoftdrink750ml": {
         "title": "Limca Lime 'n' Lemoni Soft Drink (750 ml)",
-        "price": 37,
+        "price": 38,
         "link": "https://www.amazon.in/s?k=Limca%20Lime%20'n'%20Lemoni%20Soft%20Drink%20(750%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1133,7 +1133,7 @@
     },
     "freshavocadomediumregular": {
         "title": "Fresh Avocado (Medium) - Regular",
-        "price": 89,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Fresh%20Avocado%20(Medium)%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1331,7 +1331,7 @@
     },
     "freshwhitecucumber500g": {
         "title": "Fresh White Cucumber (500 g)",
-        "price": 35,
+        "price": 33,
         "link": "https://www.amazon.in/s?k=Fresh%20White%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2351,7 +2351,7 @@
     },
     "gadreimitationcrabsticks250g": {
         "title": "Gadre Imitation Crab Sticks (250 g)",
-        "price": 265,
+        "price": 238,
         "link": "https://www.amazon.in/s?k=Gadre%20Imitation%20Crab%20Sticks%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5683,6 +5683,12 @@
         "title": "Lifelong Double Insulated Stainless Steel Mug - Black (510 ml)",
         "price": 599,
         "link": "https://www.amazon.in/s?k=Lifelong%20Double%20Insulated%20Stainless%20Steel%20Mug%20-%20Black%20(510%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": true
+    },
+    "morelightextrapowerdetergentpowder10kg": {
+        "title": "More Light Extra Power Detergent Powder (10 kg)",
+        "price": 650,
+        "link": "https://www.amazon.in/s?k=More%20Light%20Extra%20Power%20Detergent%20Powder%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
     }
 }
