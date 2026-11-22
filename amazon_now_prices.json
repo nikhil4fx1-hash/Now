@@ -881,7 +881,7 @@
     },
     "akshayakalpaorganicpasteurizedcowmilk500ml": {
         "title": "Akshayakalpa Organic Pasteurized Cow Milk (500 ml)",
-        "price": 44,
+        "price": 49,
         "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Pasteurized%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5678,5 +5678,11 @@
         "price": 142,
         "link": "https://www.amazon.in/s?k=Akshayakalpa%20Organic%20Cow%20Milk%20-%20UHT%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "lifelongdoubleinsulatedstainlesssteelmugblack510ml": {
+        "title": "Lifelong Double Insulated Stainless Steel Mug - Black (510 ml)",
+        "price": 599,
+        "link": "https://www.amazon.in/s?k=Lifelong%20Double%20Insulated%20Stainless%20Steel%20Mug%20-%20Black%20(510%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
