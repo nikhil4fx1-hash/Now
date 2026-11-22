@@ -1115,7 +1115,7 @@
     },
     "freshnagpurorange1kg": {
         "title": "Fresh Nagpur Orange (1 kg)",
-        "price": 92,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Fresh%20Nagpur%20Orange%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3071,7 +3071,7 @@
     },
     "countrydelightpasteurisedcowmilk450ml": {
         "title": "Country Delight Pasteurised Cow Milk (450 ml)",
-        "price": 46,
+        "price": 47,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4157,7 +4157,7 @@
     },
     "surfexcelmaticliquiddetergenttopload3kg": {
         "title": "Surf Excel Matic Liquid Detergent Top Load (3 kg)",
-        "price": 468,
+        "price": 448,
         "link": "https://www.amazon.in/s?k=Surf%20Excel%20Matic%20Liquid%20Detergent%20Top%20Load%20(3%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5707,6 +5707,12 @@
         "title": "Fresh Red Banana (500 g)",
         "price": 95,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Banana%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "neutrogenadeepcleanfoamingcleanser150g": {
+        "title": "Neutrogena Deep Clean Foaming Cleanser (150 g)",
+        "price": 395,
+        "link": "https://www.amazon.in/s?k=Neutrogena%20Deep%20Clean%20Foaming%20Cleanser%20(150%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
