@@ -223,7 +223,7 @@
     },
     "thebakersdozenmultigrain10gproteinchips45g": {
         "title": "The Baker's Dozen Multigrain 10g Protein Chips (45 g)",
-        "price": 36,
+        "price": 32,
         "link": "https://www.amazon.in/s?k=The%20Baker's%20Dozen%20Multigrain%2010g%20Protein%20Chips%20(45%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -713,7 +713,7 @@
     },
     "ujalayoungfreshfabricconditioner2l": {
         "title": "Ujala Young & Fresh Fabric Conditioner (2 L)",
-        "price": 340,
+        "price": 350,
         "link": "https://www.amazon.in/s?k=Ujala%20Young%20%26%20Fresh%20Fabric%20Conditioner%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1375,7 +1375,7 @@
         "title": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned) (250 g)",
         "price": 37,
         "link": "https://www.amazon.in/s?k=Fresh%20Methi%2FFenugreek%20Leaves%20-%20Without%20Roots%20(Cleaned)%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrowncabbage1pc": {
         "title": "Fresh Naturally Grown Cabbage (1 Pc)",
@@ -2591,7 +2591,7 @@
     },
     "colgatevisiblewhitepurpletoothpaste75g": {
         "title": "Colgate Visible White Purple Toothpaste (75 g)",
-        "price": 99,
+        "price": 97,
         "link": "https://www.amazon.in/s?k=Colgate%20Visible%20White%20Purple%20Toothpaste%20(75%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5719,6 +5719,12 @@
         "title": "Fresh Premium Sweet Tamarind (225 g)",
         "price": 134,
         "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Sweet%20Tamarind%20(225%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "freshpremiumfujiapple": {
+        "title": "Fresh Premium Fuji Apple",
+        "price": 128,
+        "link": "https://www.amazon.in/s?k=Fresh%20Premium%20Fuji%20Apple&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
