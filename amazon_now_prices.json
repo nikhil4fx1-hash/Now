@@ -229,7 +229,7 @@
     },
     "superyoumultigrainproteinchips40g": {
         "title": "Superyou Multigrain Protein Chips (40 g)",
-        "price": 39,
+        "price": 35,
         "link": "https://www.amazon.in/s?k=Superyou%20Multigrain%20Protein%20Chips%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1211,7 +1211,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 229,
+        "price": 100,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1307,7 +1307,7 @@
     },
     "freshredyellowcapsicummix2pcs": {
         "title": "Fresh Red & Yellow Capsicum Mix (2 Pcs)",
-        "price": 75,
+        "price": 62,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20%26%20Yellow%20Capsicum%20Mix%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1415,7 +1415,7 @@
     },
     "freshredamaranthus250g": {
         "title": "Fresh Red Amaranthus (250 g)",
-        "price": 19,
+        "price": 9,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Amaranthus%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2033,7 +2033,7 @@
     },
     "aashirvaadchakkikhapliatta1kg": {
         "title": "Aashirvaad Chakki Khapli Atta (1 kg)",
-        "price": 137,
+        "price": 138,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Chakki%20Khapli%20Atta%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3863,7 +3863,7 @@
     },
     "doveexfoliatingbodywash825ml": {
         "title": "Dove Exfoliating Bodywash (825 ml)",
-        "price": 434,
+        "price": 433,
         "link": "https://www.amazon.in/s?k=Dove%20Exfoliating%20Bodywash%20(825%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5753,8 +5753,14 @@
     },
     "doveserumbar5x125g": {
         "title": "Dove Serum Bar (5 x 125 g)",
-        "price": 325,
+        "price": 341,
         "link": "https://www.amazon.in/s?k=Dove%20Serum%20Bar%20(5%20x%20125%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "fastupplantproteinpowder1kg": {
+        "title": "Fast&Up Plant Protein Powder (1 kg)",
+        "price": 1999,
+        "link": "https://www.amazon.in/s?k=Fast%26Up%20Plant%20Protein%20Powder%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
