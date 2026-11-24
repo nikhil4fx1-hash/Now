@@ -103,7 +103,7 @@
     },
     "thumsupsoftdrink125l": {
         "title": "Thums Up Soft Drink (1.25 L)",
-        "price": 63,
+        "price": 66,
         "link": "https://www.amazon.in/s?k=Thums%20Up%20Soft%20Drink%20(1.25%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -858,7 +858,7 @@
     },
     "amultaazapasteurisedtonedmilkymilk500ml": {
         "title": "Amul Taaza Pasteurised Toned Milky Milk (500 ml)",
-        "price": 30,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Amul%20Taaza%20Pasteurised%20Toned%20Milky%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1272,7 +1272,7 @@
     },
     "freshgreencapsicum250g": {
         "title": "Fresh Green Capsicum (250 g)",
-        "price": 26,
+        "price": 23,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Capsicum%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1320,7 +1320,7 @@
     },
     "freshbhindiladyfinger250g": {
         "title": "Fresh Bhindi (Lady Finger) (250 g)",
-        "price": 17,
+        "price": 16,
         "link": "https://www.amazon.in/s?k=Fresh%20Bhindi%20(Lady%20Finger)%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3816,7 +3816,7 @@
     },
     "organictattvamaizeflourmakkaatta500g": {
         "title": "Organic Tattva Maize Flour (Makka Atta) (500 g)",
-        "price": 72,
+        "price": 74,
         "link": "https://www.amazon.in/s?k=Organic%20Tattva%20Maize%20Flour%20(Makka%20Atta)%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4992,7 +4992,7 @@
     },
     "durexintensestimulatingcondoms": {
         "title": "Durex Intense Stimulating Condoms",
-        "price": 193,
+        "price": 198,
         "link": "https://www.amazon.in/s?k=Durex%20Intense%20Stimulating%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5846,6 +5846,12 @@
         "title": "Aristo Lock & Fresh Storage Container (5L) (5 L)",
         "price": 309,
         "link": "https://www.amazon.in/s?k=Aristo%20Lock%20%26%20Fresh%20Storage%20Container%20(5L)%20(5%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "trikayafreshgreenedamamesoyabean250g": {
+        "title": "Trikaya Fresh Green Edamame (Soyabean) (250 g)",
+        "price": 180,
+        "link": "https://www.amazon.in/s?k=Trikaya%20Fresh%20Green%20Edamame%20(Soyabean)%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
