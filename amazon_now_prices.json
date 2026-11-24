@@ -1530,7 +1530,7 @@
     },
     "bombayshavingcompanysensismart3razor": {
         "title": "Bombay Shaving Company Sensi Smart 3 Razor",
-        "price": 99,
+        "price": 198,
         "link": "https://www.amazon.in/s?k=Bombay%20Shaving%20Company%20Sensi%20Smart%203%20Razor&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5865,5 +5865,11 @@
         "price": 75,
         "link": "https://www.amazon.in/s?k=Dabur%20Real%20Masala%20Mixed%20Fruit%20Juice%20(1%20L)&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "snackibleperiperiragichips55g": {
+        "title": "Snackible Peri Peri Ragi Chips (55 g)",
+        "price": 36,
+        "link": "https://www.amazon.in/s?k=Snackible%20Peri%20Peri%20Ragi%20Chips%20(55%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
