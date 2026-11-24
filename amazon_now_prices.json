@@ -1986,7 +1986,7 @@
     },
     "sleepyowlintensejavaxpressocoffee100g": {
         "title": "Sleepy Owl Intense Java Xpresso Coffee (100 g)",
-        "price": 300,
+        "price": 301,
         "link": "https://www.amazon.in/s?k=Sleepy%20Owl%20Intense%20Java%20Xpresso%20Coffee%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4134,7 +4134,7 @@
     },
     "freshenglishcucumber500g": {
         "title": "Fresh English Cucumber (500 g)",
-        "price": 31,
+        "price": 30,
         "link": "https://www.amazon.in/s?k=Fresh%20English%20Cucumber%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5793,5 +5793,11 @@
         "price": 799,
         "link": "https://www.amazon.in/s?k=Philips%20QP210%2F51%20Oneblade%20Replaceable%20Blade%20-%20Lime%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "prestomorningdewafterwashfabricconditionercan5l": {
+        "title": "Presto! Morning Dew After Wash Fabric Conditioner Can (5 L)",
+        "price": 875,
+        "link": "https://www.amazon.in/s?k=Presto!%20Morning%20Dew%20After%20Wash%20Fabric%20Conditioner%20Can%20(5%20L)&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
