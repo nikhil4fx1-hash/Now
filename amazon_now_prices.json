@@ -1050,7 +1050,7 @@
     },
     "freshyelakkibanana500g": {
         "title": "Fresh Yelakki Banana (500 g)",
-        "price": 74,
+        "price": 55,
         "link": "https://www.amazon.in/s?k=Fresh%20Yelakki%20Banana%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5870,6 +5870,12 @@
         "title": "Snackible Peri Peri Ragi Chips (55 g)",
         "price": 36,
         "link": "https://www.amazon.in/s?k=Snackible%20Peri%20Peri%20Ragi%20Chips%20(55%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "sanfeinstanttandeadskinremovalexfoliatinggel100g": {
+        "title": "Sanfe Instant Tan & Dead Skin Removal Exfoliating Gel (100 g)",
+        "price": 247,
+        "link": "https://www.amazon.in/s?k=Sanfe%20Instant%20Tan%20%26%20Dead%20Skin%20Removal%20Exfoliating%20Gel%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
