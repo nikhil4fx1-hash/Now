@@ -1086,7 +1086,7 @@
     },
     "freshorganiclemon100g": {
         "title": "Fresh Organic Lemon (100 g)",
-        "price": 32,
+        "price": 33,
         "link": "https://www.amazon.in/s?k=Fresh%20Organic%20Lemon%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2646,7 +2646,7 @@
     },
     "sensodynepronamelenamelprotectiontoothpaste": {
         "title": "Sensodyne Pronamel Enamel Protection Toothpaste",
-        "price": 238,
+        "price": 256,
         "link": "https://www.amazon.in/s?k=Sensodyne%20Pronamel%20Enamel%20Protection%20Toothpaste&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2964,7 +2964,7 @@
     },
     "morefor": {
         "title": "more for",
-        "price": 358,
+        "price": 238,
         "link": "https://www.amazon.in/s?k=more%20for&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5264,7 +5264,7 @@
         "title": "Price Crash",
         "price": 42,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshorganicstrawberry180g": {
         "title": "Fresh Organic Strawberry (180 g)",
@@ -5574,7 +5574,7 @@
     },
     "11items": {
         "title": "11 items",
-        "price": 541,
+        "price": 261,
         "link": "https://www.amazon.in/s?k=11%20items&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5876,6 +5876,12 @@
         "title": "Sanfe Instant Tan & Dead Skin Removal Exfoliating Gel (100 g)",
         "price": 247,
         "link": "https://www.amazon.in/s?k=Sanfe%20Instant%20Tan%20%26%20Dead%20Skin%20Removal%20Exfoliating%20Gel%20(100%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "10items": {
+        "title": "10 items",
+        "price": 252,
+        "link": "https://www.amazon.in/s?k=10%20items&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
