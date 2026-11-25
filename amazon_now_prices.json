@@ -1122,7 +1122,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 164,
+        "price": 154,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1376,7 +1376,7 @@
         "title": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned) (250 g)",
         "price": 33,
         "link": "https://www.amazon.in/s?k=Fresh%20Methi%2FFenugreek%20Leaves%20-%20Without%20Roots%20(Cleaned)%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshnaturallygrowncabbage1pc": {
         "title": "Fresh Naturally Grown Cabbage (1 Pc)",
@@ -3108,7 +3108,7 @@
     },
     "countrydelightpasteurisednaturalcowmilk450ml": {
         "title": "Country Delight Pasteurised Natural Cow Milk (450 ml)",
-        "price": 54,
+        "price": 51,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Natural%20Cow%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5894,6 +5894,12 @@
         "title": "Cello Modustack Glassy Storage Jar (2L) - Grey (2 L)",
         "price": 279,
         "link": "https://www.amazon.in/s?k=Cello%20Modustack%20Glassy%20Storage%20Jar%20(2L)%20-%20Grey%20(2%20L)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "bevzillaassortedinstantcoffeesachets128g": {
+        "title": "Bevzilla Assorted Instant Coffee Sachets (128 g)",
+        "price": 224,
+        "link": "https://www.amazon.in/s?k=Bevzilla%20Assorted%20Instant%20Coffee%20Sachets%20(128%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
