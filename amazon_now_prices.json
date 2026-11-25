@@ -1098,9 +1098,9 @@
     },
     "freshsmallpomegranate1kg": {
         "title": "Fresh Small Pomegranate (1 kg)",
-        "price": 229,
+        "price": 160,
         "link": "https://www.amazon.in/s?k=Fresh%20Small%20Pomegranate%20(1%20kg)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshappleroyalgalaregular": {
         "title": "Fresh Apple Royal Gala - Regular",
@@ -1848,7 +1848,7 @@
     },
     "brookebondredlabelinstantmasalachaipremix": {
         "title": "Brooke Bond Red Label Instant Masala Chai Premix",
-        "price": 98,
+        "price": 135,
         "link": "https://www.amazon.in/s?k=Brooke%20Bond%20Red%20Label%20Instant%20Masala%20Chai%20Premix&tag=flashsale069-21",
         "mega_alert_sent": false
     },
