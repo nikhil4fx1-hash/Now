@@ -1398,9 +1398,9 @@
     },
     "freshgreenamaranthus250g": {
         "title": "Fresh Green Amaranthus (250 g)",
-        "price": 26,
+        "price": 25,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Amaranthus%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "nutrifreshmixlettuceapprox100g": {
         "title": "Nutrifresh Mix Lettuce (Approx. 100 g)",
