@@ -1026,9 +1026,9 @@
     },
     "freshkashmirapple2pcs": {
         "title": "Fresh Kashmir Apple (2 Pcs)",
-        "price": 112,
+        "price": 53,
         "link": "https://www.amazon.in/s?k=Fresh%20Kashmir%20Apple%20(2%20Pcs)&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshpomegranateanarregular2pcs": {
         "title": "Fresh Pomegranate (Anar) - Regular (2 Pcs)",
@@ -5262,7 +5262,7 @@
     },
     "pricecrash": {
         "title": "Price Crash",
-        "price": 42,
+        "price": 17,
         "link": "https://www.amazon.in/s?k=Price%20Crash&tag=flashsale069-21",
         "mega_alert_sent": true
     },
