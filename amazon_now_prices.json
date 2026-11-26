@@ -211,7 +211,7 @@
     },
     "pringlessourcreamonionpotatocrisps40g": {
         "title": "Pringles Sour Cream & Onion Potato Crisps (40 g)",
-        "price": 51,
+        "price": 50,
         "link": "https://www.amazon.in/s?k=Pringles%20Sour%20Cream%20%26%20Onion%20Potato%20Crisps%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1176,7 +1176,7 @@
     },
     "freshkiwigreen3pcs": {
         "title": "Fresh Kiwi - Green (3 Pcs)",
-        "price": 104,
+        "price": 100,
         "link": "https://www.amazon.in/s?k=Fresh%20Kiwi%20-%20Green%20(3%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2034,7 +2034,7 @@
     },
     "aashirvaadchakkikhapliatta1kg": {
         "title": "Aashirvaad Chakki Khapli Atta (1 kg)",
-        "price": 124,
+        "price": 149,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Chakki%20Khapli%20Atta%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2808,7 +2808,7 @@
     },
     "colgatevisiblewhitepurpletoothpaste120g": {
         "title": "Colgate Visible White Purple Toothpaste (120 g)",
-        "price": 167,
+        "price": 157,
         "link": "https://www.amazon.in/s?k=Colgate%20Visible%20White%20Purple%20Toothpaste%20(120%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5919,5 +5919,11 @@
         "price": 489,
         "link": "https://www.amazon.in/s?k=Dove%20Moisturising%20Cream%20Bathing%20Bar&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "freshcabbagedeal": {
+        "title": "Fresh Cabbage - Deal",
+        "price": 8,
+        "link": "https://www.amazon.in/s?k=Fresh%20Cabbage%20-%20Deal&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
