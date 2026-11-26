@@ -2256,7 +2256,7 @@
     },
     "ifbfreshcatchmediumprawns200g": {
         "title": "IFB Fresh Catch Medium Prawns (200 g)",
-        "price": 176,
+        "price": 172,
         "link": "https://www.amazon.in/s?k=IFB%20Fresh%20Catch%20Medium%20Prawns%20(200%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3534,7 +3534,7 @@
     },
     "freshpomegranate2pcs": {
         "title": "Fresh Pomegranate (2 Pcs)",
-        "price": 99,
+        "price": 104,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(2%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3834,7 +3834,7 @@
     },
     "freshpomegranate4pcs": {
         "title": "Fresh Pomegranate (4 Pcs)",
-        "price": 238,
+        "price": 192,
         "link": "https://www.amazon.in/s?k=Fresh%20Pomegranate%20(4%20Pcs)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5930,6 +5930,12 @@
         "title": "Fresh Mini Orange - Regular (500 g)",
         "price": 166,
         "link": "https://www.amazon.in/s?k=Fresh%20Mini%20Orange%20-%20Regular%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "laafrozenchickenbreastboneless400g": {
+        "title": "Laa Frozen Chicken Breast Boneless (400 g)",
+        "price": 199,
+        "link": "https://www.amazon.in/s?k=Laa%20Frozen%20Chicken%20Breast%20Boneless%20(400%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
