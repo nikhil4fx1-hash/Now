@@ -1242,9 +1242,9 @@
     },
     "freshbeetrootdeal200250g": {
         "title": "Fresh Beet Root - Deal (200-250 g)",
-        "price": 8,
+        "price": 7,
         "link": "https://www.amazon.in/s?k=Fresh%20Beet%20Root%20-%20Deal%20(200-250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshdrumstickmoringa250g": {
         "title": "Fresh Drumstick (Moringa) (250 g)",
@@ -2046,7 +2046,7 @@
     },
     "aashirvaadhighproteinatta5kg": {
         "title": "Aashirvaad High Protein Atta (5 Kg)",
-        "price": 315,
+        "price": 254,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20High%20Protein%20Atta%20(5%20Kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
