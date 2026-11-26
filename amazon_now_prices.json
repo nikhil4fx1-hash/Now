@@ -241,7 +241,7 @@
     },
     "pringlesoriginalpotatocrisps40g": {
         "title": "Pringles Original Potato Crisps (40 g)",
-        "price": 51,
+        "price": 50,
         "link": "https://www.amazon.in/s?k=Pringles%20Original%20Potato%20Crisps%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1104,7 +1104,7 @@
     },
     "freshappleroyalgalaregular": {
         "title": "Fresh Apple Royal Gala - Regular",
-        "price": 99,
+        "price": 89,
         "link": "https://www.amazon.in/s?k=Fresh%20Apple%20Royal%20Gala%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1212,7 +1212,7 @@
     },
     "freshgreenpearregular": {
         "title": "Fresh Green Pear - Regular",
-        "price": 100,
+        "price": 233,
         "link": "https://www.amazon.in/s?k=Fresh%20Green%20Pear%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1416,9 +1416,9 @@
     },
     "freshredamaranthus250g": {
         "title": "Fresh Red Amaranthus (250 g)",
-        "price": 22,
+        "price": 16,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Amaranthus%20(250%20g)&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshcolocasialeafarvipatta10pcs": {
         "title": "Fresh Colocasia Leaf (Arvi Patta) (10 Pcs)",
