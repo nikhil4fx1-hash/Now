@@ -1578,7 +1578,7 @@
     },
     "bombayshavingcompanyhairremovalspray200ml": {
         "title": "Bombay Shaving Company Hair Removal Spray (200 ml)",
-        "price": 416,
+        "price": 449,
         "link": "https://www.amazon.in/s?k=Bombay%20Shaving%20Company%20Hair%20Removal%20Spray%20(200%20ml)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5972,6 +5972,12 @@
         "title": "Cello Glaze Tumbler Glasses Set - Clear",
         "price": 215,
         "link": "https://www.amazon.in/s?k=Cello%20Glaze%20Tumbler%20Glasses%20Set%20-%20Clear&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "mamaearthteatreefacewash100ml": {
+        "title": "Mamaearth Tea Tree Face Wash (100 ml)",
+        "price": 217,
+        "link": "https://www.amazon.in/s?k=Mamaearth%20Tea%20Tree%20Face%20Wash%20(100%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
