@@ -2904,7 +2904,7 @@
     },
     "freshspinach250g": {
         "title": "Fresh Spinach (250 g)",
-        "price": 20,
+        "price": 26,
         "link": "https://www.amazon.in/s?k=Fresh%20Spinach%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -4116,7 +4116,7 @@
     },
     "freshstrawberry180g": {
         "title": "Fresh Strawberry (180 g)",
-        "price": 135,
+        "price": 136,
         "link": "https://www.amazon.in/s?k=Fresh%20Strawberry%20(180%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5912,6 +5912,12 @@
         "title": "Mr. Muscle Kitchen Cleaner (450 ml)",
         "price": 166,
         "link": "https://www.amazon.in/s?k=Mr.%20Muscle%20Kitchen%20Cleaner%20(450%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "dovemoisturisingcreambathingbar": {
+        "title": "Dove Moisturising Cream Bathing Bar",
+        "price": 489,
+        "link": "https://www.amazon.in/s?k=Dove%20Moisturising%20Cream%20Bathing%20Bar&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
