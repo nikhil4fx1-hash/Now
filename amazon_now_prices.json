@@ -582,7 +582,7 @@
     },
     "arielmaticliquiddetergentfrontload6l": {
         "title": "Ariel Matic Liquid Detergent Front Load (6 L)",
-        "price": 889,
+        "price": 931,
         "link": "https://www.amazon.in/s?k=Ariel%20Matic%20Liquid%20Detergent%20Front%20Load%20(6%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1202,7 +1202,7 @@
         "title": "Fresh Red Delicious Apple - Regular",
         "price": 188,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshcapegooseberry100g": {
         "title": "Fresh Cape Gooseberry (100 g)",
@@ -3120,7 +3120,7 @@
     },
     "humpyfarmspasteurizeda2cowmilk500ml": {
         "title": "Humpy Farms Pasteurized A2 Cow Milk (500 ml)",
-        "price": 39,
+        "price": 44,
         "link": "https://www.amazon.in/s?k=Humpy%20Farms%20Pasteurized%20A2%20Cow%20Milk%20(500%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -4848,7 +4848,7 @@
     },
     "tastynibbleslightmeattunaflakesinsunfloweroil185g": {
         "title": "Tasty Nibbles Light Meat Tuna Flakes in Sunflower Oil (185 g)",
-        "price": 170,
+        "price": 180,
         "link": "https://www.amazon.in/s?k=Tasty%20Nibbles%20Light%20Meat%20Tuna%20Flakes%20in%20Sunflower%20Oil%20(185%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5966,6 +5966,12 @@
         "title": "Jiwa 30 Degree Barley Flour (900 g)",
         "price": 149,
         "link": "https://www.amazon.in/s?k=Jiwa%2030%20Degree%20Barley%20Flour%20(900%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "celloglazetumblerglassessetclear": {
+        "title": "Cello Glaze Tumbler Glasses Set - Clear",
+        "price": 215,
+        "link": "https://www.amazon.in/s?k=Cello%20Glaze%20Tumbler%20Glasses%20Set%20-%20Clear&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
