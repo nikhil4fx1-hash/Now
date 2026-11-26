@@ -1098,7 +1098,7 @@
     },
     "freshsmallpomegranate1kg": {
         "title": "Fresh Small Pomegranate (1 kg)",
-        "price": 160,
+        "price": 229,
         "link": "https://www.amazon.in/s?k=Fresh%20Small%20Pomegranate%20(1%20kg)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1200,7 +1200,7 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 116,
+        "price": 188,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1266,7 +1266,7 @@
     },
     "freshvarikatribrinjal250g": {
         "title": "Fresh Varikatri Brinjal (250 g)",
-        "price": 9,
+        "price": 14,
         "link": "https://www.amazon.in/s?k=Fresh%20Varikatri%20Brinjal%20(250%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2028,7 +2028,7 @@
     },
     "aashirvaadsuperiormpatta10kg": {
         "title": "Aashirvaad Superior MP Atta (10 kg)",
-        "price": 515,
+        "price": 449,
         "link": "https://www.amazon.in/s?k=Aashirvaad%20Superior%20MP%20Atta%20(10%20kg)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2748,7 +2748,7 @@
     },
     "durexrealfeelcondoms": {
         "title": "Durex Real Feel Condoms",
-        "price": 485,
+        "price": 169,
         "link": "https://www.amazon.in/s?k=Durex%20Real%20Feel%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2778,7 +2778,7 @@
     },
     "skorenothingclimaxdelaycondoms": {
         "title": "Skore Nothing Climax Delay Condoms",
-        "price": 129,
+        "price": 114,
         "link": "https://www.amazon.in/s?k=Skore%20Nothing%20Climax%20Delay%20Condoms&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3156,7 +3156,7 @@
     },
     "freshguavaamrudh500g": {
         "title": "Fresh Guava (Amrudh) (500 g)",
-        "price": 46,
+        "price": 28,
         "link": "https://www.amazon.in/s?k=Fresh%20Guava%20(Amrudh)%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -5960,6 +5960,12 @@
         "title": "mcaffeine Caramel Crunch Exfoliating Body Wash (300 ml)",
         "price": 314,
         "link": "https://www.amazon.in/s?k=mcaffeine%20Caramel%20Crunch%20Exfoliating%20Body%20Wash%20(300%20ml)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "jiwa30degreebarleyflour900g": {
+        "title": "Jiwa 30 Degree Barley Flour (900 g)",
+        "price": 149,
+        "link": "https://www.amazon.in/s?k=Jiwa%2030%20Degree%20Barley%20Flour%20(900%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
