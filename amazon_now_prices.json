@@ -211,7 +211,7 @@
     },
     "pringlessourcreamonionpotatocrisps40g": {
         "title": "Pringles Sour Cream & Onion Potato Crisps (40 g)",
-        "price": 50,
+        "price": 51,
         "link": "https://www.amazon.in/s?k=Pringles%20Sour%20Cream%20%26%20Onion%20Potato%20Crisps%20(40%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1200,9 +1200,9 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 188,
+        "price": 116,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
-        "mega_alert_sent": true
+        "mega_alert_sent": false
     },
     "freshcapegooseberry100g": {
         "title": "Fresh Cape Gooseberry (100 g)",
@@ -2802,7 +2802,7 @@
     },
     "countrydelightpasteurisedbuffalomilk450ml": {
         "title": "Country Delight Pasteurised Buffalo Milk (450 ml)",
-        "price": 52,
+        "price": 57,
         "link": "https://www.amazon.in/s?k=Country%20Delight%20Pasteurised%20Buffalo%20Milk%20(450%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5925,5 +5925,11 @@
         "price": 8,
         "link": "https://www.amazon.in/s?k=Fresh%20Cabbage%20-%20Deal&tag=flashsale069-21",
         "mega_alert_sent": true
+    },
+    "freshminiorangeregular500g": {
+        "title": "Fresh Mini Orange - Regular (500 g)",
+        "price": 166,
+        "link": "https://www.amazon.in/s?k=Fresh%20Mini%20Orange%20-%20Regular%20(500%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
     }
 }
