@@ -1122,7 +1122,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 154,
+        "price": 156,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -1194,13 +1194,13 @@
     },
     "freshlongan100g": {
         "title": "Fresh Longan (100 g)",
-        "price": 45,
+        "price": 47,
         "link": "https://www.amazon.in/s?k=Fresh%20Longan%20(100%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 116,
+        "price": 188,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3822,7 +3822,7 @@
     },
     "freshwatermelonkiran1pc": {
         "title": "Fresh Water Melon - Kiran (1 Pc)",
-        "price": 100,
+        "price": 94,
         "link": "https://www.amazon.in/s?k=Fresh%20Water%20Melon%20-%20Kiran%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -5984,6 +5984,12 @@
         "title": "Revive Liquid Stiffener - Garden Bloom (395 g)",
         "price": 135,
         "link": "https://www.amazon.in/s?k=Revive%20Liquid%20Stiffener%20-%20Garden%20Bloom%20(395%20g)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "tastynibbleslightmeattunachunksinextravirginoliveoil185g": {
+        "title": "Tasty Nibbles Light Meat Tuna Chunks in Extra Virgin Olive Oil (185 g)",
+        "price": 220,
+        "link": "https://www.amazon.in/s?k=Tasty%20Nibbles%20Light%20Meat%20Tuna%20Chunks%20in%20Extra%20Virgin%20Olive%20Oil%20(185%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
