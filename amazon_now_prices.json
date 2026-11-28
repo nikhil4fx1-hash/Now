@@ -187,7 +187,7 @@
     },
     "cocacolazerosugarsoftdrinkcan300ml": {
         "title": "Coca-Cola Zero Sugar Soft Drink Can (300 ml)",
-        "price": 39,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Coca-Cola%20Zero%20Sugar%20Soft%20Drink%20Can%20(300%20ml)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1104,7 +1104,7 @@
     },
     "freshappleroyalgalaregular": {
         "title": "Fresh Apple Royal Gala - Regular",
-        "price": 90,
+        "price": 95,
         "link": "https://www.amazon.in/s?k=Fresh%20Apple%20Royal%20Gala%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -1152,9 +1152,9 @@
     },
     "freshfig": {
         "title": "Fresh Fig",
-        "price": 54,
+        "price": 40,
         "link": "https://www.amazon.in/s?k=Fresh%20Fig&tag=flashsale069-21",
-        "mega_alert_sent": false
+        "mega_alert_sent": true
     },
     "freshdragonfruitredfleshindian1pc": {
         "title": "Fresh Dragon Fruit Red Flesh - Indian (1 Pc)",
@@ -1200,7 +1200,7 @@
     },
     "freshreddeliciousappleregular": {
         "title": "Fresh Red Delicious Apple - Regular",
-        "price": 116,
+        "price": 188,
         "link": "https://www.amazon.in/s?k=Fresh%20Red%20Delicious%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -2952,7 +2952,7 @@
     },
     "durexintenseviberingcondom1pc": {
         "title": "Durex Intense Vibe Ring Condom (1 Pc)",
-        "price": 749,
+        "price": 487,
         "link": "https://www.amazon.in/s?k=Durex%20Intense%20Vibe%20Ring%20Condom%20(1%20Pc)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -3156,7 +3156,7 @@
     },
     "freshguavaamrudh500g": {
         "title": "Fresh Guava (Amrudh) (500 g)",
-        "price": 28,
+        "price": 46,
         "link": "https://www.amazon.in/s?k=Fresh%20Guava%20(Amrudh)%20(500%20g)&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -6026,6 +6026,12 @@
         "title": "Beastlife Performance Whey Protein Blend Powder (1 kg)",
         "price": 2299,
         "link": "https://www.amazon.in/s?k=Beastlife%20Performance%20Whey%20Protein%20Blend%20Powder%20(1%20kg)&tag=flashsale069-21",
+        "mega_alert_sent": false
+    },
+    "godrejfabliquiddetergentrefillpouch2l": {
+        "title": "Godrej Fab Liquid Detergent Refill Pouch (2 L)",
+        "price": 216,
+        "link": "https://www.amazon.in/s?k=Godrej%20Fab%20Liquid%20Detergent%20Refill%20Pouch%20(2%20L)&tag=flashsale069-21",
         "mega_alert_sent": false
     }
 }
