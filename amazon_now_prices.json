@@ -1122,7 +1122,7 @@
     },
     "freshroyalgalaappleregular": {
         "title": "Fresh Royal Gala Apple - Regular",
-        "price": 145,
+        "price": 166,
         "link": "https://www.amazon.in/s?k=Fresh%20Royal%20Gala%20Apple%20-%20Regular&tag=flashsale069-21",
         "mega_alert_sent": true
     },
@@ -2256,7 +2256,7 @@
     },
     "ifbfreshcatchmediumprawns200g": {
         "title": "IFB Fresh Catch Medium Prawns (200 g)",
-        "price": 172,
+        "price": 176,
         "link": "https://www.amazon.in/s?k=IFB%20Fresh%20Catch%20Medium%20Prawns%20(200%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
     },
@@ -6039,5 +6039,11 @@
         "price": 49,
         "link": "https://www.amazon.in/s?k=Healthy%20Master%20Palak%20Chips%20(30%20g)&tag=flashsale069-21",
         "mega_alert_sent": false
+    },
+    "skoretimelessclimaxdelaycondoms": {
+        "title": "Skore Time Less Climax Delay Condoms",
+        "price": 57,
+        "link": "https://www.amazon.in/s?k=Skore%20Time%20Less%20Climax%20Delay%20Condoms&tag=flashsale069-21",
+        "mega_alert_sent": true
     }
 }
